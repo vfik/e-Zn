@@ -17,12 +17,17 @@ endwhile;
 
 <!-- Begin Page Content -->
 
-<div class="container">
-	<div class="row">
-		<div class="col-md-12">
-			<h1>Energy into Matter</h1>
+<div class="slider">
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Energy into Matter</h1>
+			</div>
 		</div>
 	</div>
+
+
 </div>
 
 <!-- End Page Content -->
