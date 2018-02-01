@@ -33,28 +33,24 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<a class="skip-link screen-reader-text sr-only" href="#content"><?php esc_html_e( 'Skip to content',
 		'understrap' ); ?></a>
 
-		<nav class="navbar navbar-expand-md">
-
-		<div class="container">
+		<div class="container header">
 			<div class="row">
-				<div class="col-md-4 logoCol">
+				<div class="col-md-3 logoCol">
 					<a href="/" class="logoA">
 						<h2>e-Zn</h2>
 					</a>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-9 linksCol">
 					<div class="links">
 						<a href="#">Benefits of Zinc</a>
-						<a href="#">Our Technology</a>
+						<a href="#">Technology</a>
 						<a href="#">Company</a>
-						<a href="#">News</a>
+						<!-- <a href="#">News</a> -->
 						<a href="#">Careers</a>
 						<a href="#">Contact</a>
 					</div>
 				</div>
 			</div>
 		</div>
-
-		</nav><!-- .site-navigation -->
 
 	</div><!-- .wrapper-navbar end -->
