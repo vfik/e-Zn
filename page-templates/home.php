@@ -20,9 +20,20 @@ endwhile;
 <div class="slider">
 
 	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<h1>Energy into Matter</h1>
+		<div class="row justify-content-start text">
+			<div class="col-md-8">
+				<div class="content">
+					<h1>Energy into Matter</h1>
+					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal.  The technology provides real  economical storage of energy due to the low cost of zinc and its storage. </p>
+					<a href="#">Explore our technology</a>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-end image">
+			<div class="col-md-6">
+				<div class="block">
+
+				</div>
 			</div>
 		</div>
 	</div>
