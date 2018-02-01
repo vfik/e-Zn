@@ -9474,6 +9474,27 @@ a.skip-link {
 .gallery-caption {
   display: block; }
 
+#wrapper-navbar .header {
+  padding: 1rem 15px; }
+  #wrapper-navbar .header .logoCol .logoA h2 {
+    font-size: 3rem;
+    margin: 0; }
+  #wrapper-navbar .header .logoCol .logoA .logoA:hover {
+    text-decoration: none; }
+  #wrapper-navbar .header .linksCol {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; }
+    #wrapper-navbar .header .linksCol .links {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end; }
+      #wrapper-navbar .header .linksCol .links a {
+        padding: 0 1rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 1rem; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
