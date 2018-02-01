@@ -5,14 +5,15 @@
     padding: 1rem 15px;
 
     .logoCol{
-      .logoA {
+      a.logoA {
+        color:#333;
         h2 {
           font-size: 3rem;
           margin: 0;
         }
-        .logoA:hover {
-          text-decoration: none;
-        }
+      }
+      a.logoA:hover {
+        text-decoration: none;
       }
     }
     .linksCol {
@@ -26,6 +27,7 @@
         justify-content: flex-end;
 
         a {
+          color:#555;
           padding: 0 1rem;
           text-transform: uppercase;
           letter-spacing: 1px;
