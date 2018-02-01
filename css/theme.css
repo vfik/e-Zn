@@ -9508,6 +9508,14 @@ a.skip-link {
   .slider .block {
     background: #222;
     height: 500px; }
+  .slider .colContent {
+    background: #fff;
+    margin-top: -250px;
+    padding: 30px 45px; }
+    .slider .colContent .content h1 {
+      margin-bottom: 1rem; }
+    .slider .colContent .content p {
+      font-size: 20px; }
 
 /*
 * Use existing Bootstrap 4 classes and

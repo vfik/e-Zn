@@ -21,7 +21,7 @@ endwhile;
 
 	<div class="container">
 		<div class="row justify-content-end image">
-			<div class="col-md-9 colBlock">
+			<div class="col-md-12 colBlock">
 				<div class="block">
 
 				</div>
