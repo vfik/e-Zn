@@ -24,9 +24,11 @@
 </head>
 <body>
 <?php while ( have_posts() ) : the_post(); ?>
+<!-- Begin Page Content -->
 
-	<?php get_template_part( 'loop-templates/content', 'blank' ); ?>
+	<h1>Energy into matter</h1>
 
+<!-- End Page Content -->
 <?php endwhile; // end of the loop. ?>
 <?php wp_footer(); ?>
 </body>
