@@ -32,7 +32,7 @@ endwhile;
 				<div class="content">
 					<h1>Energy into Matter</h1>
 					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p>
-					<a href="#">Explore our technology <i class="fal fa-long-arrow-right"></i></a>
+					<a href="#">Explore our technology ></a>
 				</div>
 			</div>
 		</div>
