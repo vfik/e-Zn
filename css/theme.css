@@ -9503,19 +9503,18 @@ a.skip-link {
         text-decoration: none;
         border-bottom: 1px solid #555; }
 
-.slider {
-  padding: 1rem 0; }
-  .slider .block {
-    background: #222;
-    height: 500px; }
-  .slider .colContent {
-    background: #fff;
-    margin-top: -250px;
-    padding: 30px 45px; }
-    .slider .colContent .content h1 {
-      margin-bottom: 1rem; }
-    .slider .colContent .content p {
-      font-size: 24px; }
+.slider .block {
+  background: #222;
+  height: 550px; }
+
+.slider .colContent {
+  background: #fff;
+  margin-top: -210px;
+  padding: 30px 45px; }
+  .slider .colContent .content h1 {
+    margin-bottom: 1rem; }
+  .slider .colContent .content p {
+    font-size: 24px; }
 
 /*
 * Use existing Bootstrap 4 classes and
