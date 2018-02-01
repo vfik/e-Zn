@@ -13,5 +13,14 @@ get_header();
 while ( have_posts() ) : the_post();
 	get_template_part( 'loop-templates/content', 'empty' );
 endwhile;
+?>
+
+<!-- Begin Page Content -->
+
+	<h1>Energy into matter</h1>
+
+<!-- End Page Content -->
+
+<?php
 
 get_footer();
