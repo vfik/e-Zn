@@ -31,8 +31,8 @@ endwhile;
 			<div class="col-md-8 colContent">
 				<div class="content">
 					<h1>Energy into Matter</h1>
-					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal.  The technology provides real  economical storage of energy due to the low cost of zinc and its storage. </p>
-					<a href="#">Explore our technology</a>
+					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p>
+					<a href="#">Explore our technology <i class="fal fa-long-arrow-right"></i></a>
 				</div>
 			</div>
 		</div>
