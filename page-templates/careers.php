@@ -40,8 +40,8 @@ endwhile;
 
 <div class="job postings">
 	<div class="container">
-		<div class="row">
-			<div class="col-md-8 justify-content-center">
+		<div class="row justify-content-center">
+			<div class="col-md-8">
 				<h2>Open Positions</h2>
 				<div class="jobs">
 					<div class="row">
@@ -70,8 +70,8 @@ endwhile;
 						</div>
 					</div>
 				</div>
+							<a href="#">Submit your application</a>
 			</div>
-			<a href="#">Submit your application</a>
 		</div>
 	</div>
 </div>

@@ -9595,7 +9595,8 @@ a.skip-link {
 .job {
   padding: 4rem 0; }
   .job h2 {
-    text-align: center; }
+    text-align: center;
+    margin-bottom: 2rem; }
 
 .jobs .row {
   border-bottom: 1px solid #ddd;
