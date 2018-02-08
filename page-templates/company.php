@@ -20,7 +20,7 @@ endwhile;
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<div class="box-lg">
+			<div class="boxlg">
 
 			</div>
 		</div>
