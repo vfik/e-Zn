@@ -9540,8 +9540,7 @@ a.skip-link {
   height: 425px; }
 
 .companysub {
-  background: #f0f0f0;
-  width: 800px; }
+  background: #f0f0f0; }
   .companysub .content {
     padding: 3rem 2rem;
     max-width: 570px;
@@ -9555,6 +9554,10 @@ a.skip-link {
     margin-bottom: 1rem; }
   .about-intro .copy p {
     font-size: 20px; }
+
+.img-label {
+  position: relative;
+  top: 90px; }
 
 .project {
   padding-top: 90px;

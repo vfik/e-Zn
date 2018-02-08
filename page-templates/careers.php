@@ -17,14 +17,36 @@ endwhile;
 
 <!-- Begin Page Content -->
 
-<div class="container">
-	<div class="row">
-		<div class="col-md-6">
-			<h2>benefits of zinc</h2>
-			<p>high energy density</p>
-			<p>non-toxic</p>
-			<p>Low cost: ~ $2/kg</p>
-			<p>Abundant</p>
+<div class="careers-intro">
+	<div class="container">
+		<div class="row bg">
+			<div class="col-md-8">
+				<div class="bg-top">
+					<div class="content">
+						<h2>Join a materials science revolution</h2>
+						<p>e-Zn is looking for the most qualified scientists for the project. They will be working on zinc.</p>
+						<p>e-Zn is looking for the most qualified scientists for the project.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row img justify-content-end">
+			<div class="col-md-4">
+				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="job postings">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2>Open Job Positions</h2>
+				<p>Scientist</p>
+				<p>Scientist</p>
+				<p>Scientist</p>				
+			</div>
 		</div>
 	</div>
 </div>
