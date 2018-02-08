@@ -9538,6 +9538,13 @@ a.skip-link {
   background: #222222;
   height: 570px; }
 
+.benefits {
+  padding: 3rem 0; }
+  .benefits .point {
+    padding: 1rem; }
+    .benefits .point h2 {
+      margin-bottom: 1rem; }
+
 .tech-sub-row {
   margin-bottom: -50px; }
 

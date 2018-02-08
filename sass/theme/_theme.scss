@@ -100,6 +100,18 @@
   height: 570px;
 }
 
+// benefits
+
+.benefits {
+  padding: 3rem 0;
+  .point {
+    padding: 1rem;
+    h2 {
+      margin-bottom: 1rem;
+    }
+  }
+}
+
 // technology
 
 .tech-sub-row {
