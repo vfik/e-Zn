@@ -9555,6 +9555,9 @@ a.skip-link {
   .technology-spread .right p, .technology-spread .right ul {
     font-size: 20px; }
 
+.charging-stations .imgCol {
+  z-index: 1; }
+
 .charging-stations .bg {
   background: #f0f0f0;
   margin-left: -285px;
@@ -9563,6 +9566,10 @@ a.skip-link {
     padding: 3rem 2rem;
     max-width: 570px;
     margin-left: auto; }
+    .charging-stations .bg .content h2 {
+      margin-bottom: 2rem; }
+    .charging-stations .bg .content p {
+      font-size: 20px; }
 
 .companyslider {
   background: #222;

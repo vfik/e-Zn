@@ -86,7 +86,7 @@ endwhile;
 				<div class="bg">
 					<div class="content">
 						<h3>e-Zn reactors are the ideal solution for energy storage of EV charging stations</h3>
-						<p>explain this process, using solar panels.</p>
+						<p>explain this process, using solar panels. Why is e-Zn the ideal solution here?</p>
 					</div>
 				</div>
 			</div>
