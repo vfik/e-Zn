@@ -9580,7 +9580,8 @@ a.skip-link {
 .careers-intro .bg-top {
   background: #f0f0f0; }
   .careers-intro .bg-top .content {
-    padding: 3rem; }
+    padding: 3rem;
+    max-width: 570px; }
     .careers-intro .bg-top .content h1 {
       margin-bottom: 2rem; }
 

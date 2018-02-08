@@ -31,7 +31,7 @@ endwhile;
 			</div>
 		</div>
 		<div class="row img justify-content-end">
-			<div class="col-md-4">
+			<div class="col-md-5">
 				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
 			</div>
 		</div>
