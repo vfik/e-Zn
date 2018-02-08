@@ -9538,6 +9538,9 @@ a.skip-link {
   background: #222222;
   height: 570px; }
 
+.tech-sub-row {
+  margin-bottom: -50px; }
+
 .technology-spread .left {
   display: flex;
   flex-direction: column;
