@@ -9540,13 +9540,14 @@ a.skip-link {
 .contactIntro {
   padding-top: 100px; }
   .contactIntro .details {
-    background: #ddd;
+    background: #f0f0f0;
     width: 800px;
     margin-right: auto;
     position: relative;
     right: 245px;
     top: -100px;
-    z-index: -1; }
+    z-index: -1;
+    padding: 3rem 2rem; }
     .contactIntro .details .content {
       max-width: 475px;
       margin-left: auto; }
