@@ -19,12 +19,19 @@ endwhile;
 
 <div class="container">
 	<div class="row">
+		<div class="col-md-12">
+			<div class="box-lg">
+
+			</div>
+		</div>
+	</div>
+	<div class="row justify-content-end">
 		<div class="col-md-6">
-			<h2>benefits of zinc</h2>
-			<p>high energy density</p>
-			<p>non-toxic</p>
-			<p>Low cost: ~ $2/kg</p>
-			<p>Abundant</p>
+			<div class="lg-full-label">
+				<div class="content">
+					<h2>e-Zn laboratories located in Toronto, Canada.</h2>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
