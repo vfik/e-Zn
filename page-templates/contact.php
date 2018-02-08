@@ -149,7 +149,7 @@ endwhile;
 			<div class="col-md-6 info">
 				<div class="details">
 					<div class="content">
-						<h2> Our office and laboratory facility</h2>
+						<h1> Our office and laboratory facility</h1>
 						<p>e-Zn Inc.</p>
 						<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
 						<p>T - 416-000-0000</p>

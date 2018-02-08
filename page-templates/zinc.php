@@ -19,6 +19,25 @@ endwhile;
 
 <div class="container">
 	<div class="row">
+		<div class="col-md-12">
+			<div class="companyslider">
+
+			</div>
+		</div>
+	</div>
+	<div class="row justify-content-end">
+		<div class="col-md-6">
+			<div class="companysub">
+				<div class="content">
+					<h1>Benefits of Zinc for energy storage</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
 		<div class="col-md-6">
 			<p>images of zinc slab</p>
 			<h2>benefits of zinc</h2>

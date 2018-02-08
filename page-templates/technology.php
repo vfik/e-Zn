@@ -29,7 +29,7 @@ endwhile;
 		<div class="col-md-6">
 			<div class="companysub">
 				<div class="content">
-					<h2>e-Zn reactor is a breakthrough enegy storage solution</h2>
+					<h1>e-Zn reactor is a breakthrough enegy storage solution</h1>
 				</div>
 			</div>
 		</div>

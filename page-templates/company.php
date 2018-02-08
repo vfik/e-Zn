@@ -29,7 +29,7 @@ endwhile;
 		<div class="col-md-6">
 			<div class="companysub">
 				<div class="content">
-					<h2>e-Zn laboratories located in Toronto, Canada.</h2>
+					<h1>e-Zn laboratories located in Toronto, Canada.</h1>
 				</div>
 			</div>
 		</div>
