@@ -41,11 +41,36 @@ endwhile;
 <div class="job postings">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
-				<h2>Open Job Positions</h2>
-				<p>Scientist</p>
-				<p>Scientist</p>
-				<p>Scientist</p>
+			<div class="col-md-8">
+				<h2>Open Positions</h2>
+				<div class="jobs">
+					<div class="row">
+						<div class="col-md-8">
+							<h3>Job Title</h3>
+						</div>
+						<div class="col-md-4">
+							<h3>Location</h3>
+						</div>
+					</div>
+					<!--  -->
+					<div class="row">
+						<div class="col-md-8">
+							<h3>Zinc Scientist</h3>
+						</div>
+						<div class="col-md-4">
+							<h3>Toronto, Canada</h3>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-8">
+							<h3>Engineering Manager</h3>
+						</div>
+						<div class="col-md-4">
+							<h3>Toronto, Canada</h3>
+						</div>
+					</div>
+				</div>
+
 			</div>
 		</div>
 	</div>
