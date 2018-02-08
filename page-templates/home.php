@@ -28,7 +28,7 @@ endwhile;
 			</div>
 		</div>
 		<div class="row justify-content-start text">
-			<div class="col-md-8 colContent">
+			<div class="col-md-6 colContent">
 				<div class="content">
 					<h1>Energy into Matter</h1>
 					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p>
