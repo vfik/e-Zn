@@ -20,10 +20,10 @@ endwhile;
 <div class="careers-intro">
 	<div class="container">
 		<div class="row bg">
-			<div class="col-md-8">
+			<div class="col-md-10">
 				<div class="bg-top">
 					<div class="content">
-						<h2>Join a materials science revolution</h2>
+						<h1>Join a materials science revolution</h1>
 						<p>e-Zn is looking for the most qualified scientists for the project. They will be working on zinc.</p>
 						<p>e-Zn is looking for the most qualified scientists for the project.</p>
 					</div>
@@ -45,7 +45,7 @@ endwhile;
 				<h2>Open Job Positions</h2>
 				<p>Scientist</p>
 				<p>Scientist</p>
-				<p>Scientist</p>				
+				<p>Scientist</p>
 			</div>
 		</div>
 	</div>

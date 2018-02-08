@@ -9577,6 +9577,17 @@ a.skip-link {
 .about-history {
   padding: 8rem 0; }
 
+.careers-intro .bg-top {
+  background: #f0f0f0; }
+  .careers-intro .bg-top .content {
+    padding: 3rem; }
+    .careers-intro .bg-top .content h1 {
+      margin-bottom: 2rem; }
+
+.careers-intro .row.img {
+  margin-top: -90px;
+  margin-top: -180px; }
+
 .paddingZero {
   padding: 0; }
 
