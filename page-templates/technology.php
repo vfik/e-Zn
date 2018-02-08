@@ -38,7 +38,7 @@ endwhile;
 
 <div class="technology-spread">
 	<div class="container">
-		<div class="row">
+		<div class="row first">
 			<div class="col-md-6 left">
 				<div class="left-content">
 					<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
@@ -54,7 +54,7 @@ endwhile;
 				</div>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row second">
 			<div class="col-md-6 right">
 				<div class="right-content">
 					<h2>The e-Zn reactor is an evolution beyond the battery.</h2>
@@ -85,7 +85,7 @@ endwhile;
 			<div class="col-md-6">
 				<div class="bg">
 					<div class="content">
-						<h3>e-Zn reactors are the ideal solution for energy storage of EV charging stations</h3>
+						<h2>e-Zn reactors are the ideal solution for energy storage of EV charging stations</h2>
 						<p>explain this process, using solar panels. Why is e-Zn the ideal solution here?</p>
 					</div>
 				</div>
