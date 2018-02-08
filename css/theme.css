@@ -9474,34 +9474,37 @@ a.skip-link {
 .gallery-caption {
   display: block; }
 
-#wrapper-navbar .header {
-  padding: 1rem 15px; }
-  #wrapper-navbar .header .logoCol a.logoA {
-    color: #333; }
-    #wrapper-navbar .header .logoCol a.logoA h2 {
-      font-size: 3rem;
-      margin: 0; }
-  #wrapper-navbar .header .logoCol a.logoA:hover {
-    text-decoration: none; }
-  #wrapper-navbar .header .linksCol {
-    display: flex;
-    flex-direction: column;
-    justify-content: center; }
-    #wrapper-navbar .header .linksCol .links {
+#wrapper-navbar {
+  border-bottom: 1px solid #d1d1d1;
+  margin-bottom: 2rem; }
+  #wrapper-navbar .header {
+    padding: 1rem 15px; }
+    #wrapper-navbar .header .logoCol a.logoA {
+      color: #333; }
+      #wrapper-navbar .header .logoCol a.logoA h2 {
+        font-size: 3rem;
+        margin: 0; }
+    #wrapper-navbar .header .logoCol a.logoA:hover {
+      text-decoration: none; }
+    #wrapper-navbar .header .linksCol {
       display: flex;
-      flex-direction: row;
-      justify-content: flex-end; }
-      #wrapper-navbar .header .linksCol .links a {
-        color: #555;
-        margin: 0 1rem;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        font-size: 1rem;
-        padding: 3px 0;
-        border-bottom: 1px solid #fff; }
-      #wrapper-navbar .header .linksCol .links a:hover {
-        text-decoration: none;
-        border-bottom: 1px solid #555; }
+      flex-direction: column;
+      justify-content: center; }
+      #wrapper-navbar .header .linksCol .links {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end; }
+        #wrapper-navbar .header .linksCol .links a {
+          color: #555;
+          margin: 0 1rem;
+          text-transform: uppercase;
+          letter-spacing: 1px;
+          font-size: 1rem;
+          padding: 3px 0;
+          border-bottom: 1px solid #fff; }
+        #wrapper-navbar .header .linksCol .links a:hover {
+          text-decoration: none;
+          border-bottom: 1px solid #555; }
 
 .slider .colBlock {
   background: #232222; }
