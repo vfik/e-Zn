@@ -130,7 +130,8 @@ endwhile;
 			        var map = new google.maps.Map(document.getElementById('map'), {
 			          zoom: 14,
 			          center: ezn,
-								styles : styles.silver
+								styles : styles.silver,
+								disableDefaultUI: true
 			        });
 			        var marker = new google.maps.Marker({
 			          position: ezn,
