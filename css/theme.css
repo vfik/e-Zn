@@ -9555,6 +9555,9 @@ a.skip-link {
   .technology-spread .right p, .technology-spread .right ul {
     font-size: 20px; }
 
+.technology-spread .second {
+  padding: 3rem 0; }
+
 .charging-stations .imgCol {
   z-index: 1; }
 
