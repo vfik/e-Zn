@@ -141,9 +141,17 @@
   .btf {
     z-index: -1;
   }
+  .bg-three-four {
+    background: #f0f0f0;
+    margin-left: -285px;
+    margin-right: -285px;
+    margin-top: -90px;
+    padding: 3rem 2rem;
+  }
   .content {
-      margin-left: auto;
-      max-width: 475px;
+    margin-right: auto;
+    max-width: 475px;
+    margin-left: 285px;
   }
 }
 

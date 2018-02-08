@@ -9562,9 +9562,16 @@ a.skip-link {
   padding-top: 90px; }
   .project .btf {
     z-index: -1; }
+  .project .bg-three-four {
+    background: #f0f0f0;
+    margin-left: -285px;
+    margin-right: -285px;
+    margin-top: -90px;
+    padding: 3rem 2rem; }
   .project .content {
-    margin-left: auto;
-    max-width: 475px; }
+    margin-right: auto;
+    max-width: 475px;
+    margin-left: 285px; }
 
 .paddingZero {
   padding: 0; }
