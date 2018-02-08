@@ -26,28 +26,28 @@ endwhile;
 					<div id="map"></div>
 			    <script>
 			      function initMap() {
-			        var uluru = {lat: -25.363, lng: 131.044};
+			        var ezn = {lat: 43.633409, lng: -79.528817};
 			        var map = new google.maps.Map(document.getElementById('map'), {
 			          zoom: 4,
-			          center: uluru
+			          center: ezn
 			        });
 			        var marker = new google.maps.Marker({
-			          position: uluru,
+			          position: ezn,
 			          map: map
 			        });
 			      }
 			    </script>
 
-<!--  -->
-<script async defer
-src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBL-T-9TVGiW0q-65cAq5dfIIP-_jncPY4&callback=initMap">
-</script>
+					<!--  -->
+					<script async defer
+					src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBL-T-9TVGiW0q-65cAq5dfIIP-_jncPY4&callback=initMap">
+					</script>
 				</div>
 			</div>
 			<div class="col-md-6 info">
 				<div class="details">
 					<h2>office and labratory facility</h2>
-					<p>26 Advance Rd<br>Toronto, Ontario<br>Canada, M8X 2T7</p>
+					<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
 					<p>T - 416-000-0000</p>
 					<p>E - info@e-zn.com</p>
 				</div>
