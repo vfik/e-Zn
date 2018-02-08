@@ -9534,15 +9534,12 @@ a.skip-link {
 .boxlg {
   height: 570px; }
 
-.contactIntro .info .details {
-  padding: 2rem; }
-  .contactIntro .info .details h2 {
-    margin-bottom: 2rem;
-    font-size: 2.65rem; }
+.paddingZero {
+  padding: 0; }
 
-.contactForm .cForm {
-  padding: 2rem; }
-  .contactForm .cForm h2 {
+.contactIntro .details, .contactIntro .cForm, .contactForm .details, .contactForm .cForm {
+  padding: 3rem 2rem; }
+  .contactIntro .details h2, .contactIntro .cForm h2, .contactForm .details h2, .contactForm .cForm h2 {
     margin-bottom: 2rem;
     font-size: 2.65rem; }
 
