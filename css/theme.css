@@ -9547,25 +9547,23 @@ a.skip-link {
     max-width: 570px;
     margin-top: -90px; }
 
-.about-intro {
-  padding: 3rem 0; }
-  .about-intro .copy {
-    padding: 2rem; }
-    .about-intro .copy h2 {
-      margin-bottom: 2rem; }
-    .about-intro .copy h4 {
-      margin-bottom: 1rem; }
-    .about-intro .copy p {
-      font-size: 20px; }
+.about-intro .copy {
+  padding: 2rem; }
+  .about-intro .copy h2 {
+    margin-bottom: 2rem; }
+  .about-intro .copy h4 {
+    margin-bottom: 1rem; }
+  .about-intro .copy p {
+    font-size: 20px; }
 
 .project {
-  padding-top: 90px; }
+  padding-top: 90px;
+  padding-top: 180px; }
   .project .btf {
     z-index: -1; }
   .project .bg-three-four {
     background: #f0f0f0;
     margin-left: -285px;
-    margin-right: -285px;
     margin-top: -90px;
     padding: 3rem 2rem; }
   .project .content {

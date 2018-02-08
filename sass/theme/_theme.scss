@@ -117,7 +117,7 @@
 }
 
 .about-intro {
-    padding: 3rem 0;
+    // padding: 3rem 0;
 
     .copy {
       padding: 2rem;
@@ -138,13 +138,14 @@
 
 .project {
   padding-top: 90px;
+  padding-top: 180px;
   .btf {
     z-index: -1;
   }
   .bg-three-four {
     background: #f0f0f0;
     margin-left: -285px;
-    margin-right: -285px;
+    // margin-right: -285px;
     margin-top: -90px;
     padding: 3rem 2rem;
   }
