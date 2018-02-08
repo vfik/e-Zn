@@ -44,7 +44,9 @@ endwhile;
 					<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
 					<h3>Gregory X. Zhang</h3>
 					<h4>Ph.D. in Materials Science and Electrochemistry</h4>
-					<p>Bio about greg, in here wil will tell a short story and make note of the books he authored and his career. Greg's accomplishments are revolutionizing energy storage.</p>
+					<p>Dr. Zhang is a visionary and seasoned technology developer.  Prior to founding e-Zn, Dr. Zhang worked for 20 years in Teck Resources as a scientist in the first ten years and as manager of R&D for the last ten when Dr. Zhang was responsible for leading a team of scientists and engineers in the development of new zinc products for battery applications and was deeply engaged in the development and commercialization of various types of zinc battery storage technologies.</p>
+					<p>Dr. Zhang is an acknowledged world-expert in zinc electrochemistry and the author of the book “Corrosion and Electrochemistry of Zinc”, which has been the most comprehensive book on the subject since its publication in 1996. </p>
+					<p>Dr. Zhang has over 50 peer-reviewed publications and holds several patents in the field. Dr. Zhang received his PhD in Electrochemistry and Materials Science from the Free University of Brussels and held post-doctoral positions at MIT and Columbia University.</p>
 				</div>
 			</div>
 			<div class="col-md-6">
