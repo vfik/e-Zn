@@ -17,7 +17,7 @@ endwhile;
 
 <!-- Begin Page Content -->
 
-<div class="contact">
+<div class="contactIntro">
 	<div class="container">
 		<div class="row mapRow">
 			<div class="col-md-6">
@@ -44,11 +44,13 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBL-T-9TVGiW0q-65cAq5dfIIP
 </script>
 				</div>
 			</div>
-			<div class="col-md-6">
-				<h2>office and labratory facility</h2>
-				<p>26 Advance Rd<br>Toronto, Ontario<br>Canada, M8X 2T7</p>
-				<p>T - 416-000-0000</p>
-				<p>E - info@e-zn.com</p>
+			<div class="col-md-6 info">
+				<div class="details">
+					<h2>office and labratory facility</h2>
+					<p>26 Advance Rd<br>Toronto, Ontario<br>Canada, M8X 2T7</p>
+					<p>T - 416-000-0000</p>
+					<p>E - info@e-zn.com</p>
+				</div>
 			</div>
 		</div>
 	</div>
