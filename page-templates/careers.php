@@ -24,7 +24,7 @@ endwhile;
 				<div class="bg-top">
 					<div class="content">
 						<h1>Join a materials science revolution</h1>
-						<p>e-Zn is looking for the most qualified scientists for the project. They will be working on zinc.</p>
+						<p>e-Zn is looking for the most qualified scientists for the project. They will be working on zinc. We have state of the art facilities.</p>
 						<p>e-Zn is looking for the most qualified scientists for the project.</p>
 					</div>
 				</div>
@@ -55,18 +55,18 @@ endwhile;
 					<!--  -->
 					<div class="row">
 						<div class="col-md-8">
-							<h3>Zinc Scientist</h3>
+							<p>Zinc Scientist</p>
 						</div>
 						<div class="col-md-4">
-							<h3>Toronto, Canada</h3>
+							<p>Toronto, Canada</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-8">
-							<h3>Engineering Manager</h3>
+							<p>Engineering Manager</p>
 						</div>
 						<div class="col-md-4">
-							<h3>Toronto, Canada</h3>
+							<p>Toronto, Canada</p>
 						</div>
 					</div>
 				</div>

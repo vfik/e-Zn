@@ -9589,6 +9589,11 @@ a.skip-link {
   margin-top: -90px;
   margin-top: -180px; }
 
+.jobs .row {
+  border-bottom: 1px solid #ddd;
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
 .paddingZero {
   padding: 0; }
 
