@@ -62,10 +62,10 @@ endwhile;
 				<p><strong>Image label</strong></p>
 				<p>short description about whats going on in this pic with the solar panels.</p>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-6 btf">
 				<div class="bg-three-four">
 					<div class="content">
-						<h2>STDC project</h2>
+						<h2>SDTC project</h2>
 						<p>Demonstration of the application feasibility of solar energy storage in zinc metal with Zn-Reactor</p>
 						<p>1 kW/24 hours system. Three industrial partners Canadian solar, newesolar and broy engineering.</p>
 						<p>funding $1.5M and project started October 2016.</p>

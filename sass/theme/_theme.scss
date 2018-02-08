@@ -136,6 +136,17 @@
     }
 }
 
+.project {
+  padding-top: 90px;
+  .btf {
+    z-index: -1;
+  }
+  .content {
+      margin-left: auto;
+      max-width: 475px;
+  }
+}
+
 // contact
 
 .paddingZero {

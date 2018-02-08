@@ -9558,6 +9558,14 @@ a.skip-link {
     .about-intro .copy p {
       font-size: 20px; }
 
+.project {
+  padding-top: 90px; }
+  .project .btf {
+    z-index: -1; }
+  .project .content {
+    margin-left: auto;
+    max-width: 475px; }
+
 .paddingZero {
   padding: 0; }
 
