@@ -41,20 +41,21 @@ endwhile;
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-3 box">
-
+		<div class="col-md-6 boxCol">
+			<div class="row">
+				<div class="col-md-6"></div>
+				<div class="col-md-6 box"></div>
+				<div class="col-md-6 box"></div>
+				<div class="col-md-6"></div>
+				<div class="col-md-6"></div>
+				<div class="col-md-6 box"></div>
+			</div>
 		</div>
-		<div class="col-md-9">
-
+		<div class="col-md-6">
 			<h2>Benefits of Zinc</h2>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-3">
-
-		</div>
-		<div class="col-md-3 box">
-
+			<p>on the left is zinc images + lab images</p>
+			<p>zinc is great for these main points</p>
+			<a href="#">Benefits of Zinc</a>
 		</div>
 	</div>
 	<div class="row">
