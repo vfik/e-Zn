@@ -44,10 +44,10 @@ endwhile;
 		<div class="col-md-3 box">
 
 		</div>
-		<div class="col-md-3">
+		<div class="col-md-1">
 
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-7">
 			<h2>Benefits of Zinc</h2>
 		</div>
 	</div>
@@ -55,7 +55,7 @@ endwhile;
 		<div class="col-md-3">
 
 		</div>
-		<div class="col-md-3 box">
+		<div class="col-md-6 box">
 
 		</div>
 	</div>
