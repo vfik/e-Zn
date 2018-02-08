@@ -17,6 +17,25 @@ endwhile;
 
 <!-- Begin Page Content -->
 
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="companyslider">
+
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<div class="companysub">
+				<div class="content">
+					<h2>e-Zn reactor is a breakthrough enegy storage solution</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="technology-spread">
 	<div class="container">
 		<div class="row">
@@ -38,7 +57,7 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6 right">
 				<div class="right-content">
-					<h3>The e-Zn reactor is an evolution beyond the battery.</h3>
+					<h2>The e-Zn reactor is an evolution beyond the battery.</h2>
 					<p>Energy capacity does not fade with time and does not change with temperature. The e-Zn reactor is a long-life storage solution that can operate in temperatures ranging from -45°C to 70°C.</p>
 					<p>More advantages over batteries:</p>
 					<ul>

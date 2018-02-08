@@ -9549,7 +9549,7 @@ a.skip-link {
     margin-bottom: 2rem; }
   .technology-spread .right h2 {
     margin-bottom: 2rem; }
-  .technology-spread .right p {
+  .technology-spread .right p, .technology-spread .right ul {
     font-size: 20px; }
 
 .companyslider {
