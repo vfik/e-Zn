@@ -64,7 +64,7 @@ endwhile;
 			</div>
 		</div>
 	</div>
-</div>	
+</div>
 </div>
 
 <div class="container">
@@ -75,19 +75,6 @@ endwhile;
 		<div class="col-md-6">
 			<h2>e-Zn's technology puts us at the forefront of zinc</h2>
 			<a href="#">View Technology</a>
-		</div>
-	</div>
-</div>
-
-<div class="container">
-	<div class="row">
-		<div class="col-md-6">
-			<p>images of zinc slab</p>
-			<h2>benefits of zinc</h2>
-			<p>high energy density</p>
-			<p>non-toxic</p>
-			<p>Low cost: ~ $2/kg</p>
-			<p>Abundant</p>
 		</div>
 	</div>
 </div>
