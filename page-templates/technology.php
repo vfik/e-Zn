@@ -36,9 +36,17 @@ endwhile;
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-6">
-				<h3>The e-Zn reactor is an evolution beyond the battery.</h3>
-				<p>talk about</p>
+			<div class="col-md-6 right">
+				<div class="right-content">
+					<h3>The e-Zn reactor is an evolution beyond the battery.</h3>
+					<p>Energy capacity does not fade with time and does not change with temperature. The e-Zn reactor is a long-life storage solution that can operate in temperatures ranging from -45°C to 70°C.</p>
+					<p>More advantages over batteries:</p>
+					<ul>
+						<li>Lower costs to scale up storage capacity</li>
+						<li>non-flammable</li>
+						<li>Readily recyclable by pouring out the metal with electrolyte</li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
