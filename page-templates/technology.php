@@ -67,11 +67,30 @@ endwhile;
 					</ul>
 				</div>
 			</div>
+			<div class="col-md-6">
+				<p>[insert chart to compare zn vs battery]</p>
+			</div>
 		</div>
 	</div>
 </div>
 
-
+<div class="charging-stations">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="">
+			</div>
+			<div class="col-md-6">
+				<div class="bg">
+					<div class="content">
+						<h3>EV charging with power from solar panel and energy from zinc metal</h3>
+						<p>explain this process</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 <!-- End Page Content -->
 
