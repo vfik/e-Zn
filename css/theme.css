@@ -9503,6 +9503,9 @@ a.skip-link {
         text-decoration: none;
         border-bottom: 1px solid #555; }
 
+.slider .colBlock {
+  background: #232222; }
+
 .slider .block {
   background: #222;
   height: 550px; }
@@ -9515,6 +9518,10 @@ a.skip-link {
     margin-bottom: 1rem; }
   .slider .colContent .content p {
     font-size: 24px; }
+
+.box {
+  background: #222222;
+  height: 285px; }
 
 /*
 * Use existing Bootstrap 4 classes and
