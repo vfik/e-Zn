@@ -94,6 +94,18 @@ endwhile;
 	</div>
 </div>
 
+<div class="container">
+	<div class="row">
+		<div class="col-md-6">
+			<h2>About our company</h2>
+			<a href="#">Learn More</a>
+		</div>
+	</div>
+	<div class="col-md-6">
+		<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
+	</div>
+</div>
+
 <!-- End Page Content -->
 
 <?php
