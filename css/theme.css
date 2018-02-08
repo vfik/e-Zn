@@ -9522,7 +9522,9 @@ a.skip-link {
 
 .homeCopy {
   padding: 6rem 3rem; }
-  .homeCopy p {
+  .homeCopy h2 {
+    margin-bottom: 2rem; }
+  .homeCopy p, .homeCopy ul, .homeCopy a {
     font-size: 20px; }
 
 .box {
