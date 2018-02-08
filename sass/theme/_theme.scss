@@ -3,7 +3,7 @@
 #wrapper-navbar {
   // border-bottom: 1px solid #999;
   border-bottom: 1px solid #d1d1d1;
-  margin-bottom: 2rem;  
+  margin-bottom: 2rem;
 
   .header {
     padding: 1rem 15px;
@@ -98,6 +98,28 @@
 .boxlg {
   background: #222222;
   height: 570px;
+}
+
+// technology
+
+.technology-spread {
+  .left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .right {
+    padding: 0 5rem;
+    img {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      margin-bottom: 2rem;
+    }
+    p {
+      font-size: 20px;
+    }
+  }
 }
 
 // company

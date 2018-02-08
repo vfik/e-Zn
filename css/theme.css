@@ -9538,6 +9538,20 @@ a.skip-link {
   background: #222222;
   height: 570px; }
 
+.technology-spread .left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.technology-spread .right {
+  padding: 0 5rem; }
+  .technology-spread .right img {
+    margin-bottom: 2rem; }
+  .technology-spread .right h2 {
+    margin-bottom: 2rem; }
+  .technology-spread .right p {
+    font-size: 20px; }
+
 .companyslider {
   background: #222;
   height: 425px; }
