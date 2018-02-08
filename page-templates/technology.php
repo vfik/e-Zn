@@ -17,17 +17,32 @@ endwhile;
 
 <!-- Begin Page Content -->
 
-<div class="container">
-	<div class="row">
-		<div class="col-md-6">
-			<h2>benefits of zinc</h2>
-			<p>high energy density</p>
-			<p>non-toxic</p>
-			<p>Low cost: ~ $2/kg</p>
-			<p>Abundant</p>
+<div class="technology-spread">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 left">
+				<div class="left-content">
+					<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
+				</div>
+			</div>
+			<div class="col-md-6 right">
+				<div class="right-content">
+					<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
+					<h2>The innovation</h2>
+					<p>Numerous attempts have been made to store energy in zinc metal in past six decades based on an approach where formation, storage and dissolution of zinc metal are conducted in different containers as illustrated in the figure.   None of these attempts was successful due to the problem has been associated with the transportation of solid metal between the different containers.  Jamming tends to occur in pipes, in pumps and in cells.</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6">
+				<h3>e-Zn abandoned the traditional approach of having to transport the zinc metal between different containers</h3>
+				<p>By placing all the elements for zinc formation, dissolution and stage within the same container therefore completely avoided the problem of jamming</p>
+			</div>
 		</div>
 	</div>
 </div>
+
+
 
 <!-- End Page Content -->
 
