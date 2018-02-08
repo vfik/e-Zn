@@ -59,8 +59,6 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6">
 				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
-				<p><strong>Image label</strong></p>
-				<p>short description about whats going on in this pic with the solar panels.</p>
 			</div>
 			<div class="col-md-6 btf">
 				<div class="bg-three-four">
@@ -75,6 +73,26 @@ endwhile;
 					<h4>Rooftop Installation in Toronto</h4>
 					<p>Rooftop Installation in Toronto</p>
 				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="about-history">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="bg-history">
+					<div class="content">
+						<h2>company history information</h2>
+						<p>talk about progress, how far we've come.</p>
+						<a href="#">Careers</a>
+						<a href="#">Contact</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
 			</div>
 		</div>
 	</div>
