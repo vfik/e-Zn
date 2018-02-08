@@ -20,6 +20,7 @@ endwhile;
 <div class="container">
 	<div class="row">
 		<div class="col-md-6">
+			<p>images of zinc slab</p>
 			<h2>benefits of zinc</h2>
 			<p>high energy density</p>
 			<p>non-toxic</p>

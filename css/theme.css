@@ -9549,12 +9549,14 @@ a.skip-link {
 
 .about-intro {
   padding: 3rem 0; }
-  .about-intro .copy h2 {
-    margin-bottom: 2rem; }
-  .about-intro .copy h4 {
-    margin-bottom: 1rem; }
-  .about-intro .copy p {
-    font-size: 20px; }
+  .about-intro .copy {
+    padding: 2rem; }
+    .about-intro .copy h2 {
+      margin-bottom: 2rem; }
+    .about-intro .copy h4 {
+      margin-bottom: 1rem; }
+    .about-intro .copy p {
+      font-size: 20px; }
 
 .paddingZero {
   padding: 0; }
