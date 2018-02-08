@@ -9555,10 +9555,14 @@ a.skip-link {
   .technology-spread .right p, .technology-spread .right ul {
     font-size: 20px; }
 
-.charging-stations .content {
-  padding: 3rem 2rem;
-  max-width: 570px;
-  margin-left: auto; }
+.charging-stations .bg {
+  background: #f0f0f0;
+  margin-left: -285px;
+  margin-top: -180px; }
+  .charging-stations .bg .content {
+    padding: 3rem 2rem;
+    max-width: 570px;
+    margin-left: auto; }
 
 .companyslider {
   background: #222;

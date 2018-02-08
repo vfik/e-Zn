@@ -76,8 +76,8 @@ endwhile;
 
 <div class="charging-stations">
 	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
+		<div class="row imgRow">
+			<div class="col-md-6 imgCol">
 				<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="">
 			</div>
 		</div>

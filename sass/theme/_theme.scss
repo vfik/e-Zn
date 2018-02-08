@@ -127,10 +127,17 @@
 }
 
 .charging-stations {
-  .content {
-    padding: 3rem 2rem;
-    max-width: 570px;
-    margin-left: auto;
+  .bg {
+    background: #f0f0f0;
+    margin-left: -285px;
+    // margin-top: -90px;
+    margin-top: -180px;
+
+    .content {
+      padding: 3rem 2rem;
+      max-width: 570px;
+      margin-left: auto;
+    }
   }
 }
 

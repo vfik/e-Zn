@@ -48,7 +48,7 @@ endwhile;
 				</div>
 			</div>
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/e-zn-solar-panels.jpg" alt="">
 			</div>
 		</div>
 	</div>
