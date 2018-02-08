@@ -23,6 +23,13 @@ endwhile;
 			<div class="col-md-6">
 				<div class="googleMap">
 
+					<style>
+						#map {
+							height: 400px;
+							width: 100%;
+						 }
+					</style>
+
 					<div id="map"></div>
 			    <script>
 			      function initMap() {
