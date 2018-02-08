@@ -9525,6 +9525,8 @@ a.skip-link {
 
 .contactIntro {
   padding: 2rem 0; }
+  .contactIntro .info .details {
+    padding: 2rem; }
 
 .contactForm {
   padding: 2rem 0; }

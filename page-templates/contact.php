@@ -25,7 +25,7 @@ endwhile;
 
 					<style>
 						#map {
-							height: 400px;
+							height: 350px;
 							width: 100%;
 						 }
 					</style>
@@ -35,7 +35,7 @@ endwhile;
 			      function initMap() {
 			        var ezn = {lat: 43.633409, lng: -79.528817};
 			        var map = new google.maps.Map(document.getElementById('map'), {
-			          zoom: 4,
+			          zoom: 14,
 			          center: ezn
 			        });
 			        var marker = new google.maps.Marker({
@@ -53,7 +53,7 @@ endwhile;
 			</div>
 			<div class="col-md-6 info">
 				<div class="details">
-					<h2>office and labratory facility</h2>
+					<h2> Our office and laboratory facility</h2>
 					<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
 					<p>T - 416-000-0000</p>
 					<p>E - info@e-zn.com</p>
