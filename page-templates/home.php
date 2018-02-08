@@ -46,8 +46,7 @@ endwhile;
 		</div>
 		<div class="col-md-6 homeCopy">
 			<h2>Benefits of using Zinc for energy storage</h2>
-			<p>short explanation just to say what zinc is, make it very obvious and how it is so useful. short explanation just to say what zinc is, make it very obvious and how it is so useful.</p>
-			<p>Benefits include:</p>
+			<p>short explanation just to say what zinc is, make it very obvious and how it is so useful. Benefits include:</p>
 			<ul>
 				<li>high energy density</li>
 				<li>non toxic</li>
