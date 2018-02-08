@@ -9537,9 +9537,26 @@ a.skip-link {
 .paddingZero {
   padding: 0; }
 
-.contactIntro .details, .contactIntro .cForm, .contactForm .details, .contactForm .cForm {
+.contactIntro {
+  padding-top: 100px; }
+  .contactIntro .details {
+    background: #ddd;
+    width: 800px;
+    margin-right: auto;
+    position: relative;
+    right: 245px;
+    top: -100px;
+    z-index: -1; }
+    .contactIntro .details .content {
+      max-width: 475px;
+      margin-left: auto; }
+    .contactIntro .details h2 {
+      margin-bottom: 2rem;
+      font-size: 2.65rem; }
+
+.contactForm .cForm {
   padding: 3rem 2rem; }
-  .contactIntro .details h2, .contactIntro .cForm h2, .contactForm .details h2, .contactForm .cForm h2 {
+  .contactForm .cForm h2 {
     margin-bottom: 2rem;
     font-size: 2.65rem; }
 
