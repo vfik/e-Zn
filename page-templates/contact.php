@@ -162,8 +162,8 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6">
 				<div class="cForm">
-					<h2>Get in touch</h2>
-					<p>we are a company that will get back to you</p>
+					<h2>Set up a meeting</h2>
+					<p>Investors, media, etc.</p>
 					<p>[form fields]</p>
 				</div>
 			</div>

@@ -9533,6 +9533,11 @@ a.skip-link {
 
 .contactForm {
   padding: 2rem 0; }
+  .contactForm .cForm {
+    padding: 2rem; }
+    .contactForm .cForm h2 {
+      margin-bottom: 2rem;
+      font-size: 2.65rem; }
 
 /*
 * Use existing Bootstrap 4 classes and
