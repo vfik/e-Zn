@@ -80,11 +80,13 @@ endwhile;
 			<div class="col-md-6">
 				<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="">
 			</div>
+		</div>
+		<div class="row justify-content-end">
 			<div class="col-md-6">
 				<div class="bg">
 					<div class="content">
-						<h3>EV charging with power from solar panel and energy from zinc metal</h3>
-						<p>explain this process</p>
+						<h3>e-Zn reactors are the ideal solution for energy storage of EV charging stations</h3>
+						<p>explain this process, using solar panels.</p>
 					</div>
 				</div>
 			</div>
