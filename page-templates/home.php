@@ -58,7 +58,7 @@ endwhile;
 	</div>
 	<div class="row">
 		<div class="col-md-6 homeCopy">
-			<h2>About our company</h2>
+			<h2>About e-Zn Inc.</h2>
 			<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc.</p>
 			<p>short copy paragraphs go here to describe e-Zn inc.</p>
 			<a href="#">Company page</a>
@@ -81,6 +81,7 @@ endwhile;
 		</div>
 		<div class="col-md-6 homeCopy">
 			<h2> Our office and laboratory facility</h2>
+			<p>e-Zn Inc.</p>
 			<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
 			<p>T - 416-000-0000</p>
 			<p>E - info@e-zn.com</p>

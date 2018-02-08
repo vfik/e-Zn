@@ -25,7 +25,7 @@ endwhile;
 
 					<style>
 						#map {
-							height: 450px;
+							height: 475px;
 							width: 100%;
 						 }
 					</style>
@@ -148,10 +148,13 @@ endwhile;
 			</div>
 			<div class="col-md-6 info">
 				<div class="details">
-					<h2> Our office and laboratory facility</h2>
-					<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
-					<p>T - 416-000-0000</p>
-					<p>E - info@e-zn.com</p>
+					<div class="content">
+						<h2> Our office and laboratory facility</h2>
+						<p>e-Zn Inc.</p>
+						<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
+						<p>T - 416-000-0000</p>
+						<p>E - info@e-zn.com</p>
+					</div>
 				</div>
 			</div>
 		</div>
