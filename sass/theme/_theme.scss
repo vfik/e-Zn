@@ -64,6 +64,7 @@
     background: #fff;
     margin-top: -285px;
     padding: 30px 45px;
+    padding: 2rem;
 
     .content {
       h1 {
@@ -74,6 +75,10 @@
       }
     }
   }
+}
+
+.paddingTwoRem {
+  padding: 2rem;
 }
 
 .box {

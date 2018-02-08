@@ -9513,11 +9513,15 @@ a.skip-link {
 .slider .colContent {
   background: #fff;
   margin-top: -285px;
-  padding: 30px 45px; }
+  padding: 30px 45px;
+  padding: 2rem; }
   .slider .colContent .content h1 {
     margin-bottom: 1rem; }
   .slider .colContent .content p {
     font-size: 24px; }
+
+.paddingTwoRem {
+  padding: 2rem; }
 
 .box {
   background: #222222;

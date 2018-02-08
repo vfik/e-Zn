@@ -51,15 +51,22 @@ endwhile;
 				<div class="col-md-6 box"></div>
 			</div>
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-6 paddingTwoRem">
 			<h2>Benefits of Zinc</h2>
 			<p>on the left is zinc images + lab images</p>
-			<p>zinc is great for these main points</p>
-			<a href="#">Benefits of Zinc</a>
+			<p>short explanation just to say what zinc is, make it very obvious and how it is so useful</p>
+			<p>Benefits of using zinc for energy storage include:</p>
+			<ul>
+				<li>high energy density</li>
+				<li>non toxic</li>
+				<li>low cost</li>
+				<li>abundant</li>
+			</ul>
+			<a href="#">Learn more about Benefits of Zinc</a>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-6">
+		<div class="col-md-6 paddingTwoRem">
 			<h2>About our company</h2>
 			<p>short copy</p>
 			<a href="#">Company page</a>
@@ -73,7 +80,7 @@ endwhile;
 		<div class="col-md-6 box boxlg">
 
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-6 paddingTwoRem">
 			<h2> Our office and laboratory facility</h2>
 			<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
 			<p>T - 416-000-0000</p>
