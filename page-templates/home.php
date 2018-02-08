@@ -44,10 +44,8 @@ endwhile;
 		<div class="col-md-3 box">
 
 		</div>
-		<div class="col-md-1">
+		<div class="col-md-9">
 
-		</div>
-		<div class="col-md-7">
 			<h2>Benefits of Zinc</h2>
 		</div>
 	</div>
@@ -55,10 +53,31 @@ endwhile;
 		<div class="col-md-3">
 
 		</div>
-		<div class="col-md-6 box">
+		<div class="col-md-3 box">
 
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<h2>About our company</h2>
+			<p>short copy</p>
+			<a href="#">Company page</a>
+			<a href="#">Careers</a>
+		</div>
+		<div class="col-md-6 box boxlg">
+
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6 box boxlg">
+
+		</div>
+		<div class="col-md-6">
+			<h2> Our office and laboratory facility</h2>
+			<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
+			<p>T - 416-000-0000</p>
+			<p>E - info@e-zn.com</p>
+		</div>
 </div>
 
 <!-- End Page Content -->

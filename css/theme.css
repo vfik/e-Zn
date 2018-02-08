@@ -9523,6 +9523,9 @@ a.skip-link {
   background: #222222;
   height: 285px; }
 
+.boxlg {
+  height: 570px; }
+
 .contactIntro {
   padding: 2rem 0; }
   .contactIntro .info .details {
