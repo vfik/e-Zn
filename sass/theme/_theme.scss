@@ -49,6 +49,10 @@
 .slider {
   // padding: 1rem 0;
 
+  .colBlock {
+    background: #232222;
+  }
+
   .block {
     background: #222;
     height: 550px;
@@ -68,5 +72,9 @@
       }
     }
   }
+}
 
+.box {
+  background: #222;
+  height: 285px;
 }
