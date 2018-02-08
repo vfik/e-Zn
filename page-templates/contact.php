@@ -25,7 +25,7 @@ endwhile;
 
 					<style>
 						#map {
-							height: 350px;
+							height: 400px;
 							width: 100%;
 						 }
 					</style>
