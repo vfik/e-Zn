@@ -103,16 +103,40 @@
   padding: 0;
 }
 
-.contactIntro, .contactForm {
+.contactIntro {
   // padding: 2rem 0;
+    padding-top: 100px;
 
+    .details {
+      background: #ddd;
+      width: 800px;
+      margin-right: auto;
+      position: relative;
+      right: 245px;
+      top: -100px;
+      z-index: -1;
 
-    .details,.cForm {
-      padding: 3rem 2rem;
+      .content {
+          max-width: 475px;
+          margin-left: auto;
+      }
+
       h2 {
         margin-bottom: 2rem;
         font-size: 2.65rem;
       }
     }
+  }
+}
 
+.contactForm {
+  // padding: 2rem 0;
+
+  .cForm {
+    padding: 3rem 2rem;
+    h2 {
+      margin-bottom: 2rem;
+      font-size: 2.65rem;
+    }
+  }
 }
