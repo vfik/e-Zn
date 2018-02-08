@@ -20,7 +20,7 @@ endwhile;
 <div class="contactIntro">
 	<div class="container">
 		<div class="row mapRow">
-			<div class="col-md-6">
+			<div class="col-md-6 img">
 				<div class="googleMap">
 
 					<style>
@@ -146,7 +146,7 @@ endwhile;
 					</script>
 				</div>
 			</div>
-			<div class="col-md-6 info">
+			<div class="col-md-6 info img">
 				<div class="details">
 					<h2> Our office and laboratory facility</h2>
 					<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>

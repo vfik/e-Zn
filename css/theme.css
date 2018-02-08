@@ -9534,21 +9534,17 @@ a.skip-link {
 .boxlg {
   height: 570px; }
 
-.contactIntro {
-  padding: 2rem 0; }
-  .contactIntro .info .details {
-    padding: 2rem; }
-    .contactIntro .info .details h2 {
-      margin-bottom: 2rem;
-      font-size: 2.65rem; }
+.contactIntro .info .details {
+  padding: 2rem; }
+  .contactIntro .info .details h2 {
+    margin-bottom: 2rem;
+    font-size: 2.65rem; }
 
-.contactForm {
-  padding: 2rem 0; }
-  .contactForm .cForm {
-    padding: 2rem; }
-    .contactForm .cForm h2 {
-      margin-bottom: 2rem;
-      font-size: 2.65rem; }
+.contactForm .cForm {
+  padding: 2rem; }
+  .contactForm .cForm h2 {
+    margin-bottom: 2rem;
+    font-size: 2.65rem; }
 
 /*
 * Use existing Bootstrap 4 classes and
