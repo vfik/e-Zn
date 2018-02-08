@@ -98,6 +98,24 @@
   height: 570px;
 }
 
+// company
+
+.companyslider {
+  background: #222;
+  height: 425px;
+}
+
+.companysub {
+  background: #f0f0f0;
+  width: 800px;
+  
+  .content {
+    padding: 3rem 2rem;
+    max-width: 570px;
+    margin-top: -90px;
+  }
+}
+
 // contact
 
 .paddingZero {

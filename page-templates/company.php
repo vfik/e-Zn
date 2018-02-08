@@ -20,14 +20,14 @@ endwhile;
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<div class="boxlg">
+			<div class="companyslider">
 
 			</div>
 		</div>
 	</div>
 	<div class="row justify-content-end">
 		<div class="col-md-6">
-			<div class="lg-full-label">
+			<div class="companysub">
 				<div class="content">
 					<h2>e-Zn laboratories located in Toronto, Canada.</h2>
 				</div>
