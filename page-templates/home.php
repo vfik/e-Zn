@@ -45,18 +45,8 @@ endwhile;
 
 		</div>
 		<div class="col-md-6 homeCopy">
-			<h2> Our office and laboratory facility</h2>
-			<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
-			<p>T - 416-000-0000</p>
-			<p>E - info@e-zn.com</p>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6 homeCopy">
 			<h2>Benefits of using Zinc for energy storage</h2>
-			<p>on the left is zinc images + lab images</p>
 			<p>short explanation just to say what zinc is, make it very obvious and how it is so useful. short explanation just to say what zinc is, make it very obvious and how it is so useful.</p>
-			<p>short explanation just to say what zinc is, make it very obvious and how it is so useful.</p>
 			<p>Benefits include:</p>
 			<ul>
 				<li>high energy density</li>
@@ -65,6 +55,15 @@ endwhile;
 				<li>abundant</li>
 			</ul>
 			<a href="#">Learn more about Benefits of Zinc</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6 homeCopy">
+			<h2>About our company</h2>
+			<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc.</p>
+			<p>short copy paragraphs go here to describe e-Zn inc.</p>
+			<a href="#">Company page</a>
+			<a href="#">Careers</a>
 		</div>
 		<div class="col-md-6 boxCol">
 			<div class="row">
@@ -82,67 +81,15 @@ endwhile;
 
 		</div>
 		<div class="col-md-6 homeCopy">
-			<h2>About our company</h2>
-			<p>short copy</p>
-			<a href="#">Company page</a>
-			<a href="#">Careers</a>
-		</div>
-
-	</div>
-
-</div>
-
-<div class="container">
-	<div class="row">
-		<div class="col-md-6 boxCol">
-			<div class="row">
-				<div class="col-md-6"></div>
-				<div class="col-md-6 box"></div>
-				<div class="col-md-6 box"></div>
-				<div class="col-md-6"></div>
-				<div class="col-md-6"></div>
-				<div class="col-md-6 box"></div>
-			</div>
-		</div>
-		<div class="col-md-6 homeCopy">
-			<h2>Benefits of using Zinc for energy storage</h2>
-			<p>on the left is zinc images + lab images</p>
-			<p>short explanation just to say what zinc is, make it very obvious and how it is so useful. short explanation just to say what zinc is, make it very obvious and how it is so useful.</p>
-			<p>short explanation just to say what zinc is, make it very obvious and how it is so useful.</p>
-			<p>Benefits include:</p>
-			<ul>
-				<li>high energy density</li>
-				<li>non toxic</li>
-				<li>low cost</li>
-				<li>abundant</li>
-			</ul>
-			<a href="#">Learn more about Benefits of Zinc</a>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6 homeCopy">
-			<h2>About our company</h2>
-			<p>short copy</p>
-			<a href="#">Company page</a>
-			<a href="#">Careers</a>
-		</div>
-		<div class="col-md-6 box boxlg">
-
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6 box boxlg">
-
-		</div>
-		<div class="col-md-6 homeCopy">
 			<h2> Our office and laboratory facility</h2>
 			<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
 			<p>T - 416-000-0000</p>
 			<p>E - info@e-zn.com</p>
 		</div>
-	</div>
-</div>
 
+	</div>
+
+</div>
 <!-- End Page Content -->
 
 <?php
