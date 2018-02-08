@@ -36,6 +36,24 @@ endwhile;
 	</div>
 </div>
 
+<div class="about-intro">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="copy">
+					<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
+					<h3>Gregory X. Zhang</h3>
+					<h4>Ph.D. in Materials Science and Electrochemistry</h4>
+					<p>Bio about greg, in here wil will tell a short story and make note of the books he authored and his career. Greg's accomplishments are revolutionizing energy storage.</p>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
+			</div>
+		</div>
+	</div>
+</div>
+
 <!-- End Page Content -->
 
 <?php

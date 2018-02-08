@@ -58,8 +58,8 @@ endwhile;
 	</div>
 	<div class="row">
 		<div class="col-md-6 homeCopy">
-			<h2>About e-Zn Inc.</h2>
-			<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc.</p>
+			<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
+			<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. Talk about greg shortly and list his accomplishments.</p>
 			<p>short copy paragraphs go here to describe e-Zn inc.</p>
 			<a href="#">Company page</a>
 			<a href="#">Careers</a>

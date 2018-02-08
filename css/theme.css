@@ -9551,14 +9551,14 @@ a.skip-link {
   padding: 0; }
 
 .contactIntro {
-  padding-top: 100px; }
+  padding-top: 90px; }
   .contactIntro .details {
     background: #f0f0f0;
     width: 800px;
     margin-right: auto;
     position: relative;
     right: 245px;
-    top: -100px;
+    top: -90px;
     z-index: -1;
     padding: 3rem 2rem; }
     .contactIntro .details .content {
