@@ -9584,15 +9584,28 @@ a.skip-link {
     max-width: 570px; }
     .careers-intro .bg-top .content h1 {
       margin-bottom: 2rem; }
+    .careers-intro .bg-top .content p {
+      font-size: 20px; }
 
 .careers-intro .row.img {
   margin-top: -90px;
-  margin-top: -180px; }
+  margin-top: -180px;
+  margin-top: -270px; }
+
+.job {
+  padding: 4rem 0; }
+  .job h2 {
+    text-align: center; }
 
 .jobs .row {
   border-bottom: 1px solid #ddd;
   padding-top: 1rem;
   padding-bottom: 1rem; }
+  .jobs .row h3 {
+    margin: 0;
+    font-size: 20px; }
+  .jobs .row p {
+    margin: 0; }
 
 .paddingZero {
   padding: 0; }
