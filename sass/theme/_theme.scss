@@ -71,14 +71,18 @@
         margin-bottom: 1rem;
       }
       p {
-        font-size: 24px;
+        font-size: 20px;
       }
     }
   }
 }
 
-.paddingTwoRem {
-  padding: 2rem;
+.homeCopy {
+  padding: 6rem 3rem;
+
+  p {
+    font-size: 20px;
+  }
 }
 
 .box {

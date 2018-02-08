@@ -9518,10 +9518,12 @@ a.skip-link {
   .slider .colContent .content h1 {
     margin-bottom: 1rem; }
   .slider .colContent .content p {
-    font-size: 24px; }
+    font-size: 20px; }
 
-.paddingTwoRem {
-  padding: 2rem; }
+.homeCopy {
+  padding: 6rem 3rem; }
+  .homeCopy p {
+    font-size: 20px; }
 
 .box {
   background: #222222;
