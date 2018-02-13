@@ -45,18 +45,24 @@ endwhile;
 				<p>zinc as it is the fourth most used metal in the world behind only iron, aluminum and copper and is a relatively abundant element in earth's crest.  The current world annual zinc production is 11.2 million tons.  The world has about 480 million tons of zinc reserve base and about 1900 million tons as discovered resources. Thus, there is sufficient zinc for energy storage long into the future.</p>
 			</div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-md-6">
 			<div class="point">
 				<h2>Zinc is non-toxic</h2>
 				<p>Half of steel is protected by Zinc coating from corrosion. Zinc oxide is an essential ingredient in baby's diaper cream and sunscreen.</p>
 			</div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-md-6">
 			<div class="point">
 				<h2>Zinc is inexpensive</h2>
 				<p>include some figures $$$</p>
 			</div>
-		</div>
+		</div>		
+	</div>
+	<div class="row">
 		<div class="col-md-6">
 			<div class="point">
 				<h2>Zinc has high energy density</h2>

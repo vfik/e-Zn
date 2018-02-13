@@ -17,15 +17,44 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 	<div class="<?php echo esc_attr( $container ); ?>">
 
-		<div class="row">
+		<div class="row footerRow">
 
-			<div class="col-md-12">
+			<div class="col-md-3">
 			<!--  -->
-
-			<p>Copyright 2018 e-Zn Inc.</p>
-
+				<div class="links">
+					<h4>e-Zn</h4>
+					<!-- <a href="#">Home</a> -->
+					<a href="#">Benefits of Zinc</a>
+					<a href="#">Technology</a>
+				</div>
 			<!--  -->
 			</div><!--col end -->
+			<div class="col-md-3">
+			<!--  -->
+				<div class="links">
+					<h4>About</h4>
+					<a href="#">Our Company</a>
+					<a href="#">Careers</a>
+					<!-- <a href="#">Contact</a> -->
+				</div>
+			<!--  -->
+			</div><!--col end -->
+
+			<div class="col-md-3">
+				<div class="links">
+					<h4>Office + Laboratory</h4>
+					<p>25 Advance Rd, Toronto Ontario</p>
+					<p>Canada, M8Z 2S6</p>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="links">
+					<h4>Contact</h4>
+					<p>416-000-0000</p>
+					<p>info@e-zn.com</p>
+				</div>
+			</div>
 
 		</div><!-- row end -->
 
