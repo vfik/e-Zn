@@ -43,8 +43,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-3">
 				<div class="links">
 					<h4>Office + Laboratory</h4>
-					<p>25 Advance Rd, Toronto Ontario</p>
-					<p>Canada, M8Z 2S6</p>
+					<p>25 Advance Rd, Toronto</p>
+					<p>Ontario, Canada M8Z 2S6</p>
 				</div>
 			</div>
 

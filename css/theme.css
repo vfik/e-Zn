@@ -9700,6 +9700,11 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 2rem;
     font-size: 2.65rem; }
 
+.contactForm label {
+  text-transform: uppercase;
+  font-size: 16px;
+  letter-spacing: 1px; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
