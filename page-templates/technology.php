@@ -96,11 +96,13 @@ endwhile;
 
 <div class="container techAbout">
 	<div class="row">
-		<div class="col-md-6">
-			<h2>About our company</h2>
-			<p>one sentence about the vision</p>
-			<p>One paragraph about greg zhang</p>
-			<a href="#" class="sq-btn">Learn More</a>
+		<div class="col-md-6 written">
+			<div class="content">
+				<h2>About our company</h2>
+				<p>one sentence about the vision</p>
+				<p>One short paragraph about greg zhang</p>
+				<a href="/company/" class="sq-btn">Learn More</a>
+			</div>
 		</div>
 		<div class="col-md-6">
 			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
