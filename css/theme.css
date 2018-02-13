@@ -9476,10 +9476,13 @@ a.skip-link {
 
 body {
   color: #333;
-  font-family: "jaf-facitweb"; }
+  font-family: "din-2014";
+  font-size: 18px;
+  letter-spacing: 0.5px; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "zenon"; }
+  font-family: "zenon";
+  letter-spacing: 0px; }
 
 #wrapper-navbar {
   border-bottom: 1px solid #d1d1d1;
