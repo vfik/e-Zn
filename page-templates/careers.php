@@ -70,7 +70,7 @@ endwhile;
 						</div>
 					</div>
 				</div>
-							<a href="#">Submit your application</a>
+							<a href="#" class="sq-btn">Submit your application</a>
 			</div>
 		</div>
 	</div>

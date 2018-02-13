@@ -11,6 +11,15 @@ h1,h2,h3,h4,h5,h6 {
   letter-spacing: 0px;
 }
 
+a.sq-btn {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 16px;
+  color:#333;
+  padding: 8px 24px;
+  display: block;
+}
+
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
 
 #wrapper-navbar {
