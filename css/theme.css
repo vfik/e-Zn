@@ -9506,6 +9506,9 @@ a.skip-link {
           text-decoration: none;
           border-bottom: 1px solid #555; }
 
+#wrapper-footer {
+  background: #333; }
+
 .slider .colBlock {
   background: #232222; }
 
