@@ -72,11 +72,10 @@ endwhile;
 				</div>
 				<div id="submit">
 					<script type="text/javascript">
-						var applyBtn = document.getElementById('applyBtn');
-						var applyForm = document.getElementById('applyForm');
-
 						function showForm() {
-							applyForm.classList.remove('displayNone');
+							var applyBtn = document.getElementById('applyBtn');
+							var applyForm = document.getElementById('applyForm');
+							applyForm.classList.remove('displayNone');							
 						}
 					</script>
 					<!--  -->
