@@ -22,7 +22,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-3">
 			<!--  -->
 				<div class="links">
-					<h4>e-Zn Tech</h4>
+					<h4>e-Zn Reactor</h4>
 					<!-- <a href="#">Home</a> -->
 					<a href="/benefits-of-zinc/">Benefits of Zinc</a>
 					<a href="/technology/">Technology</a>

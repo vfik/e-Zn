@@ -64,29 +64,10 @@ endwhile;
 			<a href="#">Company page</a>
 			<a href="#">Careers</a>
 		</div>
-		<div class="col-md-6 boxCol">
-			<div class="row">
-				<div class="col-md-6 box"></div>
-				<div class="col-md-6 "></div>
-				<div class="col-md-6 "></div>
-				<div class="col-md-6 box"></div>
-				<div class="col-md-6 box"></div>
-				<div class="col-md-6"></div>
-			</div>
+		<div class="col-md-6 homeCompanyImgs">
+			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="" class="one">
+			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="" class="two">
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6 box boxlg">
-
-		</div>
-		<div class="col-md-6 homeCopy">
-			<h2> Our office and laboratory facility</h2>
-			<p>e-Zn Inc.</p>
-			<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
-			<p>T - 416-000-0000</p>
-			<p>E - info@e-zn.com</p>
-		</div>
-
 	</div>
 
 </div>
