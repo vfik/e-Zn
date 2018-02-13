@@ -9552,11 +9552,21 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px; }
 
 .homeCopy {
-  padding: 4rem 3rem; }
+  padding: 4rem 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
   .homeCopy h2 {
     margin-bottom: 2rem; }
   .homeCopy p, .homeCopy ul, .homeCopy a {
     font-size: 20px; }
+  .homeCopy a {
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 8px 24px;
+    border: 1px solid #333;
+    color: #333;
+    margin-bottom: 1rem; }
 
 .box {
   background: #222222;
@@ -9565,6 +9575,17 @@ h1, h2, h3, h4, h5, h6 {
 .boxlg {
   background: #222222;
   height: 570px; }
+
+.homeCompanyImgs .one {
+  width: 80%;
+  margin-left: auto;
+  display: -webkit-box; }
+
+.homeCompanyImgs .two {
+  width: 80%;
+  margin-right: auto;
+  display: -webkit-box;
+  margin-top: -50px; }
 
 .benefits {
   padding: 3rem 0; }

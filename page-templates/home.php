@@ -58,11 +58,13 @@ endwhile;
 	</div>
 	<div class="row">
 		<div class="col-md-6 homeCopy">
-			<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
-			<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. Talk about greg shortly and list his accomplishments.</p>
-			<p>short copy paragraphs go here to describe e-Zn inc.</p>
-			<a href="#">Company page</a>
-			<a href="#">Careers</a>
+			<div class="content">
+				<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
+				<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. Talk about greg shortly and list his accomplishments.</p>
+				<p>short copy paragraphs go here to describe e-Zn inc.</p>
+				<a href="#">Company page</a>
+				<a href="#">Careers</a>				
+			</div>
 		</div>
 		<div class="col-md-6 homeCompanyImgs">
 			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="" class="one">
