@@ -24,8 +24,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<div class="links">
 					<h4>e-Zn</h4>
 					<!-- <a href="#">Home</a> -->
-					<a href="#">Benefits of Zinc</a>
-					<a href="#">Technology</a>
+					<a href="/benefits-of-zinc/">Benefits of Zinc</a>
+					<a href="/technology/">Technology</a>
 				</div>
 			<!--  -->
 			</div><!--col end -->
@@ -33,8 +33,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<!--  -->
 				<div class="links">
 					<h4>About</h4>
-					<a href="#">Our Company</a>
-					<a href="#">Careers</a>
+					<a href="/company/">Our Company</a>
+					<a href="/careers/">Careers</a>
 					<!-- <a href="#">Contact</a> -->
 				</div>
 			<!--  -->
