@@ -9474,6 +9474,9 @@ a.skip-link {
 .gallery-caption {
   display: block; }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "zenon"; }
+
 #wrapper-navbar {
   border-bottom: 1px solid #d1d1d1;
   margin-bottom: 2rem; }
