@@ -51,21 +51,15 @@
 // FOOTER
 
 #wrapper-footer {
-    background: #333;
-    margin-top: 4rem;
-    padding: 4rem 0;
+    // background: #333;
+    // margin-top: 4rem;
+    padding: 6rem 0;
 
-    .footerRow {
-      .logoWhite {
-        color:#fff;
-        font-size: 2rem;
-      }
-    }
     .links {
       display: flex;
       flex-direction: column;
       a {
-        color:#fff;
+        // color:#fff;
         text-transform: uppercase;
         letter-spacing: 1px;
       }

@@ -19,14 +19,27 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 		<div class="row footerRow">
 
-			<div class="col-md-6">
-				<p class="logoWhite">e-Zn</p>
+			<div class="col-md-3">
+				<div class="links">
+					<h4>Office + Laboratory</h4>
+					<p>25 Advance Rd, Toronto Ontario</p>
+					<p>Canada, M8Z 2S6</p>
+				</div>
+			</div>
+
+			<div class="col-md-3">
+				<div class="links">
+					<h4>Contact</h4>
+					<p>416-000-0000</p>
+					<p>info@e-zn.com</p>
+				</div>
 			</div>
 
 			<div class="col-md-3">
 			<!--  -->
 				<div class="links">
-					<a href="#">Home</a>
+					<h4>e-Zn</h4>
+					<!-- <a href="#">Home</a> -->
 					<a href="#">Benefits of Zinc</a>
 					<a href="#">Technology</a>
 				</div>
@@ -35,9 +48,10 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-3">
 			<!--  -->
 				<div class="links">
+					<h4>About</h4>
 					<a href="#">Company</a>
 					<a href="#">Careers</a>
-					<a href="#">Contact</a>
+					<!-- <a href="#">Contact</a> -->
 				</div>
 			<!--  -->
 			</div><!--col end -->
