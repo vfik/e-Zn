@@ -41,19 +41,21 @@ endwhile;
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-6 box boxlg">
-
+		<div class="col-md-6">
+			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="" class="one">
 		</div>
 		<div class="col-md-6 homeCopy">
-			<h2>Benefits of using Zinc for energy storage</h2>
-			<p>short explanation just to say what zinc is, make it very obvious and how it is so useful. Benefits include:</p>
-			<ul>
-				<li>high energy density</li>
-				<li>non toxic</li>
-				<li>low cost</li>
-				<li>abundant</li>
-			</ul>
-			<a href="#">Learn more about Benefits of Zinc</a>
+			<div class="content">
+				<h2>Benefits of using Zinc for energy storage</h2>
+				<p>short explanation just to say what zinc is, make it very obvious and how it is so useful. Benefits include:</p>
+				<ul>
+					<li>Abundant</li>
+					<li>Non-toxic</li>
+					<li>Low cost</li>
+					<li>High energy density</li>
+				</ul>
+				<a href="#">Learn more about Benefits of Zinc</a>
+			</div>
 		</div>
 	</div>
 	<div class="row">
@@ -63,7 +65,7 @@ endwhile;
 				<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. Talk about greg shortly and list his accomplishments.</p>
 				<p>short copy paragraphs go here to describe e-Zn inc.</p>
 				<a href="#">Company page</a>
-				<a href="#">Careers</a>				
+				<a href="#">Careers</a>
 			</div>
 		</div>
 		<div class="col-md-6 homeCompanyImgs">
