@@ -9521,9 +9521,14 @@ h1, h2, h3, h4, h5, h6 {
   #wrapper-footer .links {
     display: flex;
     flex-direction: column; }
-    #wrapper-footer .links a {
-      text-transform: uppercase;
-      letter-spacing: 1px; }
+    #wrapper-footer .links h4 {
+      font-family: 'din-2014';
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase; }
+    #wrapper-footer .links p, #wrapper-footer .links a {
+      margin: 0;
+      font-size: 20px; }
 
 .slider .colBlock {
   background: #232222; }

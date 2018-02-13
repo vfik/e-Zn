@@ -42,17 +42,17 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 			<div class="col-md-3">
 				<div class="links">
-					<h4>Office + Laboratory</h4>
-					<p>25 Advance Rd, Toronto</p>
-					<p>Ontario, Canada M8Z 2S6</p>
+					<h4>Contact</h4>
+					<p>416-000-0000</p>
+					<p>info@e-zn.com</p>
 				</div>
 			</div>
 
 			<div class="col-md-3">
 				<div class="links">
-					<h4>Contact</h4>
-					<p>416-000-0000</p>
-					<p>info@e-zn.com</p>
+					<h4>Office + Laboratory</h4>
+					<p>25 Advance Rd, Toronto</p>
+					<p>Ontario, Canada M8Z 2S6</p>
 				</div>
 			</div>
 
