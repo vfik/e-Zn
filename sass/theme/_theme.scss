@@ -388,8 +388,13 @@ a.sq-btn, .sq-btn {
   padding: 1rem 0;
 }
 
-#jobAppForm {
-
+#applyForm {
+  h1 {
+    margin-bottom: 1rem
+  }
+  #jobAppForm {
+    text-align: left;
+  }
 }
 
 .displayNone {

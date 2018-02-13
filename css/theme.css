@@ -9731,6 +9731,12 @@ a.sq-btn, .sq-btn {
   text-align: center;
   padding: 1rem 0; }
 
+#applyForm h1 {
+  margin-bottom: 1rem; }
+
+#applyForm #jobAppForm {
+  text-align: left; }
+
 .displayNone {
   display: none; }
 

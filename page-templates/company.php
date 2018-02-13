@@ -86,8 +86,8 @@ endwhile;
 					<div class="content">
 						<h2>company history information</h2>
 						<p>talk about progress, how far we've come.</p>
-						<a href="#">Careers</a>
-						<a href="#">Contact</a>
+						<a href="#" class="sq-btn">Careers</a>
+						<a href="#" class="sq-btn">Contact</a>
 					</div>
 				</div>
 			</div>
