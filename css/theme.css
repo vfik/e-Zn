@@ -9642,7 +9642,7 @@ a.sq-btn {
       font-size: 20px; }
 
 .techAbout {
-  padding: 2rem 15px; }
+  padding: 4rem 15px 0; }
   .techAbout .written {
     display: flex;
     flex-direction: column;
