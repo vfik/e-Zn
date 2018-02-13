@@ -9490,7 +9490,8 @@ a.sq-btn {
   font-size: 16px;
   color: #333;
   padding: 8px 24px;
-  display: block; }
+  display: -webkit-inline-box;
+  border: 1px solid #333; }
 
 #wrapper-navbar {
   border-bottom: 1px solid #d1d1d1;
@@ -9710,6 +9711,10 @@ a.sq-btn {
     font-size: 20px; }
   .jobs .row p {
     margin: 0; }
+
+#submit {
+  text-align: center;
+  padding: 1rem 0; }
 
 .paddingZero {
   padding: 0; }

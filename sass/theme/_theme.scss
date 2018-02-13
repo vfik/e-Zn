@@ -17,7 +17,8 @@ a.sq-btn {
   font-size: 16px;
   color:#333;
   padding: 8px 24px;
-  display: block;
+  display: -webkit-inline-box;
+  border: 1px solid #333;
 }
 
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
@@ -363,6 +364,10 @@ a.sq-btn {
   }
 }
 
+#submit {
+  text-align: center;
+  padding: 1rem 0;
+}
 
 
 // contact
