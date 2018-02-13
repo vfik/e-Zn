@@ -20,6 +20,27 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<div class="row footerRow">
 
 			<div class="col-md-3">
+			<!--  -->
+				<div class="links">
+					<h4>e-Zn</h4>
+					<!-- <a href="#">Home</a> -->
+					<a href="#">Benefits of Zinc</a>
+					<a href="#">Technology</a>
+				</div>
+			<!--  -->
+			</div><!--col end -->
+			<div class="col-md-3">
+			<!--  -->
+				<div class="links">
+					<h4>About</h4>
+					<a href="#">Our Company</a>
+					<a href="#">Careers</a>
+					<!-- <a href="#">Contact</a> -->
+				</div>
+			<!--  -->
+			</div><!--col end -->
+
+			<div class="col-md-3">
 				<div class="links">
 					<h4>Office + Laboratory</h4>
 					<p>25 Advance Rd, Toronto Ontario</p>
@@ -34,27 +55,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<p>info@e-zn.com</p>
 				</div>
 			</div>
-
-			<div class="col-md-3">
-			<!--  -->
-				<div class="links">
-					<h4>e-Zn</h4>
-					<!-- <a href="#">Home</a> -->
-					<a href="#">Benefits of Zinc</a>
-					<a href="#">Technology</a>
-				</div>
-			<!--  -->
-			</div><!--col end -->
-			<div class="col-md-3">
-			<!--  -->
-				<div class="links">
-					<h4>About</h4>
-					<a href="#">Company</a>
-					<a href="#">Careers</a>
-					<!-- <a href="#">Contact</a> -->
-				</div>
-			<!--  -->
-			</div><!--col end -->
 
 		</div><!-- row end -->
 
