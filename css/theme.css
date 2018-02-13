@@ -9543,6 +9543,9 @@ a.sq-btn {
       font-size: 20px;
       color: #333; }
 
+.home-con .row {
+  padding: 2rem 0px; }
+
 .home-con .image {
   display: flex;
   flex-direction: column;
@@ -9575,13 +9578,6 @@ a.sq-btn {
     margin-bottom: 2rem; }
   .homeCopy p, .homeCopy ul, .homeCopy a {
     font-size: 20px; }
-  .homeCopy a {
-    font-size: 16px;
-    text-transform: uppercase;
-    padding: 8px 24px;
-    border: 1px solid #333;
-    color: #333;
-    margin-bottom: 1rem; }
 
 .box {
   background: #222222;

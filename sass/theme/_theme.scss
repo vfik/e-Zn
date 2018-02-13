@@ -104,6 +104,9 @@ a.sq-btn {
 // HOME
 
 .home-con {
+  .row {
+    padding: 2rem 0px;
+  }
   .image {
     display: flex;
     flex-direction: column;
@@ -153,14 +156,6 @@ a.sq-btn {
 
   p, ul, a {
     font-size: 20px;
-  }
-  a {
-    font-size: 16px;
-    text-transform: uppercase;
-    padding: 8px 24px;
-    border: 1px solid #333;
-    color:#333;
-    margin-bottom: 1rem;
   }
 }
 
