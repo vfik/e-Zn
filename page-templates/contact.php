@@ -167,8 +167,7 @@ endwhile;
 			<div class="col-md-6">
 				<div class="cForm">
 					<h2>Set up a meeting</h2>
-					<p>Investors, media, etc.</p>
-					<p>[form fields]</p>
+					<?php echo do_shortcode("[contact-form-7 id="15" title="Contact form 1"]"); ?>
 				</div>
 			</div>
 			<div class="col-md-6 paddingZero">
