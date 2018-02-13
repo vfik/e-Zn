@@ -9712,15 +9712,17 @@ a.sq-btn {
     text-align: center;
     margin-bottom: 2rem; }
 
-.jobs .row {
-  border-bottom: 1px solid #ddd;
-  padding-top: 1rem;
-  padding-bottom: 1rem; }
-  .jobs .row h3 {
-    margin: 0;
-    font-size: 20px; }
-  .jobs .row p {
-    margin: 0; }
+.jobs {
+  margin-bottom: 2rem; }
+  .jobs .row {
+    border-bottom: 1px solid #ddd;
+    padding-top: 1rem;
+    padding-bottom: 1rem; }
+    .jobs .row h3 {
+      margin: 0;
+      font-size: 20px; }
+    .jobs .row p {
+      margin: 0; }
 
 #submit {
   text-align: center;
