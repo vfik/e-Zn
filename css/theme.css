@@ -9544,7 +9544,7 @@ a.sq-btn {
       color: #333; }
 
 .home-con .row {
-  padding: 2rem 0px; }
+  padding: 2rem 0; }
 
 .home-con .image {
   display: flex;
@@ -9640,6 +9640,14 @@ a.sq-btn {
       margin-bottom: 2rem; }
     .charging-stations .bg .content p {
       font-size: 20px; }
+
+.techAbout {
+  padding: 2rem 15px; }
+  .techAbout .written {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; }
 
 .companyslider {
   background: #222;
