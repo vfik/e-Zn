@@ -71,7 +71,19 @@ endwhile;
 					</div>
 				</div>
 				<div id="submit">
-					<a href="#" class="sq-btn">Submit your application</a>
+					<script type="text/javascript">
+						var applyBtn = document.getElementById('applyBtn');
+						var applyForm = document.getElementById('applyForm');
+
+						function showForm() {
+							applyForm.classList.remove('displayNone');
+						}
+					</script>
+					<!--  -->
+					<a class="sq-btn" id="applyBtn" onclick="showForm()">Submit your application</a>
+					<div class="job application form displayNone" id="applyForm">
+						<h1>job app form</h1>
+					</div>
 				</div>
 			</div>
 		</div>
