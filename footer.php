@@ -17,13 +17,28 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 	<div class="<?php echo esc_attr( $container ); ?>">
 
-		<div class="row">
+		<div class="row footerRow">
 
-			<div class="col-md-12">
+			<div class="col-md-6">
+				<p class="logoWhite">e-Zn</p>
+			</div>
+
+			<div class="col-md-3">
 			<!--  -->
-
-			<p>Copyright 2018 e-Zn Inc.</p>
-
+				<div class="links">
+					<a href="#">Home</a>
+					<a href="#">Benefits of Zinc</a>
+					<a href="#">Technology</a>
+				</div>
+			<!--  -->
+			</div><!--col end -->
+			<div class="col-md-3">
+			<!--  -->
+				<div class="links">
+					<a href="#">Company</a>
+					<a href="#">Careers</a>
+					<a href="#">Contact</a>
+				</div>
 			<!--  -->
 			</div><!--col end -->
 

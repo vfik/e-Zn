@@ -9507,7 +9507,19 @@ a.skip-link {
           border-bottom: 1px solid #555; }
 
 #wrapper-footer {
-  background: #333; }
+  background: #333;
+  margin-top: 4rem;
+  padding: 4rem 0; }
+  #wrapper-footer .footerRow .logoWhite {
+    color: #fff;
+    font-size: 2rem; }
+  #wrapper-footer .links {
+    display: flex;
+    flex-direction: column; }
+    #wrapper-footer .links a {
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: 1px; }
 
 .slider .colBlock {
   background: #232222; }
