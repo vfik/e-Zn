@@ -9543,6 +9543,12 @@ a.sq-btn {
       font-size: 20px;
       color: #333; }
 
+.home-con .image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
 .slider .colBlock {
   background: #232222; }
 

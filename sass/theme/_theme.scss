@@ -103,6 +103,15 @@ a.sq-btn {
 
 // HOME
 
+.home-con {
+  .image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
 .slider {
   // padding: 1rem 0;
 

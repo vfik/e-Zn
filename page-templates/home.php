@@ -32,16 +32,16 @@ endwhile;
 				<div class="content">
 					<h1>Energy into Matter</h1>
 					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p>
-					<a href="#">Explore our technology ></a>
+					<a href="#" class="sq-btn">Explore our technology ></a>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="container">
+<div class="container home-con">
 	<div class="row">
-		<div class="col-md-6">
+		<div class="col-md-6 image">
 			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="" class="one">
 		</div>
 		<div class="col-md-6 homeCopy">
