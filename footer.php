@@ -34,7 +34,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<!--  -->
 				<div class="links">
 					<h4>About us</h4>
-					<a href="/company/">Our Company</a>
+					<a href="/company/">Company</a>
 					<a href="/careers/">Careers</a>
 					<a href="/careers/">STDC Grant</a>
 					<!-- <a href="#">Contact</a> -->
