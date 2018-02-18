@@ -9507,7 +9507,9 @@ a.sq-btn, .sq-btn {
         font-size: 3rem;
         margin: 0; }
       #wrapper-navbar .header .logoCol a.logoA img {
-        max-height: 60px; }
+        max-height: 60px;
+        /* max-height: 50px; */
+        padding: 8px 0; }
     #wrapper-navbar .header .logoCol a.logoA:hover {
       text-decoration: none; }
     #wrapper-navbar .header .linksCol {
