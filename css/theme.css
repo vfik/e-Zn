@@ -9642,7 +9642,8 @@ a.sq-btn, .sq-btn {
   z-index: 1; }
 
 .charging-stations .bg {
-  background: #f0f0f0;
+  background: #f3f3f3;
+  background: #f9f9f9;
   margin-left: -285px;
   margin-top: -180px; }
   .charging-stations .bg .content {
