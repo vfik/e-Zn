@@ -9498,7 +9498,6 @@ a.sq-btn, .sq-btn {
 
 #wrapper-navbar {
   background: #f3f3f3;
-  background: #dce6ed;
   margin-bottom: 2rem; }
   #wrapper-navbar .header {
     padding: 1rem 15px; }
@@ -9543,6 +9542,7 @@ a.sq-btn, .sq-btn {
 
 #wrapper-footer {
   background: #f3f3f3;
+  background: #dce6ed;
   padding: 4rem 0; }
   #wrapper-footer .footerRow {
     border-top: 1px solid #999;
