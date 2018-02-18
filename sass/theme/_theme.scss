@@ -30,6 +30,7 @@ a.sq-btn, .sq-btn {
   // border-bottom: 1px solid #999;
   // border-bottom: 1px solid #d1d1d1;
   background: $gray-main;
+  background: $slate-one;
   margin-bottom: 2rem;
 
   .header {
@@ -221,16 +222,20 @@ a.sq-btn, .sq-btn {
 // technology
 
 .technology-spread {
-  padding: 4rem 0;
-  
+  padding: 2rem 0;
+
   .image, .content {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding: 2rem 15px;
   }
 
   .right-content {
     padding: 0 4rem;
+    h2 {
+      margin-bottom: 1rem;
+    }
   }
 
 }
