@@ -41,7 +41,7 @@ endwhile;
 <div class="job postings" id="positions">
 	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-md-8">
+			<div class="col-md-12 col-lg-10 col-xl-8">
 				<h2>Open Positions</h2>
 				<div class="jobs">
 					<div class="row">
