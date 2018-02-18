@@ -36,18 +36,20 @@ endwhile;
 	</div>
 </div>
 
-<div class="about-intro">
+<div class="about-intro-greg">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<div class="copy">
-					<h3>Gregory X. Zhang</h3>
-					<h4>Ph.D. in Materials Science and Electrochemistry</h4>
-					<p>Bio about greg, in here wil will tell a short story and make note of the books he authored and his career. Now its time for a zinc energy storagy.</p>
+				<div class="gregImgContainer">
+					<img src="/wp-content/uploads/2018/02/gregory-zhang-mountain.jpg" alt="Gregory Zhang" class="gregimg">
 				</div>
 			</div>
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/e-zn-solar-panels.jpg" alt="">
+				<div class="gregBio">
+					<h3>Gregory X. Zhang</h3>
+					<h4>Founder, CEO, Ph.D.</h4>
+					<p>Bio about greg, in here wil will tell a short story and make note of the books he authored and his career. Now its time for a zinc energy storagy.</p>
+				</div>
 			</div>
 		</div>
 	</div>
