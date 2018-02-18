@@ -18,7 +18,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<div class="<?php echo esc_attr( $container ); ?>">
 
 		<div class="row footerRow">
-			<div class="col-md-6">
+			<div class="col-md-6 footerCol">
 			<!--  -->
 				<div class="links pages">
 					<!-- <h4>e-Zn Reactor</h4> -->
@@ -29,7 +29,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				</div>
 			<!--  -->
 			</div><!--col end -->
-			<div class="col-md-6">
+			<div class="col-md-6 footerCol">
 			<!--  -->
 				<div class="links pages">
 					<!-- <h4>About us</h4> -->
@@ -44,17 +44,17 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 		<div class="row footerRow contactRow">
 
-			<div class="col-md-6">
+			<div class="col-md-6 footerCol">
 				<div class="links">
-					<h4>Contact</h4>
+					<h4 class="dinTitle">Contact</h4>
 					<p>416-000-0000</p>
 					<p>info@e-zn.com</p>
 				</div>
 			</div>
 
-			<div class="col-md-6">
+			<div class="col-md-6 footerCol">
 				<div class="links">
-					<h4>Office + Laboratory</h4>
+					<h4 class="dinTitle">Office + Laboratory</h4>
 					<p>25 Advance Rd, Toronto</p>
 					<p>Ontario, Canada M8Z 2S6</p>
 				</div>

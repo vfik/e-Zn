@@ -74,6 +74,12 @@ a.sq-btn, .sq-btn {
   }
 }
 
+.dinTitle {
+  font-family: 'din-2014';
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
 // FOOTER
 
 #wrapper-footer {
@@ -83,6 +89,15 @@ a.sq-btn, .sq-btn {
     .footerRow {
       border-top: 1px solid #999;
       padding: 2rem 0;
+
+      .footerCol {
+        padding: 0;
+
+        .links {
+          display: flex;
+          flex-direction: column;
+        }
+      }
     }
 }
 
