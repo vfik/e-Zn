@@ -9539,7 +9539,7 @@ a.sq-btn, .sq-btn {
   padding: 4rem 0; }
   #wrapper-footer .footerRow {
     border-top: 1px solid #999;
-    padding: 2rem 0; }
+    padding: 3rem 0; }
     #wrapper-footer .footerRow .footerCol {
       padding: 0; }
       #wrapper-footer .footerRow .footerCol .links {
@@ -9548,6 +9548,7 @@ a.sq-btn, .sq-btn {
         #wrapper-footer .footerRow .footerCol .links .footerText {
           margin-bottom: 0;
           font-size: 20px;
+          font-size: 22px;
           color: #333; }
 
 .home-con .row {
