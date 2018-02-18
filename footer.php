@@ -44,7 +44,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 		<div class="row footerRow contactRow">
 
-			<div class="col-md-3">
+			<div class="col-md-6">
 				<div class="links">
 					<h4>Contact</h4>
 					<p>416-000-0000</p>
@@ -52,7 +52,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				</div>
 			</div>
 
-			<div class="col-md-3">
+			<div class="col-md-6">
 				<div class="links">
 					<h4>Office + Laboratory</h4>
 					<p>25 Advance Rd, Toronto</p>

@@ -9528,6 +9528,13 @@ a.sq-btn, .sq-btn {
           text-decoration: none;
           border-bottom: 1px solid #555; }
 
+#wrapper-footer {
+  background: #f9f9f9;
+  padding: 4rem 0; }
+  #wrapper-footer .footerRow {
+    border-top: 1px solid #999;
+    padding: 2rem 0; }
+
 .home-con .row {
   padding: 2rem 0; }
 
