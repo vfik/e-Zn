@@ -21,7 +21,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-6 footerCol">
 			<!--  -->
 				<div class="links pages">
-					<h4>e-Zn Reactor</h4>
+					<h4 class="dinTitle">e-Zn Reactor</h4>
 					<!-- <a href="#">Home</a> -->
 					<a href="/benefits-of-zinc/" class="footerText">Benefits of Zinc</a>
 					<a href="/technology/" class="footerText">Technology</a>
@@ -32,7 +32,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-6 footerCol">
 			<!--  -->
 				<div class="links pages">
-					<h4>About us</h4>
+					<h4 class="dinTitle">About us</h4>
 					<a href="/company/" class="footerText">Company</a>
 					<a href="/careers/" class="footerText">Careers</a>
 					<a href="/careers/" class="footerText">STDC Grant</a>
