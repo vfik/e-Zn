@@ -29,7 +29,7 @@ a.sq-btn, .sq-btn {
 #wrapper-navbar {
   // border-bottom: 1px solid #999;
   // border-bottom: 1px solid #d1d1d1;
-  background: #f3f3f3;
+  background: $gray-main;
   margin-bottom: 2rem;
 
   .header {
@@ -65,7 +65,7 @@ a.sq-btn, .sq-btn {
           font-size: 1rem;
           padding: 3px 0;
           border-bottom: 1px solid #fff;
-          border-bottom: 1px solid #f3f3f3;
+          border-bottom: 1px solid $gray-main;
         }
         a:hover {
           text-decoration: none;
@@ -88,7 +88,7 @@ a.sq-btn, .sq-btn {
 // FOOTER
 
 #wrapper-footer {
-    background: #f3f3f3;
+    background: $gray-main;
     padding: 4rem 0;
 
     .footerRow {
@@ -286,11 +286,11 @@ a.sq-btn, .sq-btn {
 }
 
 .companysub {
-  background: #f3d3f3;
+  background: $gray-main;
   // width: 800px;
 
   .content {
-    padding: 3rem 2rem;
+    padding: 2rem 2rem;
     // max-width: 570px;
     // margin-top: -90px;
   }
@@ -423,7 +423,7 @@ a.sq-btn, .sq-btn {
 
 .careers-intro {
   .bg-top {
-    background: #f0f0f0;
+    background: $gray-light;
 
     .content {
       padding: 3rem;
