@@ -24,7 +24,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 	<link rel="stylesheet" href="https://use.typekit.net/ind6pcp.css">
 	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-	
+
 
 </head>
 
@@ -42,7 +42,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="row">
 				<div class="col-md-3 logoCol">
 					<a href="/" class="logoA">
-						<h2>e-Zn</h2>
+						<img src="/wp-content/uploads/2018/02/e-zn-logo.png" alt="">
 					</a>
 				</div>
 				<div class="col-md-9 linksCol">
