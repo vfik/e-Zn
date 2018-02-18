@@ -20,7 +20,7 @@ endwhile;
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<div class="companyslider">
+			<div class="companyslider zinc">
 
 			</div>
 		</div>
@@ -60,7 +60,7 @@ endwhile;
 				<h2>Zinc is inexpensive</h2>
 				<p>include some figures $$$</p>
 			</div>
-		</div>		
+		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-6">

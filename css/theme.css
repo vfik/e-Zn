@@ -9669,8 +9669,13 @@ a.sq-btn, .sq-btn {
   background-position: center center;
   background-size: cover; }
 
-.companyslider.technology {
+.companyslider.zinc {
   background: url(/wp-content/uploads/2018/02/zinc-in-container-resize.jpg);
+  background-position: center center;
+  background-size: cover; }
+
+.companyslider.technology {
+  background: url(/uploads/2018/02/inside-reactor-resize-recolor-landscape.jpg);
   background-position: center center;
   background-size: cover; }
 
