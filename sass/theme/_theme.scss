@@ -228,13 +228,15 @@ a.sq-btn, .sq-btn {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 2rem 15px;
+    padding: 4rem 15px;
   }
 
   .right-content {
     padding: 0 4rem;
     h2 {
       margin-bottom: 1rem;
+      font-family: 'din-2014';
+      font-weight: 600;
     }
   }
 

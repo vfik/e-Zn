@@ -9630,11 +9630,13 @@ a.sq-btn, .sq-btn {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 2rem 15px; }
+    padding: 4rem 15px; }
   .technology-spread .right-content {
     padding: 0 4rem; }
     .technology-spread .right-content h2 {
-      margin-bottom: 1rem; }
+      margin-bottom: 1rem;
+      font-family: 'din-2014';
+      font-weight: 600; }
 
 .charging-stations .imgCol {
   z-index: 1; }
