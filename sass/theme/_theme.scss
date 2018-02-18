@@ -338,24 +338,14 @@ a.sq-btn, .sq-btn {
 }
 
 // company
-.about-intro {
-    // padding: 3rem 0;
+.about-intro-greg {
+    padding: 1rem 0;
 
-    .copy {
-      padding: 2rem;
-      h2 {
-        margin-bottom: 2rem;
-      }
-      h3 {
-        // margin-bottom: 1rem;
-      }
-      h4 {
-        margin-bottom: 1rem;
-      }
-      p {
-        font-size: 20px;
-      }
+    .gregImgContainer {
+    text-align: center;
+    padding: 3rem 0;
     }
+
 }
 
 .img-label {

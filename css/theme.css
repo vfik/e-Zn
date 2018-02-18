@@ -9716,14 +9716,11 @@ a.sq-btn, .sq-btn {
   bottom: 30px;
   position: absolute; }
 
-.about-intro .copy {
-  padding: 2rem; }
-  .about-intro .copy h2 {
-    margin-bottom: 2rem; }
-  .about-intro .copy h4 {
-    margin-bottom: 1rem; }
-  .about-intro .copy p {
-    font-size: 20px; }
+.about-intro-greg {
+  padding: 1rem 0; }
+  .about-intro-greg .gregImgContainer {
+    text-align: center;
+    padding: 3rem 0; }
 
 .img-label {
   position: relative;
