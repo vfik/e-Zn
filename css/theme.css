@@ -9745,9 +9745,22 @@ a.sq-btn, .sq-btn {
     margin-right: auto;
     max-width: 475px;
     margin-left: 285px; }
+    .project .content .dateTitle {
+      font-family: 'din-2014';
+      margin-bottom: 1rem;
+      font-size: 16px;
+      text-transform: uppercase; }
 
-.about-history {
-  padding: 8rem 0; }
+.project.alt .row {
+  flex-direction: row-reverse; }
+
+.project.alt .bg-three-four {
+  margin-left: 0;
+  margin-right: -285px; }
+
+.project.alt .content {
+  margin-left: auto;
+  margin-right: 285px; }
 
 .careers-intro .bg-top {
   background: #f0f0f0; }

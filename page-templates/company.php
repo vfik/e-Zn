@@ -149,25 +149,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="about-history">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
-				<div class="bg-history">
-					<div class="content">
-						<h2>company history information</h2>
-						<p>talk about progress, how far we've come.</p>
-						<a href="#" class="sq-btn">Careers</a>
-						<a href="#" class="sq-btn">Contact</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
-			</div>
-		</div>
-	</div>
-</div>
+
 
 <!-- End Page Content -->
 
