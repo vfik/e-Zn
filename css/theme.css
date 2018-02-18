@@ -9689,7 +9689,7 @@ a.sq-btn, .sq-btn {
   background-size: cover; }
 
 .about-intro-greg {
-  padding: 2rem 0; }
+  padding: 4rem 0; }
   .about-intro-greg .bioHalf {
     display: flex;
     flex-direction: column;
@@ -9698,7 +9698,8 @@ a.sq-btn, .sq-btn {
     padding: 2rem 2rem; }
     .about-intro-greg .gregBio h3 {
       font-size: 36px;
-      margin-bottom: 1rem; }
+      margin-bottom: 1rem;
+      font-family: 'din-2014'; }
     .about-intro-greg .gregBio h4 {
       font-family: 'din-2014';
       margin-bottom: 2rem;
@@ -9708,7 +9709,8 @@ a.sq-btn, .sq-btn {
       font-weight: 700; }
   .about-intro-greg .gregImgContainer {
     text-align: center;
-    padding: 2rem 0; }
+    padding: 2rem 0;
+    background: #ddd; }
 
 .img-label {
   position: relative;

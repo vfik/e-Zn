@@ -345,7 +345,7 @@ a.sq-btn, .sq-btn {
 
 // company
 .about-intro-greg {
-    padding: 2rem 0;
+    padding: 4rem 0;
 
     .bioHalf {
       display: flex;
@@ -358,6 +358,7 @@ a.sq-btn, .sq-btn {
       h3 {
         font-size: 36px;
         margin-bottom: 1rem;
+        font-family: 'din-2014';
       }
       h4 {
           font-family: 'din-2014';
@@ -372,6 +373,7 @@ a.sq-btn, .sq-btn {
     .gregImgContainer {
     text-align: center;
     padding: 2rem 0;
+    background: #ddd;
     }
 
 }
