@@ -9565,6 +9565,9 @@ a.sq-btn, .sq-btn {
         #wrapper-footer .footerRow .footerCol .links a.footerText:hover {
           text-decoration: none;
           opacity: 0.8; }
+        #wrapper-footer .footerRow .footerCol .links .summary {
+          font-size: 22px;
+          font-size: 26px; }
 
 .home-intro {
   background: #f3f3f3;
