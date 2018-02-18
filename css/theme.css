@@ -9506,6 +9506,8 @@ a.sq-btn, .sq-btn {
       #wrapper-navbar .header .logoCol a.logoA h2 {
         font-size: 3rem;
         margin: 0; }
+      #wrapper-navbar .header .logoCol a.logoA img {
+        max-height: 60px; }
     #wrapper-navbar .header .logoCol a.logoA:hover {
       text-decoration: none; }
     #wrapper-navbar .header .linksCol {
