@@ -75,12 +75,12 @@ endwhile;
 						function showForm() {
 							var applyBtn = document.getElementById('applyBtn');
 							var applyForm = document.getElementById('applyForm');
-							applyForm.classList.remove('displayNone');
+							applyForm.classList.remove('heightZero');
 						}
 					</script>
 					<!--  -->
 					<a class="sq-btn" id="applyBtn" onclick="showForm()">Submit your application</a>
-					<div class="displayNone" id="applyForm">
+					<div class="heightZero" id="applyForm">
 						<h1>Job Application Form</h1>
 						<div id="jobAppForm">
 							<?php echo do_shortcode('[contact-form-7 id="16" title="Job Application Form"]'); ?>

@@ -9732,14 +9732,19 @@ a.sq-btn, .sq-btn {
   text-align: center;
   padding: 1rem 0; }
 
-#applyForm h1 {
-  margin-bottom: 1rem; }
-
-#applyForm #jobAppForm {
-  text-align: left; }
+#applyForm {
+  height: -webkit-fill-available;
+  transition: 300ms ease; }
+  #applyForm h1 {
+    margin-bottom: 1rem; }
+  #applyForm #jobAppForm {
+    text-align: left; }
 
 .displayNone {
   display: none; }
+
+.heightZero {
+  height: 0; }
 
 .paddingZero {
   padding: 0; }
