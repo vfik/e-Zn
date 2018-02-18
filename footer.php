@@ -21,10 +21,13 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-6 footerCol">
 			<!--  -->
 				<div class="links pages">
-					<h4 class="dinTitle">e-Zn Reactor</h4>
+					<h4 class="dinTitle">Sitemap</h4>
 					<!-- <a href="#">Home</a> -->
+					<a href="/" class="footerText">Home</a>
 					<a href="/benefits-of-zinc/" class="footerText">Benefits of Zinc</a>
 					<a href="/technology/" class="footerText">Technology</a>
+					<a href="/company/" class="footerText">Company</a>
+					<a href="/careers/" class="footerText">Careers</a>
 					<a href="/technology/" class="footerText">Technical Paper</a>
 				</div>
 			<!--  -->
@@ -33,9 +36,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<!--  -->
 				<div class="links pages">
 					<h4 class="dinTitle">About us</h4>
-					<a href="/company/" class="footerText">Company</a>
-					<a href="/careers/" class="footerText">Careers</a>
-					<a href="/careers/" class="footerText">STDC Grant</a>
+					<p class="summary">e-Zn Inc invented a new form of energy storage directly in zinc. The Zn reactor is an evolution beyond the battery, and currently in development at our Toronto facility.</p>
 					<!-- <a href="#">Contact</a> -->
 				</div>
 			<!--  -->
