@@ -21,21 +21,21 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-6 footerCol">
 			<!--  -->
 				<div class="links pages">
-					<!-- <h4>e-Zn Reactor</h4> -->
+					<h4>e-Zn Reactor</h4>
 					<!-- <a href="#">Home</a> -->
-					<a href="/benefits-of-zinc/">Benefits of Zinc</a>
-					<a href="/technology/">Technology</a>
-					<a href="/technology/">Technical Paper</a>
+					<a href="/benefits-of-zinc/" class="footerText">Benefits of Zinc</a>
+					<a href="/technology/" class="footerText">Technology</a>
+					<a href="/technology/" class="footerText">Technical Paper</a>
 				</div>
 			<!--  -->
 			</div><!--col end -->
 			<div class="col-md-6 footerCol">
 			<!--  -->
 				<div class="links pages">
-					<!-- <h4>About us</h4> -->
-					<a href="/company/">Company</a>
-					<a href="/careers/">Careers</a>
-					<a href="/careers/">STDC Grant</a>
+					<h4>About us</h4>
+					<a href="/company/" class="footerText">Company</a>
+					<a href="/careers/" class="footerText">Careers</a>
+					<a href="/careers/" class="footerText">STDC Grant</a>
 					<!-- <a href="#">Contact</a> -->
 				</div>
 			<!--  -->
@@ -47,16 +47,16 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-6 footerCol">
 				<div class="links">
 					<h4 class="dinTitle">Contact</h4>
-					<p>416-000-0000</p>
-					<p>info@e-zn.com</p>
+					<p class="footerText">416-000-0000</p>
+					<p class="footerText">info@e-zn.com</p>
 				</div>
 			</div>
 
 			<div class="col-md-6 footerCol">
 				<div class="links">
 					<h4 class="dinTitle">Office + Laboratory</h4>
-					<p>25 Advance Rd, Toronto</p>
-					<p>Ontario, Canada M8Z 2S6</p>
+					<p class="footerText">25 Advance Rd, Toronto</p>
+					<p class="footerText">Ontario, Canada M8Z 2S6</p>
 				</div>
 			</div>
 

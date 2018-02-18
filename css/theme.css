@@ -9531,7 +9531,8 @@ a.sq-btn, .sq-btn {
 .dinTitle {
   font-family: 'din-2014';
   text-transform: uppercase;
-  font-size: 14px; }
+  font-size: 14px;
+  margin-bottom: 1rem; }
 
 #wrapper-footer {
   background: #f9f9f9;
@@ -9544,6 +9545,10 @@ a.sq-btn, .sq-btn {
       #wrapper-footer .footerRow .footerCol .links {
         display: flex;
         flex-direction: column; }
+        #wrapper-footer .footerRow .footerCol .links .footerText {
+          margin-bottom: 0;
+          font-size: 20px;
+          color: #333; }
 
 .home-con .row {
   padding: 2rem 0; }
