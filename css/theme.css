@@ -9528,25 +9528,6 @@ a.sq-btn, .sq-btn {
           text-decoration: none;
           border-bottom: 1px solid #555; }
 
-#wrapper-footer {
-  padding: 6rem 0 4rem;
-  padding: 4rem 0 4rem; }
-  #wrapper-footer .links {
-    display: flex;
-    flex-direction: column; }
-    #wrapper-footer .links h4 {
-      font-family: 'din-2014';
-      font-size: 14px;
-      letter-spacing: 1px;
-      text-transform: uppercase;
-      border-bottom: 1px solid #333;
-      padding-bottom: 1rem;
-      margin-bottom: 1rem; }
-    #wrapper-footer .links p, #wrapper-footer .links a {
-      margin: 0;
-      font-size: 20px;
-      color: #333; }
-
 .home-con .row {
   padding: 2rem 0; }
 

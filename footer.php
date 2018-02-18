@@ -18,11 +18,10 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<div class="<?php echo esc_attr( $container ); ?>">
 
 		<div class="row footerRow">
-
-			<div class="col-md-3">
+			<div class="col-md-6">
 			<!--  -->
-				<div class="links">
-					<h4>e-Zn Reactor</h4>
+				<div class="links pages">
+					<!-- <h4>e-Zn Reactor</h4> -->
 					<!-- <a href="#">Home</a> -->
 					<a href="/benefits-of-zinc/">Benefits of Zinc</a>
 					<a href="/technology/">Technology</a>
@@ -30,10 +29,10 @@ $container = get_theme_mod( 'understrap_container_type' );
 				</div>
 			<!--  -->
 			</div><!--col end -->
-			<div class="col-md-3">
+			<div class="col-md-6">
 			<!--  -->
-				<div class="links">
-					<h4>About us</h4>
+				<div class="links pages">
+					<!-- <h4>About us</h4> -->
 					<a href="/company/">Company</a>
 					<a href="/careers/">Careers</a>
 					<a href="/careers/">STDC Grant</a>
@@ -41,6 +40,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 				</div>
 			<!--  -->
 			</div><!--col end -->
+		</div>
+
+		<div class="row footerRow contactRow">
 
 			<div class="col-md-3">
 				<div class="links">

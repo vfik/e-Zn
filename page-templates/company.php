@@ -69,10 +69,6 @@ endwhile;
 						<p>funding $1.5M and project started October 2016.</p>
 					</div>
 				</div>
-				<div class="img-label">
-					<h4>Rooftop Installation in Toronto</h4>
-					<p>Rooftop Installation in Toronto</p>
-				</div>
 			</div>
 		</div>
 	</div>
