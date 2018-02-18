@@ -29,7 +29,7 @@ endwhile;
 		<div class="col-md-6">
 			<div class="companysub">
 				<div class="content">
-					<h1>e-Zn laboratories located in Toronto, Canada.</h1>
+					<h1>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h1>
 				</div>
 			</div>
 		</div>
@@ -41,7 +41,6 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6">
 				<div class="copy">
-					<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
 					<h3>Gregory X. Zhang</h3>
 					<h4>Ph.D. in Materials Science and Electrochemistry</h4>
 					<p>Bio about greg, in here wil will tell a short story and make note of the books he authored and his career. Now its time for a zinc energy storagy.</p>

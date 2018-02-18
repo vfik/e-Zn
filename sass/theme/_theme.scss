@@ -104,6 +104,10 @@ a.sq-btn, .sq-btn {
             font-size: 22px;
             color: #333;
           }
+          a.footerText:hover{
+            text-decoration: none;
+            opacity: 0.8;
+          }
         }
       }
     }
@@ -292,15 +296,45 @@ a.sq-btn, .sq-btn {
   background-position: center center;
   background-size: cover;
 }
+.companyslider.company::before {
+    content: "e-Zn laboratories is located in Toronto, Canada";
+    background: #333;
+    color: #fff;
+    padding: 6px 12px;
+    bottom: 0px;
+    left: 45px;
+    bottom: 30px;
+    position: absolute;
+}
 .companyslider.zinc {
   background: url(/wp-content/uploads/2018/02/zinc-in-container-resize.jpg);
   background-position: center center;
   background-size: cover;
 }
+.companyslider.zinc::before {
+    content: "Zinc in storage solution";
+    background: #333;
+    color: #fff;
+    padding: 6px 12px;
+    bottom: 0px;
+    left: 45px;
+    bottom: 30px;
+    position: absolute;
+}
 .companyslider.technology {
   background: url(/wp-content/uploads/2018/02/inside-reactor-resize-recolor-landscape.jpg);
   background-position: center center;
   background-size: cover;
+}
+.companyslider.technology::before {
+    content: "Photo inside e-Zn's reactor";
+    background: #333;
+    color: #fff;
+    padding: 6px 12px;
+    bottom: 0px;
+    right: 45px;
+    bottom: 30px;
+    position: absolute;
 }
 
 // company
