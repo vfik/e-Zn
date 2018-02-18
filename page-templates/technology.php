@@ -81,24 +81,20 @@ endwhile;
 				</div>
 			</div>
 		</div>
-	</div>
-</div>
-
-<div class="container techAbout">
-	<div class="row">
-		<div class="col-md-6 written">
-			<div class="content">
-				<h2>About our company</h2>
-				<p>one sentence about the vision</p>
-				<p>One short paragraph about greg zhang</p>
-				<a href="/company/" class="sq-btn">Learn More</a>
+		<div class="row">
+			<div class="col-md-6 image">
+				<img src="/wp-content/uploads/2018/02/gregory-zhang-mountain.jpg" alt="">
+			</div>
+			<div class="col-md-6 content">
+				<div class="right-content">
+					<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
+					<p>Gregory zhang is the the world leader in zinc. he made a discovery and started the company.</p>
+					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a>
+					<a href="/company/" class="sq-btn">About Us</a>
+				</div>
 			</div>
 		</div>
-		<div class="col-md-6">
-			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
-		</div>
 	</div>
-
 </div>
 
 <!-- End Page Content -->
