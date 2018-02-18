@@ -98,7 +98,7 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/e-zn-solar-panels.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
 			</div>
 			<div class="col-md-6 btf">
 				<div class="bg-three-four">
@@ -134,7 +134,7 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/e-zn-solar-panels.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg" alt="">
 			</div>
 			<div class="col-md-6 btf">
 				<div class="bg-three-four">
