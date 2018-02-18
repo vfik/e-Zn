@@ -102,9 +102,13 @@ a.sq-btn, .sq-btn {
     padding: 4rem 0;
     // margin-top: 4rem;
 
+    .dinTitle {
+      color:$slate-dark;
+    }
+
     .footerRow {
-      border-top: 1px solid #999;
       border-top: 1px solid #666;
+      border-top: 1px solid $slate-dark;
       padding: 3rem 0;
 
       .footerCol {
