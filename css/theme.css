@@ -9523,11 +9523,14 @@ a.sq-btn, .sq-btn {
           letter-spacing: 1px;
           font-size: 1rem;
           padding: 3px 0;
-          border-bottom: 1px solid #fff;
-          border-bottom: 1px solid #f3f3f3; }
+          padding: 5px 0 3px;
+          border-bottom: 2px solid #fff;
+          border-bottom: 2px solid #f3f3f3;
+          font-weight: 600;
+          font-size: 14px; }
         #wrapper-navbar .header .linksCol .links a:hover {
           text-decoration: none;
-          border-bottom: 1px solid #555; }
+          border-bottom: 2px solid #555; }
 
 .dinTitle {
   font-family: 'din-2014';
@@ -9698,6 +9701,13 @@ a.sq-btn, .sq-btn {
     .about-intro-greg .gregBio h3 {
       font-size: 36px;
       margin-bottom: 1rem; }
+    .about-intro-greg .gregBio h4 {
+      font-family: 'din-2014';
+      margin-bottom: 2rem;
+      text-transform: uppercase;
+      font-size: 18px;
+      letter-spacing: 1px;
+      font-weight: 700; }
   .about-intro-greg .gregImgContainer {
     text-align: center;
     padding: 2rem 0; }
@@ -9730,7 +9740,7 @@ a.sq-btn, .sq-btn {
     flex-direction: column;
     justify-content: center; }
   .project .bg-three-four {
-    background: #dce6ed;
+    background: #f3f3f3;
     margin-left: -285px;
     padding: 3rem 2rem; }
   .project .content {
@@ -9742,6 +9752,7 @@ a.sq-btn, .sq-btn {
   flex-direction: row-reverse; }
 
 .project.alt .bg-three-four {
+  background: #dce6ed;
   margin-left: 0;
   margin-right: -285px; }
 
