@@ -39,13 +39,13 @@ endwhile;
 <div class="technology-spread">
 	<div class="container">
 		<div class="row first">
-			<div class="col-md-6 left">
+			<div class="col-md-6 image">
 				<div class="left-content">
 					<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
 					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
 				</div>
 			</div>
-			<div class="col-md-6 right">
+			<div class="col-md-6 content">
 				<div class="right-content">
 					<h2>The innovation</h2>
 					<p>Numerous attempts have been made to store energy in zinc metal in the past siz decades based on an approach featuring multiple containers of zinc undergoing the processes of formation, storage and dissolution.</p>
@@ -54,7 +54,7 @@ endwhile;
 			</div>
 		</div>
 		<div class="row second">
-			<div class="col-md-6 right">
+			<div class="col-md-6 content">
 				<div class="right-content">
 					<h2>The e-Zn reactor is an evolution beyond the battery.</h2>
 					<p>Energy capacity does not fade with time and does not change with temperature. The e-Zn reactor is a long-life storage solution that can operate in temperatures ranging from -45°C to 70°C.</p>
@@ -66,7 +66,7 @@ endwhile;
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-6 imgCol">
+			<div class="col-md-6 image">
 				<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" alt="">
 			</div>
 		</div>

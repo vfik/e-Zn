@@ -221,26 +221,18 @@ a.sq-btn, .sq-btn {
 // technology
 
 .technology-spread {
-  .left {
+  padding: 4rem 0;
+  
+  .image, .content {
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
-  .right {
+
+  .right-content {
     padding: 0 4rem;
-    img {
-      margin-bottom: 2rem;
-    }
-    h2 {
-      margin-bottom: 2rem;
-    }
-    p, ul {
-      font-size: 20px;
-    }
   }
-  .second {
-    padding: 3rem 0;
-  }
+
 }
 
 .charging-stations {

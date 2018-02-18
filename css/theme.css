@@ -9623,22 +9623,14 @@ a.sq-btn, .sq-btn {
     .benefits .point h2 {
       margin-bottom: 1rem; }
 
-.technology-spread .left {
-  display: flex;
-  flex-direction: column;
-  justify-content: center; }
-
-.technology-spread .right {
-  padding: 0 4rem; }
-  .technology-spread .right img {
-    margin-bottom: 2rem; }
-  .technology-spread .right h2 {
-    margin-bottom: 2rem; }
-  .technology-spread .right p, .technology-spread .right ul {
-    font-size: 20px; }
-
-.technology-spread .second {
-  padding: 3rem 0; }
+.technology-spread {
+  padding: 4rem 0; }
+  .technology-spread .image, .technology-spread .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; }
+  .technology-spread .right-content {
+    padding: 0 4rem; }
 
 .charging-stations .imgCol {
   z-index: 1; }
