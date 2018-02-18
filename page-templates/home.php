@@ -49,7 +49,7 @@ endwhile;
 					<li>Low cost</li>
 					<li>High energy density</li>
 				</ul>
-				<a href="#" class="sq-btn">Learn more about Benefits of Zinc</a>
+				<a href="/benefits-of-zinc/" class="sq-btn">Learn more about Benefits of Zinc</a>
 			</div>
 		</div>
 	</div>

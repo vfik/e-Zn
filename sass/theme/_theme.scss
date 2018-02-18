@@ -7,8 +7,9 @@ body {
   letter-spacing: 0.5px;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: "zenon";
-  letter-spacing: 0px;
+  font-family: "din-2014";
+  letter-spacing: 1px;
+  font-weight: 600;
 }
 
 a.sq-btn, .sq-btn {
@@ -123,6 +124,7 @@ a.sq-btn, .sq-btn {
             font-size: 20px;
             font-size: 22px;
             color: #333;
+            color:$slate-dark;
           }
           a.footerText:hover{
             text-decoration: none;
@@ -211,6 +213,9 @@ a.sq-btn, .sq-btn {
 
   p, ul {
     font-size: 20px;
+  }
+  ul {
+    margin-bottom: 2rem;
   }
 }
 
