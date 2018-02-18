@@ -9570,6 +9570,9 @@ a.sq-btn, .sq-btn {
           font-size: 26px;
           margin-bottom: 1rem; }
 
+.page-template-home #wrapper-navbar {
+  margin: 0; }
+
 .home-intro {
   background: #f3f3f3;
   padding: 4rem 0; }

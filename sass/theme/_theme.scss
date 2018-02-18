@@ -137,6 +137,12 @@ a.sq-btn, .sq-btn {
 
 // HOME
 
+.page-template-home {
+  #wrapper-navbar {
+      margin: 0;
+  }
+}
+
 .home-intro {
   background: $gray-main;
   padding: 4rem 0;
