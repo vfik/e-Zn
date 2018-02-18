@@ -131,6 +131,17 @@ a.sq-btn, .sq-btn {
 
 // HOME
 
+.home-intro {
+  background: $gray-main;
+  padding: 4rem 0;
+
+  .introCol {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
 .home-con {
   .row {
     padding: 2rem 0;

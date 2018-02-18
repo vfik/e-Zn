@@ -17,6 +17,23 @@ endwhile;
 
 <!-- Begin Page Content -->
 
+<div class="home-intro">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 introCol">
+				<div class="content">
+					<h1>Energy into Matter</h1>
+					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p>
+					<a href="#" class="sq-btn">Explore our technology ></a>
+				</div>
+			</div>
+			<div class="col-md-6 introCol">
+				<img src="/wp-content/uploads/2018/02/inside-reactor-resize-recolor-landscape.jpg" alt="">
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="slider">
 
 	<div class="container">
