@@ -103,8 +103,8 @@ endwhile;
 			<div class="col-md-6 btf">
 				<div class="bg-three-four">
 					<div class="content">
-						<h3 class="dateTitle">April 2017</h3>
-						<h2 class="eventTitle">New facility; patents issued</h2>
+						<h3 class="dateTitle">2017</h3>
+						<h2 class="eventTitle">New facility; USA and Chinese patents</h2>
 						<p>e-Zn upgraded to current office. US and chinese patents have been issued.</p>
 					</div>
 				</div>

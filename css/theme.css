@@ -9676,7 +9676,7 @@ a.sq-btn, .sq-btn {
   background-size: cover; }
 
 .companyslider.zinc {
-  background: url(/wp-content/uploads/2018/02/zinc-in-container-resize.jpg);
+  background: url(/wp-content/uploads/2018/02/zinc-close-detail.jpg);
   background-position: center center;
   background-size: cover; }
 
@@ -9715,22 +9715,21 @@ a.sq-btn, .sq-btn {
   letter-spacing: 1px;
   font-size: 36px; }
 
-.project {
-  padding-top: 90px;
-  padding-top: 180px; }
-  .project .btf {
-    z-index: -1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center; }
-  .project .bg-three-four {
-    background: #f0f0f0;
-    margin-left: -285px;
-    padding: 3rem 2rem; }
-  .project .content {
-    margin-right: auto;
-    max-width: 475px;
-    margin-left: 285px; }
+.project .btf {
+  z-index: -1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.project .bg-three-four {
+  background: #f0f0f0;
+  margin-left: -285px;
+  padding: 3rem 2rem; }
+
+.project .content {
+  margin-right: auto;
+  max-width: 475px;
+  margin-left: 285px; }
 
 .project.alt .row {
   flex-direction: row-reverse; }
