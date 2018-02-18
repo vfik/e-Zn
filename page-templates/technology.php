@@ -41,12 +41,12 @@ endwhile;
 		<div class="row first">
 			<div class="col-md-6 left">
 				<div class="left-content">
-					<img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt="">
+					<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
+					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
 				</div>
 			</div>
 			<div class="col-md-6 right">
 				<div class="right-content">
-					<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
 					<h2>The innovation</h2>
 					<p>Numerous attempts have been made to store energy in zinc metal in the past siz decades based on an approach featuring multiple containers of zinc undergoing the processes of formation, storage and dissolution.</p>
 					<p>e-Zn abandoned the traditional approach and placed all elements in a single container - eliminating the jamming problems and inventing the e-Zn Reactor. </p>
@@ -66,8 +66,8 @@ endwhile;
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-6">
-				<p>[insert chart to compare zn vs battery]</p>
+			<div class="col-md-6 imgCol">
+				<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" alt="">
 			</div>
 		</div>
 	</div>
