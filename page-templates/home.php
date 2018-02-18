@@ -24,7 +24,7 @@ endwhile;
 				<div class="content">
 					<h1>Energy into Matter</h1>
 					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p>
-					<a href="#" class="sq-btn">Explore our technology ></a>
+					<a href="#" class="sq-btn">Explore our technology</a>
 				</div>
 			</div>
 			<div class="col-md-6 introCol">
@@ -49,7 +49,7 @@ endwhile;
 					<li>Low cost</li>
 					<li>High energy density</li>
 				</ul>
-				<a href="/benefits-of-zinc/" class="sq-btn">Learn more about Benefits of Zinc</a>
+				<a href="/benefits-of-zinc/" class="sq-btn">Explore Benefits</a>
 			</div>
 		</div>
 	</div>
@@ -59,7 +59,7 @@ endwhile;
 				<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
 				<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. Talk about greg shortly and list his accomplishments.</p>
 				<p>short copy paragraphs go here to describe e-Zn inc.</p>
-				<a href="/company/" class="sq-btn">Learn More</a>
+				<a href="/company/" class="sq-btn">About Us</a>
 				<a href="/careers/" class="sq-btn">Careers</a>
 			</div>
 		</div>

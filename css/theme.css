@@ -9579,7 +9579,11 @@ a.sq-btn, .sq-btn {
 
 .home-intro {
   background: #f3f3f3;
-  padding: 4rem 0; }
+  padding: 4rem 0;
+  background: #f3f3f3;
+  padding: 4rem 0;
+  background-image: url(/wp-content/uploads/2018/02/gray-home-spiral.jpg);
+  background-position: 50% 0%; }
   .home-intro .introCol {
     display: flex;
     flex-direction: column;

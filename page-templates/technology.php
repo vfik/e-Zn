@@ -48,8 +48,9 @@ endwhile;
 			<div class="col-md-6 content">
 				<div class="right-content">
 					<h2>The innovation</h2>
-					<p>Numerous attempts have been made to store energy in zinc metal in the past siz decades based on an approach featuring multiple containers of zinc undergoing the processes of formation, storage and dissolution.</p>
+					<p>Numerous attempts have been made to store energy in zinc metal in the past six decades based on an approach featuring multiple containers of zinc undergoing the processes of formation, storage and dissolution.</p>
 					<p>e-Zn abandoned the traditional approach and placed all elements in a single container - eliminating the jamming problems and inventing the e-Zn Reactor. </p>
+					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a>
 				</div>
 			</div>
 		</div>
@@ -86,7 +87,7 @@ endwhile;
 				<div class="right-content">
 					<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
 					<p>Gregory zhang is the the world leader in zinc. he made a discovery and started the company.</p>
-					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a>
+					<!-- <a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a> -->
 					<a href="/company/" class="sq-btn">About Us</a>
 				</div>
 			</div>
