@@ -339,11 +339,17 @@ a.sq-btn, .sq-btn {
 
 // company
 .about-intro-greg {
-    padding: 1rem 0;
+    padding: 2rem 0;
+
+    .bioHalf {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
 
     .gregImgContainer {
     text-align: center;
-    padding: 3rem 0;
+    padding: 2rem 0;
     }
 
 }
