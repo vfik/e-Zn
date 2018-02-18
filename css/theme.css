@@ -9664,6 +9664,9 @@ a.sq-btn, .sq-btn {
     max-width: 570px;
     margin-top: -90px; }
 
+.companyslider.company {
+  background: url(/wp-content/uploads/2018/02/photo-office-resize.jpg); }
+
 .about-intro .copy {
   padding: 2rem; }
   .about-intro .copy h2 {

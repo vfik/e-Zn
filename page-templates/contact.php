@@ -172,7 +172,7 @@ endwhile;
 				</div>
 			</div>
 			<div class="col-md-6 paddingZero">
-				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
 			</div>
 		</div>
 	</div>
