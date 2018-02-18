@@ -9679,7 +9679,7 @@ a.sq-btn, .sq-btn {
 
 .companyslider.company::before {
   content: "e-Zn laboratories is located in Toronto, Canada";
-  background: #333;
+  background: rgba(0, 0, 0, 0.75);
   color: #fff;
   padding: 6px 12px;
   bottom: 0px;
@@ -9694,7 +9694,7 @@ a.sq-btn, .sq-btn {
 
 .companyslider.zinc::before {
   content: "Zinc in storage solution";
-  background: #333;
+  background: rgba(0, 0, 0, 0.75);
   color: #fff;
   padding: 6px 12px;
   bottom: 0px;
@@ -9709,7 +9709,7 @@ a.sq-btn, .sq-btn {
 
 .companyslider.technology::before {
   content: "Photo inside e-Zn's reactor";
-  background: #333;
+  background: rgba(0, 0, 0, 0.75);
   color: #fff;
   padding: 6px 12px;
   bottom: 0px;
@@ -9751,11 +9751,13 @@ a.sq-btn, .sq-btn {
   padding-top: 90px;
   padding-top: 180px; }
   .project .btf {
-    z-index: -1; }
+    z-index: -1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; }
   .project .bg-three-four {
     background: #f0f0f0;
     margin-left: -285px;
-    margin-top: -90px;
     padding: 3rem 2rem; }
   .project .content {
     margin-right: auto;
