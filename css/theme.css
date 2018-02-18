@@ -9539,8 +9539,7 @@ a.sq-btn, .sq-btn {
 
 #wrapper-footer {
   background: #f3f3f3;
-  padding: 4rem 0;
-  margin-top: 4rem; }
+  padding: 4rem 0; }
   #wrapper-footer .footerRow {
     border-top: 1px solid #999;
     border-top: 1px solid #666;
@@ -9784,7 +9783,8 @@ a.sq-btn, .sq-btn {
 #applyForm {
   max-height: 1000px;
   padding: 2rem 0 0;
-  transition: 1500ms ease; }
+  transition: 1500ms ease;
+  overflow: hidden; }
   #applyForm h1 {
     margin-bottom: 1rem; }
   #applyForm #jobAppForm {

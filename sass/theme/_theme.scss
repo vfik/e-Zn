@@ -90,7 +90,7 @@ a.sq-btn, .sq-btn {
 #wrapper-footer {
     background: $gray-main;
     padding: 4rem 0;
-    margin-top: 4rem;
+    // margin-top: 4rem;
 
     .footerRow {
       border-top: 1px solid #999;
@@ -478,6 +478,7 @@ a.sq-btn, .sq-btn {
   max-height: 1000px;
   padding: 2rem 0 0;
   transition: 1500ms ease;
+  overflow: hidden;
 
   h1 {
     margin-bottom: 1rem
