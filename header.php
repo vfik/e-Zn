@@ -23,6 +23,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<?php wp_head(); ?>
 
 	<link rel="stylesheet" href="https://use.typekit.net/ind6pcp.css">
+	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+	
 
 </head>
 
