@@ -26,7 +26,7 @@ endwhile;
 		</div>
 	</div>
 	<div class="row justify-content-end">
-		<div class="col-md-6">
+		<div class="col-md-12">
 			<div class="companysub">
 				<div class="content">
 					<h1>Benefits of Zinc for energy storage</h1>

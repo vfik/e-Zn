@@ -26,7 +26,7 @@ endwhile;
 		</div>
 	</div>
 	<div class="row tech-sub-row">
-		<div class="col-md-6">
+		<div class="col-md-12">
 			<div class="companysub">
 				<div class="content">
 					<h1>The e-Zn reactor is a breakthrough energy storage solution that turns energy into matter</h1>
