@@ -62,13 +62,13 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/e-zn-solar-panels.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/e-zn-founded.jpg" alt="">
 			</div>
 			<div class="col-md-6 btf">
 				<div class="bg-three-four">
 					<div class="content">
 						<h3 class="dateTitle">October 2012</h3>
-						<h2>Company founded</h2>
+						<h2 class="eventTitle">Company founded</h2>
 						<p>Demonstration of the application feasibility of solar energy storage in zinc metal with Zn-Reactor</p>
 					</div>
 				</div>
@@ -80,13 +80,13 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/e-zn-solar-panels.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/inside-reactor-resize-recolor-landscape.jpg" alt="">
 			</div>
 			<div class="col-md-6 btf">
 				<div class="bg-three-four">
 					<div class="content">
-						<h3 class="dateTitle">2013-2016</h3>
-						<h2>Prototype Reactors</h2>
+						<h3 class="dateTitle">2013 - 2016</h3>
+						<h2 class="eventTitle">Prototype Reactors</h2>
 						<p>extensive development with 8 iterations in design. The first lab was set up and we went to work. The system was developed to be fully automated with electronic boards.</p>
 					</div>
 				</div>
@@ -104,7 +104,7 @@ endwhile;
 				<div class="bg-three-four">
 					<div class="content">
 						<h3 class="dateTitle">April 2017</h3>
-						<h2>New facility; patents issued</h2>
+						<h2 class="eventTitle">New facility; patents issued</h2>
 						<p>e-Zn upgraded to current office. US and chinese patents have been issued.</p>
 					</div>
 				</div>
@@ -122,7 +122,7 @@ endwhile;
 				<div class="bg-three-four">
 					<div class="content">
 						<h3 class="dateTitle">December 2017</h3>
-						<h2>SDTC Solar Project Installation</h2>
+						<h2 class="eventTitle">SDTC Solar Project Installation</h2>
 						<p>e-Zn was awarded grant by Sustainable Devlopment Technology Canada to install solar panels to work directly with the reactors.</p>
 					</div>
 				</div>
@@ -140,7 +140,7 @@ endwhile;
 				<div class="bg-three-four">
 					<div class="content">
 						<h3 class="dateTitle">January 2018</h3>
-						<h2>20 cell system integrated</h2>
+						<h2 class="eventTitle">20 cell system integrated</h2>
 						<p>the zinc reactors are up and running.</p>
 					</div>
 				</div>

@@ -360,6 +360,25 @@ a.sq-btn, .sq-btn {
     top: 90px;
 }
 
+// type
+
+.dateTitle {
+  font-family: 'din-2014';
+  margin-bottom: 1rem;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.eventTitle {
+  margin-bottom: 2rem;
+  font-family: 'din-2014';
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 36px;
+}
+
 .project {
   padding-top: 90px;
   padding-top: 180px;
@@ -377,13 +396,6 @@ a.sq-btn, .sq-btn {
     margin-right: auto;
     max-width: 475px;
     margin-left: 285px;
-
-    .dateTitle {
-      font-family: 'din-2014';
-      margin-bottom: 1rem;
-      font-size: 16px;
-      text-transform: uppercase;
-    }
   }
 }
 .project.alt {
