@@ -38,7 +38,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="job postings">
+<div class="job postings" id="positions">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-md-8">
@@ -79,7 +79,7 @@ endwhile;
 						}
 					</script>
 					<!--  -->
-					<a class="sq-btn" id="applyBtn" onclick="showForm()">Submit your application</a>
+					<a class="sq-btn" id="applyBtn" onclick="showForm()" href="#positions">Submit your application</a>
 					<div class="heightZero" id="applyForm">
 						<h1>Job Application Form</h1>
 						<div id="jobAppForm">
