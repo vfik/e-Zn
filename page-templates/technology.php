@@ -82,9 +82,6 @@ endwhile;
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/gregory-zhang-mountain.jpg" alt="">
-			</div>
 			<div class="col-md-6 content">
 				<div class="right-content">
 					<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
@@ -92,6 +89,9 @@ endwhile;
 					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a>
 					<a href="/company/" class="sq-btn">About Us</a>
 				</div>
+			</div>
+			<div class="col-md-6 image">
+				<img src="/wp-content/uploads/2018/02/gregory-zhang-mountain.jpg" alt="">
 			</div>
 		</div>
 	</div>
