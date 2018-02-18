@@ -9567,7 +9567,8 @@ a.sq-btn, .sq-btn {
           opacity: 0.8; }
         #wrapper-footer .footerRow .footerCol .links .summary {
           font-size: 22px;
-          font-size: 26px; }
+          font-size: 26px;
+          margin-bottom: 1rem; }
 
 .home-intro {
   background: #f3f3f3;

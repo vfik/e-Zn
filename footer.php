@@ -36,7 +36,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<!--  -->
 				<div class="links pages">
 					<h4 class="dinTitle">About us</h4>
-					<p class="summary">e-Zn has developed a breakthrough technology to store electrical energy in zinc metal. Our reactor is an evolution beyond the battery, and currently in operation at our Toronto facility.</p>
+					<p class="summary">e-Zn has developed a breakthrough technology to store electrical energy in zinc metal.</p>
+					<p class="summary">Our reactor is an evolution beyond the battery, and currently in operation at our Toronto facility.</p>
 					<!-- <a href="#">Contact</a> -->
 				</div>
 			<!--  -->
