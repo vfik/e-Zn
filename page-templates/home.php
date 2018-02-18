@@ -34,28 +34,6 @@ endwhile;
 	</div>
 </div>
 
-<div class="slider">
-
-	<div class="container">
-		<div class="row justify-content-end image">
-			<div class="col-md-12 colBlock">
-				<div class="block">
-
-				</div>
-			</div>
-		</div>
-		<div class="row justify-content-start text">
-			<div class="col-md-6 colContent">
-				<div class="content">
-					<h1>Energy into Matter</h1>
-					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p>
-					<a href="#" class="sq-btn">Explore our technology ></a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
 <div class="container home-con">
 	<div class="row">
 		<div class="col-md-6 image">
@@ -81,13 +59,13 @@ endwhile;
 				<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
 				<p>short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. short copy paragraphs go here to describe e-Zn inc. Talk about greg shortly and list his accomplishments.</p>
 				<p>short copy paragraphs go here to describe e-Zn inc.</p>
-				<a href="#" class="sq-btn">Company page</a>
-				<a href="#" class="sq-btn">Careers</a>
+				<a href="/company/" class="sq-btn">Learn More</a>
+				<a href="/careers/" class="sq-btn">Careers</a>
 			</div>
 		</div>
 		<div class="col-md-6 homeCompanyImgs">
-			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="" class="one">
-			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="" class="two">
+			<img src="/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg" alt="" class="one">
+			<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="" class="two">
 		</div>
 	</div>
 
