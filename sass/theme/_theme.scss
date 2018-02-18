@@ -162,6 +162,12 @@ a.sq-btn, .sq-btn {
     flex-direction: column;
     justify-content: center;
   }
+
+  .sq-btn {
+    border:0;
+    color:#fff;
+    background: $blue-one;
+  }
 }
 
 .home-con {

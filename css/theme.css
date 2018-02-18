@@ -9588,6 +9588,10 @@ a.sq-btn, .sq-btn {
     display: flex;
     flex-direction: column;
     justify-content: center; }
+  .home-intro .sq-btn {
+    border: 0;
+    color: #fff;
+    background: #0e778c; }
 
 .home-con .row {
   padding: 2rem 0; }
