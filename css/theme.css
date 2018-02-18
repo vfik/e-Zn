@@ -9667,7 +9667,8 @@ a.sq-btn, .sq-btn {
   height: 425px; }
 
 .companysub {
-  background: #f3f3f3; }
+  background: #f3f3f3;
+  background: #dce6ed; }
   .companysub .content {
     padding: 2rem 2rem; }
 
@@ -9692,6 +9693,11 @@ a.sq-btn, .sq-btn {
     display: flex;
     flex-direction: column;
     justify-content: center; }
+  .about-intro-greg .gregBio {
+    padding: 2rem 2rem; }
+    .about-intro-greg .gregBio h3 {
+      font-size: 36px;
+      margin-bottom: 1rem; }
   .about-intro-greg .gregImgContainer {
     text-align: center;
     padding: 2rem 0; }
@@ -9724,7 +9730,7 @@ a.sq-btn, .sq-btn {
     flex-direction: column;
     justify-content: center; }
   .project .bg-three-four {
-    background: #f0f0f0;
+    background: #dce6ed;
     margin-left: -285px;
     padding: 3rem 2rem; }
   .project .content {
@@ -9744,7 +9750,7 @@ a.sq-btn, .sq-btn {
   margin-right: 285px; }
 
 .careers-intro .bg-top {
-  background: #f9f9f9; }
+  background: #dce6ed; }
   .careers-intro .bg-top .content {
     padding: 3rem;
     max-width: 570px; }
@@ -9803,7 +9809,7 @@ a.sq-btn, .sq-btn {
 .contactIntro {
   padding-top: 90px; }
   .contactIntro .details {
-    background: #f0f0f0;
+    background: #dce6ed;
     width: 800px;
     margin-right: auto;
     position: relative;

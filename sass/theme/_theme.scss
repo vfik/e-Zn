@@ -285,6 +285,7 @@ a.sq-btn, .sq-btn {
 
 .companysub {
   background: $gray-main;
+  background: $slate-one;
   // width: 800px;
 
   .content {
@@ -350,6 +351,14 @@ a.sq-btn, .sq-btn {
       justify-content: center;
     }
 
+    .gregBio {
+      padding: 2rem 2rem;
+      h3 {
+        font-size: 36px;
+        margin-bottom: 1rem;
+      }
+    }
+
     .gregImgContainer {
     text-align: center;
     padding: 2rem 0;
@@ -391,7 +400,7 @@ a.sq-btn, .sq-btn {
     justify-content: center;
   }
   .bg-three-four {
-    background: #f0f0f0;
+    background: $slate-one;
     margin-left: -285px;
     // margin-right: -285px;
     // margin-top: -90px;
@@ -421,7 +430,7 @@ a.sq-btn, .sq-btn {
 
 .careers-intro {
   .bg-top {
-    background: $gray-light;
+    background: $slate-one;
 
     .content {
       padding: 3rem;
@@ -508,7 +517,7 @@ a.sq-btn, .sq-btn {
     padding-top: 90px;
 
     .details {
-      background: #f0f0f0;
+      background: $slate-one;
       width: 800px;
       margin-right: auto;
       position: relative;
