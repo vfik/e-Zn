@@ -9697,6 +9697,8 @@ a.sq-btn, .sq-btn {
   background: #dce6ed; }
   .companysub .content {
     padding: 2rem 2rem; }
+    .companysub .content h1 {
+      color: #273f59; }
 
 .companyslider.company {
   background: url(/wp-content/uploads/2018/02/photo-office-resize.jpg);
@@ -9792,9 +9794,11 @@ a.sq-btn, .sq-btn {
     padding: 3rem;
     max-width: 570px; }
     .careers-intro .bg-top .content h1 {
-      margin-bottom: 2rem; }
+      margin-bottom: 2rem;
+      font-size: 3rem;
+      color: #273f59; }
     .careers-intro .bg-top .content p {
-      font-size: 20px; }
+      font-size: 22px; }
 
 .careers-intro .row.img {
   margin-top: -90px;
@@ -9859,7 +9863,10 @@ a.sq-btn, .sq-btn {
       margin-left: auto; }
     .contactIntro .details h1 {
       margin-bottom: 2rem;
-      font-size: 2.65rem; }
+      font-size: 3rem;
+      color: #273f59; }
+    .contactIntro .details p {
+      font-size: 22px; }
 
 .contactForm .cForm {
   padding: 3rem 2rem;
@@ -9871,7 +9878,8 @@ a.sq-btn, .sq-btn {
 .contactForm label {
   text-transform: uppercase;
   font-size: 16px;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+  line-height: 2; }
 
 /*
 * Use existing Bootstrap 4 classes and

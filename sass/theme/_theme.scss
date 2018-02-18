@@ -332,6 +332,9 @@ a.sq-btn, .sq-btn {
     padding: 2rem 2rem;
     // max-width: 570px;
     // margin-top: -90px;
+    h1 {
+      color:$slate-dark;
+    }
   }
 }
 
@@ -489,9 +492,11 @@ a.sq-btn, .sq-btn {
       max-width: 570px;
       h1 {
         margin-bottom: 2rem;
+        font-size: 3rem;
+        color: $slate-dark;
       }
       p {
-        font-size: 20px;
+        font-size: 22px;
       }
     }
   }
@@ -585,7 +590,11 @@ a.sq-btn, .sq-btn {
 
       h1 {
         margin-bottom: 2rem;
-        font-size: 2.65rem;
+        font-size: 3rem;
+        color:$slate-dark;
+      }
+      p {
+        font-size: 22px;
       }
     }
   }
@@ -604,5 +613,6 @@ a.sq-btn, .sq-btn {
     text-transform: uppercase;
     font-size: 16px;
     letter-spacing: 1px;
+    line-height: 2;
   }
 }
