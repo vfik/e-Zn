@@ -9665,7 +9665,14 @@ a.sq-btn, .sq-btn {
     margin-top: -90px; }
 
 .companyslider.company {
-  background: url(/wp-content/uploads/2018/02/photo-office-resize.jpg); }
+  background: url(/wp-content/uploads/2018/02/photo-office-resize.jpg);
+  background-position: center center;
+  background-size: cover; }
+
+.companyslider.technology {
+  background: url(/wp-content/uploads/2018/02/zinc-in-container-resize.jpg);
+  background-position: center center;
+  background-size: cover; }
 
 .about-intro .copy {
   padding: 2rem; }
