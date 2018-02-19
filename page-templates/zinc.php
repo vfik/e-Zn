@@ -36,51 +36,58 @@ endwhile;
 	</div>
 </div>
 
-<div class="benefits">
-<div class="container">
-	<div class="row">
-		<div class="col-md-6">
-			<div class="point">
-				<h2>Zinc is abundant</h2>
-				<p>zinc as it is the fourth most used metal in the world behind only iron, aluminum and copper and is a relatively abundant element in earth's crest.  The current world annual zinc production is 11.2 million tons.  The world has about 480 million tons of zinc reserve base and about 1900 million tons as discovered resources. Thus, there is sufficient zinc for energy storage long into the future.</p>
+<div class="technology-spread">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 image">
+				<div class="left-content">
+					<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
+					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
+				</div>
+			</div>
+			<div class="col-md-6 content">
+				<div class="right-content">
+					<h2>Zinc is abundant</h2>
+					<p>zinc as it is the fourth most used metal in the world behind only iron, aluminum and copper and is a relatively abundant element in earth's crest. The current world annual zinc production is 11.2 million tons. The world has about 480 million tons of zinc reserve base and about 1900 million tons as discovered resources. Thus, there is sufficient zinc for energy storage long into the future.</p>
+					<!-- <p>Numerous attempts have been made to store energy in zinc metal in the past six decades based on an approach featuring multiple containers of zinc undergoing the processes of formation, storage and dissolution.</p> -->
+					<!-- <p>e-Zn abandoned the traditional approach and placed all elements in a single container - eliminating the jamming problems and inventing the e-Zn Reactor. </p> -->
+					<!-- <a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a> -->
+				</div>
 			</div>
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<div class="point">
-				<h2>Zinc is non-toxic</h2>
-				<p>Half of steel is protected by Zinc coating from corrosion. Zinc oxide is an essential ingredient in baby's diaper cream and sunscreen.</p>
+		<div class="row">
+			<div class="col-md-6 content">
+				<div class="right-content">
+					<h2>Zinc is non toxic</h2>
+					<p>Half of steel is protected by Zinc coating from corrosion. Zinc oxide is an essential ingredient in baby's diaper cream and sunscreen.</p>
+			</div>
+			<div class="col-md-6 image">
+				<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" alt="">
 			</div>
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<div class="point">
-				<h2>Zinc is inexpensive</h2>
-				<p>include some figures $$$</p>
+		<div class="row">
+			<div class="col-md-6 image">
+				<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="">
+			</div>
+			<div class="col-md-6 content">
+				<div class="right-content">
+					<h2>Zinc is inexpensive</h2>
+					<p>image shows a wealth of zinc</p>
+				</div>
 			</div>
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<div class="point">
-				<h2>Zinc has high energy density</h2>
-				<p>It is the highest energy density of any metal that can store energy in aqueous solutions, making it ideal for reactors far more effective than batteries.</p>
+		<div class="row">
+			<div class="col-md-6 content">
+				<div class="right-content">
+					<h2>Zinc has high energy density</h2>
+					<p>It is the highest energy density of any metal that can store energy in aqueous solutions, making it ideal for reactors far more effective than batteries.</p>
+					<!-- <a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a> -->
+					<a href="/technology/" class="sq-btn">Explore our Technology</a>
+				</div>
 			</div>
-		</div>
-	</div>
-</div>
-</div>
-
-<div class="container">
-	<div class="row">
-		<div class="col-md-6">
-			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
-		</div>
-		<div class="col-md-6">
-			<h2>e-Zn's technology puts us at the forefront of zinc</h2>
-			<a href="#">View Technology</a>
+			<div class="col-md-6 image">
+				<img src="/wp-content/uploads/2018/02/gregory-zhang-mountain.jpg" alt="">
+			</div>
 		</div>
 	</div>
 </div>
