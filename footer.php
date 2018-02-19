@@ -28,7 +28,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<a href="/technology/" class="footerText">Technology</a>
 					<a href="/company/" class="footerText">Company</a>
 					<a href="/careers/" class="footerText">Careers</a>
-					<a href="/technology/" class="footerText">Technical Paper</a>
+					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="footerText" target="_blank">Technical Paper</a>
 				</div>
 			<!--  -->
 			</div><!--col end -->
