@@ -50,7 +50,7 @@ endwhile;
 			</div>
 			<div class="col-md-6 image">
 				<div class="left-content">
-					<img src="/wp-content/uploads/2018/02/zinc-chunk.jpg" alt="">
+					<img src="/wp-content/uploads/2018/02/world-zinc-reserves.png" alt="">
 					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
 				</div>
 			</div>
