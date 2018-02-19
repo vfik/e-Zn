@@ -116,7 +116,7 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/e-zn-solar-panels.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/e-zn-solar-panels-1.jpg" alt="">
 			</div>
 			<div class="col-md-6 btf">
 				<div class="bg-three-four">
