@@ -32,6 +32,9 @@ a.sq-btn, .sq-btn {
   // border-bottom: 1px solid #d1d1d1;
   background: $gray-main;
   margin-bottom: 2rem;
+  background: url(/wp-content/uploads/2018/02/home-swirl-slider-three.jpg);
+  background-size: cover;
+  background-position: 50% 4%;
 
   .header {
     padding: 1rem 15px;
@@ -73,7 +76,7 @@ a.sq-btn, .sq-btn {
           padding: 3px 0;
           padding: 5px 0 3px;
           border-bottom: 2px solid #fff;
-          border-bottom: 2px solid $gray-main;
+          border-bottom: 2px solid rgba(243, 243, 243, 0);
           font-weight: 600;
           font-size: 14px;
         }
@@ -153,9 +156,12 @@ a.sq-btn, .sq-btn {
   background: $gray-main;
   padding: 4rem 0;
   background: #f3f3f3;
-  padding: 4rem 0;
+  padding: 156px 0 64px;
+  padding: 136px 0 64px;
+  margin-top: -92px;
   background-image: url(/wp-content/uploads/2018/02/home-swirl-slider-three.jpg);
-  background-position: 50% 0%;
+  background-position: 50% 0;
+  background-size: cover;
 
   .introCol {
     display: flex;
@@ -194,37 +200,8 @@ a.sq-btn, .sq-btn {
   }
 }
 
-.slider {
-  // padding: 1rem 0;
-
-  .colBlock {
-    background: #232222;
-  }
-
-  .block {
-    background: #222;
-    height: 570px;
-  }
-
-  .colContent {
-    background: #fff;
-    margin-top: -285px;
-    padding: 30px 45px;
-    padding: 2rem;
-
-    .content {
-      h1 {
-        margin-bottom: 1rem;
-      }
-      p {
-        font-size: 20px;
-      }
-    }
-  }
-}
-
 .homeCopy {
-  padding: 4rem 5rem;
+  padding: 2rem 5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;

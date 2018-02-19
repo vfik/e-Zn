@@ -9499,7 +9499,10 @@ a.sq-btn, .sq-btn {
 
 #wrapper-navbar {
   background: #f3f3f3;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  background: url(/wp-content/uploads/2018/02/home-swirl-slider-three.jpg);
+  background-size: cover;
+  background-position: 50% 4%; }
   #wrapper-navbar .header {
     padding: 1rem 15px; }
     #wrapper-navbar .header .logoCol a.logoA {
@@ -9530,7 +9533,7 @@ a.sq-btn, .sq-btn {
           padding: 3px 0;
           padding: 5px 0 3px;
           border-bottom: 2px solid #fff;
-          border-bottom: 2px solid #f3f3f3;
+          border-bottom: 2px solid rgba(243, 243, 243, 0);
           font-weight: 600;
           font-size: 14px; }
         #wrapper-navbar .header .linksCol .links a:hover {
@@ -9581,9 +9584,12 @@ a.sq-btn, .sq-btn {
   background: #f3f3f3;
   padding: 4rem 0;
   background: #f3f3f3;
-  padding: 4rem 0;
+  padding: 156px 0 64px;
+  padding: 136px 0 64px;
+  margin-top: -92px;
   background-image: url(/wp-content/uploads/2018/02/home-swirl-slider-three.jpg);
-  background-position: 50% 0%; }
+  background-position: 50% 0;
+  background-size: cover; }
   .home-intro .introCol {
     display: flex;
     flex-direction: column;
@@ -9610,25 +9616,8 @@ a.sq-btn, .sq-btn {
   justify-content: center;
   align-items: center; }
 
-.slider .colBlock {
-  background: #232222; }
-
-.slider .block {
-  background: #222;
-  height: 570px; }
-
-.slider .colContent {
-  background: #fff;
-  margin-top: -285px;
-  padding: 30px 45px;
-  padding: 2rem; }
-  .slider .colContent .content h1 {
-    margin-bottom: 1rem; }
-  .slider .colContent .content p {
-    font-size: 20px; }
-
 .homeCopy {
-  padding: 4rem 5rem;
+  padding: 2rem 5rem;
   display: flex;
   flex-direction: column;
   justify-content: center; }
