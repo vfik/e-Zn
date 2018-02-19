@@ -39,12 +39,6 @@ endwhile;
 <div class="technology-spread">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 image">
-				<div class="left-content">
-					<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
-					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
-				</div>
-			</div>
 			<div class="col-md-6 content">
 				<div class="right-content">
 					<h2>Zinc is abundant</h2>
@@ -54,29 +48,41 @@ endwhile;
 					<!-- <a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a> -->
 				</div>
 			</div>
+			<div class="col-md-6 image">
+				<div class="left-content">
+					<img src="/wp-content/uploads/2018/02/zinc-chunk.jpg" alt="">
+					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
+				</div>
+			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-6 content">
-				<div class="right-content">
-					<h2>Zinc is non toxic</h2>
-					<p>Half of steel is protected by Zinc coating from corrosion. Zinc oxide is an essential ingredient in baby's diaper cream and sunscreen.</p>
-			</div>
 			<div class="col-md-6 image">
 				<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" alt="">
 			</div>
+			<div class="col-md-6 content">
+				<div class="right-content">
+					<h2>Zinc is non toxic</h2>
+					<p>Zinc oxide is an essential ingredient in baby's diaper cream and sunscreen.</p>
+					<p>Half of steel is protected by Zinc coating from corrosion.</p>
+				</div>
+			</div>
+
 		</div>
 		<div class="row">
-			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="">
-			</div>
 			<div class="col-md-6 content">
 				<div class="right-content">
 					<h2>Zinc is inexpensive</h2>
 					<p>image shows a wealth of zinc</p>
 				</div>
 			</div>
+			<div class="col-md-6 image">
+				<img src="/wp-content/uploads/2018/02/zinc-chunk.jpg" alt="">
+			</div>
 		</div>
 		<div class="row">
+			<div class="col-md-6 image">
+				<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
+			</div>
 			<div class="col-md-6 content">
 				<div class="right-content">
 					<h2>Zinc has high energy density</h2>
@@ -84,9 +90,6 @@ endwhile;
 					<!-- <a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a> -->
 					<a href="/technology/" class="sq-btn">Explore our Technology</a>
 				</div>
-			</div>
-			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/gregory-zhang-mountain.jpg" alt="">
 			</div>
 		</div>
 	</div>
