@@ -154,13 +154,25 @@ a.sq-btn, .sq-btn {
   padding: 4rem 0;
   background: #f3f3f3;
   padding: 4rem 0;
-  background-image: url(/wp-content/uploads/2018/02/gray-home-spiral.jpg);
+  background-image: url(/wp-content/uploads/2018/02/home-swirl-slider-three.jpg);
   background-position: 50% 0%;
 
   .introCol {
     display: flex;
     flex-direction: column;
     justify-content: center;
+  }
+
+  .content {
+  padding: 0 3rem;
+    h1 {
+      font-size: 48px;
+      margin-bottom: 1rem;
+    }
+    p {
+      font-size: 22px;
+      margin-bottom: 2rem;
+    }
   }
 
   .sq-btn {
@@ -212,7 +224,7 @@ a.sq-btn, .sq-btn {
 }
 
 .homeCopy {
-  padding: 4rem 3rem;
+  padding: 4rem 5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;

@@ -23,7 +23,8 @@ endwhile;
 			<div class="col-md-6 introCol">
 				<div class="content">
 					<h1>Our zinc reactors transform energy into matter</h1>
-					<p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p>
+					<p>e-Zn has developed a breakthrough technology to store electrical energy in zinc metal.</p>
+					<!-- <p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p> -->
 					<a href="#" class="sq-btn">Explore our technology</a>
 				</div>
 			</div>
@@ -37,7 +38,7 @@ endwhile;
 <div class="container home-con">
 	<div class="row">
 		<div class="col-md-6 image">
-			<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="" class="one">
+			<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="" class="one">
 		</div>
 		<div class="col-md-6 homeCopy">
 			<div class="content">
