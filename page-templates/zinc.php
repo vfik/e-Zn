@@ -57,7 +57,7 @@ endwhile;
 		</div>
 		<div class="row">
 			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/zinc-coated-building.jpg" alt="">
 			</div>
 			<div class="col-md-6 content">
 				<div class="right-content">
