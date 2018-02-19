@@ -32,7 +32,7 @@ endwhile;
 		</div>
 		<div class="row img justify-content-end">
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/gf-placeholder.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
 			</div>
 		</div>
 	</div>
