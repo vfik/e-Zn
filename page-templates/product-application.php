@@ -39,20 +39,27 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6 content">
 				<div class="right-content">
-					<h2>The e-Zn reactor is an evolution beyond the battery.</h2>
-					<p>Energy capacity does not fade with time and does not change with temperature. The e-Zn reactor is a long-life storage solution that can operate in temperatures ranging from -45°C to 70°C.</p>
-					<p>More advantages over batteries:</p>
+					<p>Potential off-grid and micro grid applications:</p>
 					<ul>
-						<li>Lower costs to scale up storage capacity</li>
-						<li>non-flammable</li>
-						<li>Readily recyclable by pouring out the metal with electrolyte</li>
+						<li>Residential houses</li>
+						<li>Islands</li>
+						<li>Remote communities</li>
+						<li>Third world countries</li>
+						<li>Military bases</li>
+						<li>Mining sites</li>
+						<li>Mobile communities</li>
+						<li>Telecommunication sites</li>
+						<li>Emergency responses</li>
+						<li>Electric vehicle charging stations</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/powered-home.png" alt="" class="margin-img">
-				<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="" class="margin-img">
-				<img src="/wp-content/uploads/2018/02/mountain-community.png" alt="" class="margin-img">
+				<div class="img-container">
+					<img src="/wp-content/uploads/2018/02/powered-home.png" alt="" class="margin-img">
+					<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="" class="margin-img">
+					<img src="/wp-content/uploads/2018/02/mountain-community.png" alt="" class="margin-img">
+				</div>
 			</div>
 		</div>
 
