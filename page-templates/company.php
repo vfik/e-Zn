@@ -55,21 +55,23 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6 image">
 				<div class="left-content">
-					<div class="row">
-						<div class="col-md-12">
-							<img src="/wp-content/uploads/2018/02/e-zn-founded.jpg" alt="">
-						</div>
-						<div class="col-md-6">
-							<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor-two.jpg" alt="">
-						</div>
-						<div class="col-md-6">
-							<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor.png" alt="">
-						</div>
-						<div class="col-md-12">
-							<img src="/wp-content/uploads/2018/02/e-zn-solar-panels-1.jpg" alt="">
-						</div>
-						<div class="col-md-12">
-							<img src="/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg" alt="">
+					<div class="history-images">
+						<div class="row">
+							<div class="col-md-12">
+								<img src="/wp-content/uploads/2018/02/e-zn-founded.jpg" alt="">
+							</div>
+							<div class="col-md-6">
+								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor-two.jpg" alt="">
+							</div>
+							<div class="col-md-6">
+								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor.png" alt="">
+							</div>
+							<div class="col-md-12">
+								<img src="/wp-content/uploads/2018/02/e-zn-solar-panels-1.jpg" alt="">
+							</div>
+							<div class="col-md-12">
+								<img src="/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg" alt="">
+							</div>
 						</div>
 					</div>
 				</div>
