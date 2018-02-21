@@ -17,42 +17,24 @@ endwhile;
 
 <!-- Begin Page Content -->
 
-<div class="container">
-	<div class="row">
-		<div class="col-md-12">
-			<div class="companyslider technology">
-
-			</div>
-		</div>
-	</div>
-	<div class="row tech-sub-row">
-		<div class="col-md-12">
-			<div class="companysub">
-				<div class="content">
-					<h1>The e-Zn reactor is a breakthrough energy storage solution that turns energy into matter</h1>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
 <div class="technology-spread">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 image">
-				<div class="left-content">
-					<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
-					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
-				</div>
-			</div>
 			<div class="col-md-6 content">
 				<div class="right-content">
-					<h2>The innovation</h2>
-					<p>Numerous attempts have been made to store energy in zinc metal in the past six decades based on an approach featuring multiple containers of zinc undergoing the processes of formation, storage and dissolution.</p>
-					<p>e-Zn abandoned the traditional approach and placed all elements in a single container - eliminating the jamming problems and inventing the e-Zn Reactor. </p>
+					<h2>Applications</h2>
+					<p>Zn Reactor products will be most suitable for applications requiring long runtime (long duration capacity), that is for more than half day to multiple days of storage capacity.</p>
+					<p>It is particularly suitable for off-grid and micro-grid applications.  For off-grid and many micro grids, the electricity is typically generated with diesel generators. The replacement of diesel generators by Zn Reactor will not only cut down CO2 emission but also reduce the cost of electricity</p>
 					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a>
 				</div>
 			</div>
+			<div class="col-md-6 image">
+				<div class="left-content">
+					<img src="/wp-content/uploads/2018/02/runtime-diagram.png" alt="">
+					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
+				</div>
+			</div>
+
 		</div>
 		<div class="row">
 			<div class="col-md-6 content">
@@ -68,33 +50,12 @@ endwhile;
 				</div>
 			</div>
 			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" alt="">
+				<img src="/wp-content/uploads/2018/02/powered-home.png" alt="" class="margin-img">
+				<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="" class="margin-img">
+				<img src="/wp-content/uploads/2018/02/mountain-community.png" alt="" class="margin-img">
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="">
-			</div>
-			<div class="col-md-6 content">
-				<div class="right-content">
-					<h2>Ideal solution for energy storage of EV charging stations</h2>
-					<p>explain this process, using solar panels. Why is e-Zn the ideal solution here?</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-6 content">
-				<div class="right-content">
-					<h2>A world leading zinc scientist's discovery sparked an innovation in metal energy storage.</h2>
-					<p>Gregory zhang is the the world leader in zinc. he made a discovery and started the company.</p>
-					<!-- <a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a> -->
-					<a href="/company/" class="sq-btn">About Us</a>
-				</div>
-			</div>
-			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/gregory-zhang-mountain.jpg" alt="">
-			</div>
-		</div>
+
 	</div>
 </div>
 
