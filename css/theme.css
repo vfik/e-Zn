@@ -9674,13 +9674,13 @@ a.sq-btn, .sq-btn {
     font-size: 24px; }
 
 .history-images {
-  padding: 0 4rem; }
+  padding: 0 3rem; }
   .history-images img {
     padding: 1rem; }
 
 .company-history h2 {
   font-size: 36px;
-  margin-bottom: 4rem; }
+  margin-bottom: 2rem !important; }
 
 .company-history p {
   font-size: 24px;

@@ -61,7 +61,7 @@ endwhile;
 								<img src="/wp-content/uploads/2018/02/e-zn-founded.jpg" alt="">
 							</div>
 							<div class="col-md-6">
-								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor-two.jpg" alt="">
+								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor-two-1.jpg" alt="">
 							</div>
 							<div class="col-md-6">
 								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor.png" alt="">
