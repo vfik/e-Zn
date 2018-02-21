@@ -37,10 +37,10 @@ endwhile;
 <div class="zinc-video">
 </div>
 
-<div class="home-intro">
+<div class="home-content-intro">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-md-12 align-center">
 				<div class="intro-title">
 					<h2>Lowest cost energy storage technology</h2>
 				</div>
@@ -61,8 +61,10 @@ endwhile;
 		</div>
 		<div class="row align-center">
 			<div class="col-md-12">
-				<h1>Zn Reactor Technology</h1>
-				<img src="/wp-content/uploads/2018/02/zinc-video.png" alt="">
+				<div class="technology-div">
+					<h1>Zn Reactor Technology</h1>					
+					<img src="/wp-content/uploads/2018/02/zinc-video.png" alt="">
+				</div>
 			</div>
 		</div>
 	</div>

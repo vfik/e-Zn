@@ -9665,6 +9665,13 @@ a.sq-btn, .sq-btn {
     .benefits .point h2 {
       margin-bottom: 1rem; }
 
+.home-content-intro {
+  padding: 2rem 0; }
+  .home-content-intro .intro-title {
+    padding: 2rem 0; }
+  .home-content-intro .technology-div {
+    padding: 2rem 0; }
+
 .align-center {
   text-align: center; }
 
