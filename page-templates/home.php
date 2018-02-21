@@ -17,14 +17,13 @@ endwhile;
 
 <!-- Begin Page Content -->
 
-<div class="home-intro">
+<!-- <div class="home-intro">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 introCol">
 				<div class="content">
 					<h1>Our zinc reactors transform energy into matter</h1>
 					<p>e-Zn has developed a breakthrough technology which enables you to store electrical energy in zinc metal.</p>
-					<!-- <p>e-Zn has developed a breakthrough technology, Zn Reactor, for storing electrical energy in zinc metal. </p> -->
 					<a href="/technology/" class="sq-btn">Explore our technology</a>
 				</div>
 			</div>
@@ -33,6 +32,9 @@ endwhile;
 			</div>
 		</div>
 	</div>
+</div> -->
+
+<div class="zinc-video">
 </div>
 
 <div class="container home-con">
