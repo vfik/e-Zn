@@ -9515,6 +9515,13 @@ a.sq-btn, .sq-btn {
         padding: 8px 0; }
     #wrapper-navbar .header .logoCol a.logoA:hover {
       text-decoration: none; }
+    #wrapper-navbar .header .logoCol span.logoText {
+      display: block;
+      color: #195b8b;
+      font-size: 16px;
+      font-style: italic;
+      font-weight: 600;
+      margin-top: 7px; }
     #wrapper-navbar .header .linksCol {
       display: flex;
       flex-direction: column;
@@ -9574,7 +9581,8 @@ a.sq-btn, .sq-btn {
         #wrapper-footer .footerRow .footerCol .links .summary {
           font-size: 22px;
           font-size: 26px;
-          margin-bottom: 1rem; }
+          margin-bottom: 1rem;
+          color: #273f59; }
 
 .zinc-video {
   background: #ddd;

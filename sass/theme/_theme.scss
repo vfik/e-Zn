@@ -39,6 +39,7 @@ a.sq-btn, .sq-btn {
   .header {
     padding: 1rem 15px;
 
+
     .logoCol{
       a.logoA {
         color:#333;
@@ -54,6 +55,14 @@ a.sq-btn, .sq-btn {
       }
       a.logoA:hover {
         text-decoration: none;
+      }
+      span.logoText {
+        display: block;
+        color: #195b8b;
+        font-size: 16px;
+        font-style: italic;
+        font-weight: 600;
+        margin-top: 7px;
       }
 
     }
@@ -138,6 +147,7 @@ a.sq-btn, .sq-btn {
             font-size: 22px;
             font-size: 26px;
             margin-bottom: 1rem;
+            color:$slate-dark;
           }
         }
       }

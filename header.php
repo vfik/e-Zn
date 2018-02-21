@@ -49,6 +49,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<div class="col-md-9 linksCol">
 					<div class="links">
 						<!-- <a href="/benefits-of-zinc/">Benefits of Zinc</a> -->
+						<a href="/">Home</a>
 						<a href="/company/">Company</a>
 						<a href="/technology/">Technology</a>
 						<a href="/product-application/">Product/Application</a>
