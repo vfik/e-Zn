@@ -38,7 +38,7 @@ endwhile;
 		<div class="row">
 			<div class="col-md-7 content">
 				<div class="right-content bigText">
-					<h2>Potential off-grid and micro grid applications:</h2>
+					<h2>Potential off-grid and micro-grid applications:</h2>
 					<ul>
 						<li>Residential houses</li>
 						<li>Islands</li>
