@@ -9667,6 +9667,8 @@ a.sq-btn, .sq-btn {
 
 .technology-spread {
   padding: 2rem 0; }
+  .technology-spread .image {
+    text-align: center; }
   .technology-spread .image, .technology-spread .content {
     display: flex;
     flex-direction: column;
