@@ -43,7 +43,7 @@ endwhile;
 				<div class="intro-text">
 					<h1>e-Zn is a Toronto, Canada, based corporation that was founded in 2012.</h1>
 					<p>The mission of the company is to commercialize energy storage solutions that will make renewable energy such as solar and wind economic, competitive and reliable.</p>
-					<p>Toward that, we have successfully developed a breakthrough electrochemical reactor (Zn Reactor) technology for storing energy in zinc metal.</p>
+					<p>Toward that, we have successfully developed a breakthrough electrochemical reactor (the Zn Reactor) technology for storing energy in zinc metal.</p>
 				</div>
 			</div>
 		</div>
@@ -80,7 +80,6 @@ endwhile;
 				<div class="right-content">
 					<div class="company-history">
 						<h2>Company history</h2>
-						<h2>Founder & CEO</h2>
 						<h3>October 2012</h3>
 						<p>e-Zn is founded by Dr. Greg Zhang with three investors</p>
 						<h3>June 2013</h3>
@@ -140,7 +139,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="about-intro-greg">
+<!-- <div class="about-intro-greg">
 	<div class="container">
 		<div class="row">
 
@@ -159,10 +158,10 @@ endwhile;
 
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!-- Timeline -->
-<div class="project">
+<!-- <div class="project">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -251,7 +250,7 @@ endwhile;
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 

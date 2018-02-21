@@ -9665,12 +9665,26 @@ a.sq-btn, .sq-btn {
     .benefits .point h2 {
       margin-bottom: 1rem; }
 
-.company-intro-text .intro-text h1 {
-  font-size: 36px;
-  margin-bottom: 2rem; }
+.company-intro-text .intro-text {
+  padding: 4rem 4rem 2rem; }
+  .company-intro-text .intro-text h1 {
+    font-size: 36px;
+    margin-bottom: 1rem; }
+  .company-intro-text .intro-text p {
+    font-size: 24px; }
 
-.company-intro-text .intro-text p {
-  font-size: 24px; }
+.history-images {
+  padding: 0 4rem; }
+  .history-images img {
+    padding: 1rem; }
+
+.company-history h2 {
+  font-size: 36px;
+  margin-bottom: 4rem; }
+
+.company-history p {
+  font-size: 24px;
+  margin-bottom: 4rem; }
 
 .technology-spread {
   padding: 2rem 0; }

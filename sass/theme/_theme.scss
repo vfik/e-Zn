@@ -275,15 +275,37 @@ a.sq-btn, .sq-btn {
 
 .company-intro-text {
   .intro-text {
+    padding: 4rem 4rem 2rem;
     h1 {
         font-size: 36px;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
     }
     p {
       font-size: 24px;
     }
   }
 }
+
+.history-images {
+  padding: 0 4rem;
+  img {
+      padding: 1rem;
+  }
+}
+.company-history {
+  h2 {
+    font-size: 36px;
+    margin-bottom: 4rem
+  }
+  h3 {
+
+  }
+  p {
+    font-size: 24px;
+    margin-bottom: 4rem;
+  }
+}
+
 
 // technology
 
