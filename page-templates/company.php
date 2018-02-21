@@ -53,10 +53,61 @@ endwhile;
 <div class="technology-spread">
 	<div class="container">
 		<div class="row">
+			<div class="col-md-6 image">
+				<div class="left-content">
+					<div class="row">
+						<div class="col-md-12">
+							<img src="/wp-content/uploads/2018/02/e-zn-founded.jpg" alt="">
+						</div>
+						<div class="col-md-6">
+							<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor-two.jpg" alt="">
+						</div>
+						<div class="col-md-6">
+							<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor.png" alt="">
+						</div>
+						<div class="col-md-12">
+							<img src="/wp-content/uploads/2018/02/e-zn-solar-panels-1.jpg" alt="">
+						</div>
+						<div class="col-md-12">
+							<img src="/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
 			<div class="col-md-6 content">
 				<div class="right-content">
-					<h2>Founder & CEO</h2>
-					<p>Dr. Zhang is a visionary and seasoned technology developer.  Prior to founding e-Zn, Dr. Zhang worked for 20 years in Teck Resources as a scientist and later as manager of R&D leading a team to develop new zinc products for battery.</p>
+					<div class="company-history">
+						<h2>Company history</h2>
+						<h2>Founder & CEO</h2>
+						<h3>October 2012</h3>
+						<p>e-Zn is founded by Dr. Greg Zhang with three investors</p>
+						<h3>June 2013</h3>
+						<p>Principle demonstrated on a 20W prototype cell</p>
+						<h3>May 2016</h3>
+						<p>Scaled up to 50W cell after 8 generations of prototypes</p>
+						<h3>September 2016</h3>
+						<p>Awarded by STDC a project to demonstrate the technology for solar energy storage</p>
+						<h3>February 2017</h3>
+						<p>US patent granted</p>
+						<h3>January 2018</h3>
+						<p>Integration of first 1kW system of 20 50W cells demonstrated</p>
+						<h3>February 2018</h3>
+						<p>Chinese patent granted</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--  -->
+	</div>
+</div>
+
+<div class="technology-spread">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 content">
+				<div class="right-content">
+					<h2>Founder &amp; CEO</h2>
+					<p>Dr. Zhang is a visionary and seasoned technology developer.  Prior to founding e-Zn, Dr. Zhang worked for 20 years in Teck Resources as a scientist and later as manager of R&amp;D leading a team to develop new zinc products for battery.</p>
 					<p>Dr. Zhang is an acknowledged world-expert in zinc electrochemistry and the author of the book “Corrosion and Electrochemistry of Zinc”, which has been the most comprehensive book on the subject since its publication in 1996.</p>
 					<p>Dr. Zhang has over 50 peer-reviewed publications and holds several patents in the field. Dr. Zhang received his PhD in Electrochemistry and Materials Science from the Free University of Brussels and held post-doctoral positions at MIT and Columbia University.</p>
 				</div>
@@ -71,7 +122,7 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6 image">
 				<div class="left-content">
-					<img src="/wp-content/uploads/2018/02/gregory-zhang-e-zn.png" alt="">
+					<img src="/wp-content/uploads/2018/02/e-zn-facility.png" alt="">
 				</div>
 			</div>
 			<div class="col-md-6 content">

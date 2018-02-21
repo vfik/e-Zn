@@ -9665,6 +9665,13 @@ a.sq-btn, .sq-btn {
     .benefits .point h2 {
       margin-bottom: 1rem; }
 
+.company-intro-text .intro-text h1 {
+  font-size: 36px;
+  margin-bottom: 2rem; }
+
+.company-intro-text .intro-text p {
+  font-size: 24px; }
+
 .technology-spread {
   padding: 2rem 0; }
   .technology-spread .image {
