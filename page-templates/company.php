@@ -61,10 +61,10 @@ endwhile;
 								<img src="/wp-content/uploads/2018/02/e-zn-founded.jpg" alt="">
 							</div>
 							<div class="col-md-6">
-								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor-two-2.jpg" alt="">
+								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor-two-2.jpg" alt="" class="p-r-zero">
 							</div>
 							<div class="col-md-6">
-								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor.png" alt="">
+								<img src="/wp-content/uploads/2018/02/e-zn-prototype-reactor.png" alt="" class="p-l-zero">
 							</div>
 							<div class="col-md-12">
 								<img src="/wp-content/uploads/2018/02/e-zn-solar-panels-1.jpg" alt="">

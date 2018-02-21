@@ -37,7 +37,39 @@ endwhile;
 <div class="zinc-video">
 </div>
 
-<div class="container home-con">
+<div class="home-intro">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="intro-title">
+					<h2>Lowest cost energy storage technology</h2>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<img src="/wp-content/uploads/2018/02/solar-panels.jpg" alt="">
+			</div>
+			<div class="col-md-4 align-center">
+				<p>Storing renewable energy</p>
+				<p>Solid free standing zinc metal</p>
+				<i class="fal fa-long-arrow-right"></i>
+			</div>
+			<div class="col-md-4">
+				<img src="/wp-content/uploads/2018/02/zinc-storage.jpg" alt="">
+			</div>
+		</div>
+		<div class="row align-center">
+			<div class="col-md-12">
+				<h1>Zn Reactor Technology</h1>
+				<img src="/wp-content/uploads/2018/02/zinc-video.png" alt="">
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!-- <div class="container home-con">
 	<div class="row">
 		<div class="col-md-6 image">
 			<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="" class="one">
@@ -72,7 +104,7 @@ endwhile;
 		</div>
 	</div>
 
-</div>
+</div> -->
 <!-- End Page Content -->
 
 <?php
