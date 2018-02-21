@@ -281,6 +281,16 @@ a.sq-btn, .sq-btn {
     flex-direction: column;
     justify-content: center;
     padding: 4rem 15px;
+
+    .bigText {
+      p,ul,li {
+        font-size: 24px;
+      }
+    }
+
+    .margin-img {
+    padding: 15px 3rem;
+    }
   }
 
   .right-content {

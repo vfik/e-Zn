@@ -9672,6 +9672,10 @@ a.sq-btn, .sq-btn {
     flex-direction: column;
     justify-content: center;
     padding: 4rem 15px; }
+    .technology-spread .image .bigText p, .technology-spread .image .bigText ul, .technology-spread .image .bigText li, .technology-spread .content .bigText p, .technology-spread .content .bigText ul, .technology-spread .content .bigText li {
+      font-size: 24px; }
+    .technology-spread .image .margin-img, .technology-spread .content .margin-img {
+      padding: 15px 3rem; }
   .technology-spread .right-content {
     padding: 0 4rem; }
     .technology-spread .right-content h2 {

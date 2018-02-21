@@ -24,8 +24,7 @@ endwhile;
 				<div class="right-content">
 					<h2>Applications</h2>
 					<p>Zn Reactor products will be most suitable for applications requiring long runtime (long duration capacity), that is for more than half day to multiple days of storage capacity.</p>
-					<p>It is particularly suitable for off-grid and micro-grid applications.  For off-grid and many micro grids, the electricity is typically generated with diesel generators. The replacement of diesel generators by Zn Reactor will not only cut down CO2 emission but also reduce the cost of electricity</p>
-					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read technical paper</a>
+					<p>It is particularly suitable for off-grid and micro-grid applications.  For off-grid and many micro grids, the electricity is typically generated with diesel generators. The replacement of diesel generators by Zn Reactor will not only cut down CO2 emission but also reduce the cost of electricity.</p>
 				</div>
 			</div>
 			<div class="col-md-6 image">
@@ -37,9 +36,9 @@ endwhile;
 
 		</div>
 		<div class="row">
-			<div class="col-md-6 content">
-				<div class="right-content">
-					<p>Potential off-grid and micro grid applications:</p>
+			<div class="col-md-7 content">
+				<div class="right-content bigText">
+					<h2>Potential off-grid and micro grid applications:</h2>
 					<ul>
 						<li>Residential houses</li>
 						<li>Islands</li>
@@ -54,7 +53,7 @@ endwhile;
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-6 image">
+			<div class="col-md-5 image">
 				<div class="img-container">
 					<img src="/wp-content/uploads/2018/02/powered-home.png" alt="" class="margin-img">
 					<img src="/wp-content/uploads/2018/02/tesla-ev-placeholder.jpg" alt="" class="margin-img">
