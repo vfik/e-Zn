@@ -43,7 +43,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<div class="col-md-3 logoCol">
 					<a href="/" class="logoA">
 						<img src="/wp-content/uploads/2018/02/e-zn-logo-f3f3f3.png" alt="">
-						<span class="logoText">Metalizing electricity for storage</span>
+						<!-- <span class="logoText">Metalizing electricity for storage</span> -->
 					</a>
 				</div>
 				<div class="col-md-9 linksCol">
