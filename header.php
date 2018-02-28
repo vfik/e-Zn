@@ -52,7 +52,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<a href="/">Home</a>
 						<a href="/company/">Company</a>
 						<a href="/technology/">Technology</a>
-						<a href="/product-application/">Product/Application</a>
+						<a href="/product-application/">Application</a>
 						<a href="/careers/">Careers</a>
 						<!-- <a href="/contact/">Contact</a> -->
 					</div>
