@@ -40,31 +40,15 @@ endwhile;
 <div class="home-content-intro">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12 align-center">
-				<div class="intro-title">
+			<div class="col-md-6">
+				<div class="content">
 					<h2>Lowest cost energy storage technology</h2>
+					<p>e-Zn's unique Zn Reactor Technology turns electricity into physically free zinc material.</p>
+					<p>The metal can be flexibly contained for large scale storage of energy at the cost of zinc.</p>
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-4">
-				<img src="/wp-content/uploads/2018/02/solar-panels.jpg" alt="">
-			</div>
-			<div class="col-md-4 align-center">
-				<p>Storing renewable energy</p>
-				<p>Solid free standing zinc metal</p>
-				<i class="fal fa-long-arrow-right"></i>
-			</div>
-			<div class="col-md-4">
-				<img src="/wp-content/uploads/2018/02/zinc-storage.jpg" alt="">
-			</div>
-		</div>
-		<div class="row align-center">
-			<div class="col-md-12">
-				<div class="technology-div">
-					<h1>Zn Reactor Technology</h1>					
-					<img src="/wp-content/uploads/2018/02/zinc-video.png" alt="">
-				</div>
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2018/02/zinc-hands.jpg" alt="">
 			</div>
 		</div>
 	</div>
