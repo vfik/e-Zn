@@ -158,7 +158,7 @@ a.sq-btn, .sq-btn {
 
 .zinc-video {
   background: #ddd;
-  height: 500px;
+  height: 100px;
 }
 
 .page-template-home {
@@ -268,14 +268,22 @@ a.sq-btn, .sq-btn {
     h2 {
       margin-bottom: 1rem;
     }
+    p {
+      font-size: 1.5rem;
+    }
   }
 }
 
 //
 
 .home-content-intro {
-  padding: 2rem 0;
+  padding: 4rem 0;
 
+  h2 {
+    font-weight: 400;
+    margin-bottom: 2rem;
+    font-size: 3rem;
+  }
 }
 
 // company text intro

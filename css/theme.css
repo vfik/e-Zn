@@ -9586,7 +9586,7 @@ a.sq-btn, .sq-btn {
 
 .zinc-video {
   background: #ddd;
-  height: 500px; }
+  height: 100px; }
 
 .page-template-home #wrapper-navbar {
   margin: 0; }
@@ -9664,9 +9664,15 @@ a.sq-btn, .sq-btn {
     padding: 1rem; }
     .benefits .point h2 {
       margin-bottom: 1rem; }
+    .benefits .point p {
+      font-size: 1.5rem; }
 
 .home-content-intro {
-  padding: 2rem 0; }
+  padding: 4rem 0; }
+  .home-content-intro h2 {
+    font-weight: 400;
+    margin-bottom: 2rem;
+    font-size: 3rem; }
 
 .align-center {
   text-align: center; }
