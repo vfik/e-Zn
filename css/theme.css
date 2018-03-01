@@ -9543,6 +9543,12 @@ a.sq-btn, .sq-btn {
   height: 100%;
   width: auto; }
 
+.titleIntro h1 {
+  font-size: 4rem;
+  max-width: 800px;
+  font-weight: 400;
+  margin-top: 46px; }
+
 #wrapper-navbar {
   background: #f3f3f3;
   background-size: cover;
