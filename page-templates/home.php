@@ -48,7 +48,7 @@ endwhile;
 				</div>
 			</div>
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/zinc-hands.jpg" alt="">
+				<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">
 			</div>
 		</div>
 	</div>
