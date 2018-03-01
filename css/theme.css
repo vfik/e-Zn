@@ -9748,14 +9748,18 @@ a.sq-btn, .sq-btn {
   margin-bottom: 4rem; }
 
 .technology-spread {
-  padding: 2rem 0; }
+  padding: 6rem 0; }
+  .technology-spread h2 {
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 2rem; }
+  .technology-spread p {
+    font-size: 1.5rem; }
   .technology-spread .image {
     text-align: center; }
   .technology-spread .image, .technology-spread .content {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 4rem 15px; }
+    flex-direction: column; }
     .technology-spread .image .bigText p, .technology-spread .image .bigText ul, .technology-spread .image .bigText li, .technology-spread .content .bigText p, .technology-spread .content .bigText ul, .technology-spread .content .bigText li {
       font-size: 24px; }
     .technology-spread .image .margin-img, .technology-spread .content .margin-img {

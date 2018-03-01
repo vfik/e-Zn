@@ -399,7 +399,16 @@ a.sq-btn, .sq-btn {
 // technology
 
 .technology-spread {
-  padding: 2rem 0;
+  padding: 6rem 0;
+
+  h2 {
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+  }
+  p {
+    font-size: 1.5rem;
+  }
 
   .image {
     text-align: center;
@@ -408,8 +417,8 @@ a.sq-btn, .sq-btn {
   .image, .content {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    padding: 4rem 15px;
+    // justify-content: center;
+    // padding: 4rem 15px;
 
     .bigText {
       p,ul,li {
