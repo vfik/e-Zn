@@ -9747,8 +9747,11 @@ a.sq-btn, .sq-btn {
   font-size: 24px;
   margin-bottom: 4rem; }
 
-.padding {
-  padding: 2rem; }
+img.padding {
+  padding: 0 2rem; }
+
+img.margin {
+  margin-bottom: 2rem; }
 
 .page-template-company .page-template-company #wrapper-footer {
   background: #fff; }

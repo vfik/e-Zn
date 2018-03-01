@@ -35,7 +35,7 @@ endwhile;
 				</ol>
 			</div>
 			<div class="col-md-6 image">
-				<div class="left-content">
+				<div class="img-wrap">
 					<img src="/wp-content/uploads/2018/02/e-zn-reactor-concept.png" alt="" class="padding">
 					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
 				</div>
@@ -97,7 +97,9 @@ endwhile;
 				</ol>
 			</div>
 			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" class="padding" alt="">
+				<div class="img-wrap">
+					<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" class="padding" alt="">
+				</div>
 			</div>
 		</div>
 	</div>
@@ -126,7 +128,10 @@ endwhile;
 				</ul>
 			</div>
 			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/e-zn-reactor-runtime.png" class="padding" alt="">
+				<div class="img-wrap">
+					<img src="/wp-content/uploads/2018/03/stored-zinc-e-zn.jpg" class="padding margin" alt="">
+					<img src="/wp-content/uploads/2018/02/e-zn-reactor-runtime.png" class="padding" alt="">
+				</div>
 			</div>
 		</div>
 	</div>
