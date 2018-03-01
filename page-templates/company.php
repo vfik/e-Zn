@@ -100,7 +100,7 @@ endwhile;
 
 					<style>
 						#map {
-							height: 475px;
+							height: 250px;
 							width: 100%;
 						 }
 					</style>
@@ -203,10 +203,10 @@ endwhile;
 			      function initMap() {
 			        var ezn = {lat: 43.633409, lng: -79.528817};
 			        var map = new google.maps.Map(document.getElementById('map'), {
-			          zoom: 14,
+			          zoom: 12,
 			          center: ezn,
-								styles : styles.silver,
-								disableDefaultUI: true
+								// styles : styles.silver,
+								// disableDefaultUI: true
 			        });
 			        var marker = new google.maps.Marker({
 			          position: ezn,
