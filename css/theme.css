@@ -10024,6 +10024,20 @@ img.margin {
   letter-spacing: 1px;
   line-height: 2; }
 
+.application-slider .appCol {
+  height: 500px;
+  background-size: cover;
+  background-position: center; }
+
+.application-slider .appCol.island {
+  background-image: url("/wp-content/uploads/2018/03/e-zn-island.jpg"); }
+
+.application-slider .appCol.solar {
+  background-image: url("/wp-content/uploads/2018/03/e-zn-car.jpg"); }
+
+.application-slider .appCol.mountain {
+  background-image: url("/wp-content/uploads/2018/03/app-mountain-community.jpg"); }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style

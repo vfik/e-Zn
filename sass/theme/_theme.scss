@@ -831,4 +831,19 @@ img.margin {
 
 .application-slider {
 
+  .appCol {
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+  }
+  .appCol.island {
+    background-image: url('/wp-content/uploads/2018/03/e-zn-island.jpg');
+  }
+  .appCol.solar {
+    background-image: url('/wp-content/uploads/2018/03/e-zn-car.jpg');
+  }
+  .appCol.mountain {
+    background-image: url('/wp-content/uploads/2018/03/app-mountain-community.jpg');
+  }
+
 }

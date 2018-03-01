@@ -18,7 +18,16 @@ endwhile;
 <!-- Begin Page Content -->
 
 <div class="application-slider">
-
+	<div class="container-fluid">
+		<div class="row appRow">
+			<div class="col-md-4 appCol island">
+			</div>
+			<div class="col-md-4 appCol solar">
+			</div>
+			<div class="col-md-4 appCol mountain">
+			</div>
+		</div>
+	</div>
 </div>
 
 <div class="technology-spread">
