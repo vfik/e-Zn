@@ -9555,7 +9555,7 @@ a.sq-btn, .sq-btn {
 
 #wrapper-footer {
   background: #f3f3f3;
-  background: #eef2f5;
+  background: #f0f5f7;
   padding: 4rem 0; }
   #wrapper-footer .dinTitle {
     color: #273f59; }
@@ -9697,7 +9697,7 @@ a.sq-btn, .sq-btn {
 
 .full-alt {
   padding: 6rem 0;
-  background: #eef2f5; }
+  background: #f0f5f7; }
   .full-alt h2 {
     font-size: 3rem;
     font-weight: 400;
@@ -9765,7 +9765,7 @@ img.margin {
   background: #fff; }
 
 .technology-spread.alt {
-  background: #eef2f5; }
+  background: #f0f5f7; }
 
 .technology-spread {
   padding: 6rem 0; }
@@ -9836,7 +9836,7 @@ img.margin {
 
 .companysub {
   background: #f3f3f3;
-  background: #eef2f5; }
+  background: #f0f5f7; }
   .companysub .content {
     padding: 2rem 2rem; }
     .companysub .content h1 {
@@ -9922,7 +9922,7 @@ img.margin {
   flex-direction: row-reverse; }
 
 .project.alt .bg-three-four {
-  background: #eef2f5;
+  background: #f0f5f7;
   margin-left: 0;
   margin-right: -285px; }
 
@@ -9931,7 +9931,7 @@ img.margin {
   margin-right: 285px; }
 
 .careers-intro .bg-top {
-  background: #eef2f5; }
+  background: #f0f5f7; }
   .careers-intro .bg-top .content {
     padding: 3rem;
     max-width: 570px; }
@@ -9993,7 +9993,7 @@ img.margin {
 .contactIntro {
   padding-top: 90px; }
   .contactIntro .details {
-    background: #eef2f5;
+    background: #f0f5f7;
     width: 800px;
     margin-right: auto;
     position: relative;
@@ -10062,6 +10062,8 @@ img.margin {
     font-size: 3rem;
     max-width: 1080px;
     font-weight: 400; }
+    .applications .careers-across h2 {
+      margin-bottom: 0; }
 
 .applications.career-one {
   background: #f3f3f3; }

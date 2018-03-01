@@ -876,9 +876,13 @@ img.margin {
   }
   .careers-across {
     padding: 4rem 0;
+    // padding: 2rem 0;
     font-size: 3rem;
     max-width: 1080px;
     font-weight: 400;
+    h2 {
+      margin-bottom: 0;
+    }
   }
 }
 
