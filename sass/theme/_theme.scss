@@ -5,6 +5,7 @@ body {
   font-family: "din-2014";
   font-size: 18px;
   letter-spacing: 0.5px;
+  font-weight: 300;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: "din-2014";
@@ -26,6 +27,10 @@ a.sq-btn, .sq-btn {
 }
 
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+
+.video-holder {
+  overflow: hidden;
+}
 
 .zinc-video {
   background: #ddd;
@@ -94,7 +99,7 @@ a.sq-btn, .sq-btn {
   h1 {
     font-size: 4rem;
     max-width: 800px;
-    font-weight: 400;
+    font-weight: 300;
     margin-top: 46px;
   }
 }
@@ -211,6 +216,7 @@ a.sq-btn, .sq-btn {
             font-size: 22px;
             color: #333;
             color:$slate-dark;
+            font-weight: 300;
           }
           a.footerText:hover{
             text-decoration: none;
@@ -222,6 +228,7 @@ a.sq-btn, .sq-btn {
             font-size: 26px;
             margin-bottom: 1rem;
             color:$slate-dark;
+            font-weight: 300;
           }
         }
       }
@@ -345,7 +352,7 @@ a.sq-btn, .sq-btn {
   padding: 6rem 0;
 
   h2 {
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem;
     font-size: 3rem;
   }
@@ -373,12 +380,12 @@ a.sq-btn, .sq-btn {
   // background: #ecf7ff;
   h2 {
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem;
   }
   h3 {
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem;
   }
   p {
@@ -391,7 +398,7 @@ a.sq-btn, .sq-btn {
   background: $slate-one;
   h2 {
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem;
   }
   h2.greg {
@@ -402,7 +409,7 @@ a.sq-btn, .sq-btn {
   }
   h3 {
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem;
   }
   p {
@@ -507,7 +514,7 @@ img.margin {
 
   h2 {
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem;
   }
   h2.fulltext {
@@ -948,7 +955,7 @@ img.margin {
   }
   .app-list {
     h3 {
-      font-weight: 400;
+      font-weight: 300;
       margin-bottom: 2rem;
     }
     padding: 0 4rem;
@@ -958,7 +965,7 @@ img.margin {
     padding: 0rem 0;
     font-size: 3rem;
     max-width: 1080px;
-    font-weight: 400;
+    font-weight: 300;
     h2 {
       margin-bottom: 0;
     }
@@ -971,7 +978,7 @@ img.margin {
 
 .applications.career-two {
   h3 {
-    font-weight: 400;
+    font-weight: 300;
     font-size: 3rem;
     margin-bottom: 2rem;
   }

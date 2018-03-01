@@ -9478,7 +9478,8 @@ body {
   color: #333;
   font-family: "din-2014";
   font-size: 18px;
-  letter-spacing: 0.5px; }
+  letter-spacing: 0.5px;
+  font-weight: 300; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "din-2014";
@@ -9496,6 +9497,9 @@ a.sq-btn, .sq-btn {
   border: 1px solid #333;
   border-color: #0e778c;
   cursor: pointer; }
+
+.video-holder {
+  overflow: hidden; }
 
 .zinc-video {
   background: #ddd;
@@ -9548,7 +9552,7 @@ a.sq-btn, .sq-btn {
 .titleIntro h1 {
   font-size: 4rem;
   max-width: 800px;
-  font-weight: 400;
+  font-weight: 300;
   margin-top: 46px; }
 
 #wrapper-navbar {
@@ -9627,7 +9631,8 @@ a.sq-btn, .sq-btn {
           font-size: 20px;
           font-size: 22px;
           color: #333;
-          color: #273f59; }
+          color: #273f59;
+          font-weight: 300; }
         #wrapper-footer .footerRow .footerCol .links a.footerText:hover {
           text-decoration: none;
           opacity: 0.8; }
@@ -9635,7 +9640,8 @@ a.sq-btn, .sq-btn {
           font-size: 22px;
           font-size: 26px;
           margin-bottom: 1rem;
-          color: #273f59; }
+          color: #273f59;
+          font-weight: 300; }
 
 .home-intro {
   background: #f3f3f3;
@@ -9716,7 +9722,7 @@ a.sq-btn, .sq-btn {
 .home-content-intro {
   padding: 6rem 0; }
   .home-content-intro h2 {
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem;
     font-size: 3rem; }
   .home-content-intro p {
@@ -9737,11 +9743,11 @@ a.sq-btn, .sq-btn {
   padding: 6rem 0; }
   .full h2 {
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem; }
   .full h3 {
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem; }
 
 .full-alt {
@@ -9749,7 +9755,7 @@ a.sq-btn, .sq-btn {
   background: #f0f5f7; }
   .full-alt h2 {
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem; }
   .full-alt h2.greg {
     margin-bottom: 1rem; }
@@ -9757,7 +9763,7 @@ a.sq-btn, .sq-btn {
     max-width: 500px; }
   .full-alt h3 {
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem; }
   .full-alt p {
     font-size: 1.5rem;
@@ -9829,7 +9835,7 @@ img.margin {
   padding: 6rem 0; }
   .technology-spread h2 {
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 2rem; }
   .technology-spread h2.fulltext {
     margin-bottom: 4rem;
@@ -10114,13 +10120,13 @@ img.margin {
   .applications .app-list {
     padding: 0 4rem; }
     .applications .app-list h3 {
-      font-weight: 400;
+      font-weight: 300;
       margin-bottom: 2rem; }
   .applications .careers-across {
     padding: 0rem 0;
     font-size: 3rem;
     max-width: 1080px;
-    font-weight: 400; }
+    font-weight: 300; }
     .applications .careers-across h2 {
       margin-bottom: 0; }
 
@@ -10128,7 +10134,7 @@ img.margin {
   background: #f3f3f3; }
 
 .applications.career-two h3 {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 3rem;
   margin-bottom: 2rem; }
 
