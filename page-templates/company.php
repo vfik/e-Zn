@@ -76,7 +76,9 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<img src="/wp-content/uploads/2018/03/e-zn-team-photo.jpg" alt="e-Zn team" class="team-photo">
+				<div class="team-photo">
+					<img src="/wp-content/uploads/2018/03/e-zn-team-photo.jpg" alt="e-Zn team" class="">					
+				</div>
 			</div>
 		</div>
 	</div>
