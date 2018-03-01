@@ -30,13 +30,13 @@ endwhile;
 				<p>Zn Reactor technology is based on a uniquely structured electrochemical cell, which has three distinct sections:</p>
 				<ol>
 					<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
-					<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
+					<li>a discharging section at the bottom section for delivering energy through zinc dissolution;</li>
 					<li>a section in the middle for storage of zinc metal deposit.</li>
 				</ol>
 			</div>
 			<div class="col-md-6 image">
 				<div class="left-content">
-					<img src="/wp-content/uploads/2018/02/e-zn-reactor-concept.png" alt="">
+					<img src="/wp-content/uploads/2018/02/e-zn-reactor-concept.png" alt="" class="padimg">
 					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
 				</div>
 			</div>
@@ -66,10 +66,10 @@ endwhile;
 				<h2>e-Zn is currently conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</h2>
 			</div>
 			<div class="col-md-6 image">
-				<img src="" alt="" class="middle">
+				<img src="/wp-content/uploads/2018/03/e-zn-solar-panels.jpg" alt="" class="middle">
 			</div>
 			<div class="col-md-6 image">
-				<img src="" alt="" class="middle">
+				<img src="/wp-content/uploads/2018/03/zn-reactor-zinc-technology-e-zn.jpg" alt="" class="middle">
 			</div>
 			<div class="col-md-12 content">
 				<div class="right-content">
