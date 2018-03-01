@@ -9755,7 +9755,7 @@ img.padding {
 img.margin {
   margin-bottom: 4rem; }
 
-#stored-electricity::before {
+#storedelectricity::before {
   content: "Stored Electricity (Zinc Metal)";
   background: #000;
   color: #fff;
