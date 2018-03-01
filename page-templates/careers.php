@@ -17,22 +17,40 @@ endwhile;
 
 <!-- Begin Page Content -->
 
-<div class="careers-intro">
-	<div class="container">
-		<div class="row bg">
-			<div class="col-md-10">
-				<div class="bg-top">
-					<div class="content">
-						<h1>Join a materials science revolution</h1>
-						<p>e-Zn is looking for the most qualified scientists for the project. They will be working on zinc. We have state of the art facilities.</p>
-						<p>e-Zn is looking for the most qualified scientists for the project.</p>
-					</div>
-				</div>
+<div class="application-slider">
+	<div class="container-fluid">
+		<div class="row appRow">
+			<div class="col-md-4 appCol island">
+			</div>
+			<div class="col-md-4 appCol solar">
+			</div>
+			<div class="col-md-4 appCol mountain">
 			</div>
 		</div>
-		<div class="row img justify-content-end">
+	</div>
+</div>
+
+<div class="applications">
+	<div class="container">
+		<div class="row">
+			<div class="careers-across">
+				<h2>The company is seeking enthusiastic and talented individuals to join us in the development and commercialization of products.</h2>
+			</div>
+		</div>
+		<div class="row">
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/02/photo-office-resize.jpg" alt="">
+				<h3>e-Zn Inc</h3>
+				<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
+				<p>416-000-0000</p>
+				<p>info@e-zn.com</p>
+			</div>
+			<div class="col-md-6">
+				<div class="app-list">
+					<h1>Job Application Form</h1>
+					<div id="jobAppForm">
+						<?php echo do_shortcode('[contact-form-7 id="16" title="Job Application Form"]'); ?>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -81,10 +99,7 @@ endwhile;
 					<!--  -->
 					<a class="sq-btn" id="applyBtn" onclick="showForm()" href="#positions">Submit your application</a>
 					<div class="heightZero" id="applyForm">
-						<h1>Job Application Form</h1>
-						<div id="jobAppForm">
-							<?php echo do_shortcode('[contact-form-7 id="16" title="Job Application Form"]'); ?>
-						</div>
+
 					</div>
 				</div>
 			</div>
