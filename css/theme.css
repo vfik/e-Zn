@@ -9497,6 +9497,9 @@ a.sq-btn, .sq-btn {
   border-color: #0e778c;
   cursor: pointer; }
 
+.video-intro .videoElement {
+  width: 100%; }
+
 #wrapper-navbar {
   background: #f3f3f3;
   background-size: cover;

@@ -42,6 +42,20 @@ endwhile;
 			<!-- <source src="/wp-content/uploads/2018/01/Website-video-january-11-1.webm" type="video/webm"> -->
 		</video>
 	</div>
+
+	<div class="novaNews">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 titleIntro">
+					<h1>Developing the next generation of ultra-high-speed transportation</h1>
+					<!-- <p class="videoP">We are combining innovation with existing technologies to provide a smart, affordable, and clean ultra-high speed transport system for people and cargo.</p> -->
+					<p class="videoP">Passengers and cargo exceeding speeds of 1000 km/h. TransPod is a zero-emissions advanced hyperloop technology, breaking time barriers and slashing logistics costs.</p>
+					<a href="/en/transpod-system/transpod-hyperloop/" class="callToAction">Explore our technology <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+
 </div>
 
 <div class="home-content-intro">
