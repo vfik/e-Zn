@@ -48,8 +48,25 @@ endwhile;
 				<div class="intro-text">
 					<h1>e-Zn is a Toronto, Canada, based corporation that was founded in 2012.</h1>
 					<p>The mission of the company is to commercialize energy storage solutions that will make renewable energy such as solar and wind economic, competitive and reliable.</p>
-					<p>Toward that, we have successfully developed a breakthrough electrochemical reactor (the Zn Reactor) technology for storing energy in zinc metal.</p>
+					<p>Toward that, we have successfully developed a breakthrough electrochemical reactor (Zn Reactor) technology for storing energy in zinc metal.</p>
 				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="company-greg">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2>Dr. Gregory Zhang</h2>
+				<h3>Founder/CEO</h3>
+				<p>Dr. Zhang is a visionary and seasoned technology developer.  Prior to founding e-Zn, Dr. Zhang worked for 20 years in Teck Resources as a scientist and later as manager of R&D leading a team to develop new zinc products for battery.</p>
+				<p>Dr. Zhang is an acknowledged world-expert in zinc electrochemistry and the author of the book “Corrosion and Electrochemistry of Zinc”, which has been the most comprehensive book on the subject since its publication in 1996.</p>
+				<p>Dr. Zhang received his PhD in Electrochemistry and Materials Science from the Free University of Brussels and held post-doctoral positions at MIT and Columbia University.</p>
+			</div>
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2018/03/gregory-zhang-e-zn.jpg" alt="">
 			</div>
 		</div>
 	</div>
