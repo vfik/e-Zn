@@ -9755,6 +9755,12 @@ img.padding {
 img.margin {
   margin-bottom: 4rem; }
 
+#stored-electricity::before {
+  content: "Stored Electricity (Zinc Metal)";
+  background: #000;
+  color: #fff;
+  padding: 8px 24px; }
+
 .page-template-company .page-template-company #wrapper-footer {
   background: #fff; }
 
