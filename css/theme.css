@@ -10039,6 +10039,12 @@ img.margin {
 .application-slider .appCol.mountain {
   background-image: url("/wp-content/uploads/2018/03/app-mountain-community.jpg"); }
 
+.application-slider .appCol.team-at-work {
+  background-image: url("/wp-content/uploads/2018/03/e-zn-team-at-work.jpg"); }
+
+.application-slider .appCol.reactor-office {
+  background-image: url("/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg"); }
+
 .applications {
   padding: 4rem 0; }
   .applications h2 {

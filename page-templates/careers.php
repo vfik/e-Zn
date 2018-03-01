@@ -20,11 +20,9 @@ endwhile;
 <div class="application-slider">
 	<div class="container-fluid">
 		<div class="row appRow">
-			<div class="col-md-4 appCol island">
+			<div class="col-md-6 appCol team-at-work">
 			</div>
-			<div class="col-md-4 appCol solar">
-			</div>
-			<div class="col-md-4 appCol mountain">
+			<div class="col-md-6 appCol reactor-office">
 			</div>
 		</div>
 	</div>
@@ -33,10 +31,17 @@ endwhile;
 <div class="applications">
 	<div class="container">
 		<div class="row">
-			<div class="careers-across">
-				<h2>The company is seeking enthusiastic and talented individuals to join us in the development and commercialization of products.</h2>
+			<div class="col-md-12">
+				<div class="careers-across">
+					<h2>The company is seeking enthusiastic and talented individuals to join us in the development and commercialization of products.</h2>
+				</div>
 			</div>
 		</div>
+	</div>
+</div>
+
+<div class="applications">
+	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
 				<h3>e-Zn Inc</h3>
