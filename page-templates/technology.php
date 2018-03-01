@@ -98,7 +98,7 @@ endwhile;
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
-					<img src="/wp-content/uploads/2018/03/storage-capcity-scaling.png" class="padding" alt="">
+					<img src="/wp-content/uploads/2018/03/storage-capcity-scaling-1.png" class="padding" alt="">
 				</div>
 			</div>
 		</div>
