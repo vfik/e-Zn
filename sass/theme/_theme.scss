@@ -331,7 +331,9 @@ a.sq-btn, .sq-btn {
 }
 
 .team-photo {
-
+  h2 {
+    margin-bottom: 2rem; 
+  }
 }
 .team-photo::before {
   content:"the e-Zn team";

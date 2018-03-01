@@ -77,14 +77,32 @@ endwhile;
 		<div class="row">
 			<div class="col-md-12">
 				<div class="team-photo">
-					<img src="/wp-content/uploads/2018/03/e-zn-team-photo.jpg" alt="e-Zn team" class="">					
+					<h2>The e-Zn Team</h2>
+					<img src="/wp-content/uploads/2018/03/e-zn-team-photo.jpg" alt="e-Zn team" class="">
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="technology-spread">
+<div class="full-alt">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2>Facility</h2>
+				<p>Our office and laboratory facility.</p>
+				<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
+				<p>416-000-0000</p>
+				<p>info@e-zn.com</p>
+			</div>
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2018/02/e-zn-facility.png" alt="e-Zn facility">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- <div class="technology-spread">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 image">
@@ -132,46 +150,8 @@ endwhile;
 				</div>
 			</div>
 		</div>
-		<!--  -->
 	</div>
-</div>
-
-<div class="technology-spread">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6 content">
-				<div class="right-content">
-					<h2>Founder &amp; CEO</h2>
-					<p>Dr. Zhang is a visionary and seasoned technology developer.  Prior to founding e-Zn, Dr. Zhang worked for 20 years in Teck Resources as a scientist and later as manager of R&amp;D leading a team to develop new zinc products for battery.</p>
-					<p>Dr. Zhang is an acknowledged world-expert in zinc electrochemistry and the author of the book “Corrosion and Electrochemistry of Zinc”, which has been the most comprehensive book on the subject since its publication in 1996.</p>
-					<p>Dr. Zhang has over 50 peer-reviewed publications and holds several patents in the field. Dr. Zhang received his PhD in Electrochemistry and Materials Science from the Free University of Brussels and held post-doctoral positions at MIT and Columbia University.</p>
-				</div>
-			</div>
-			<div class="col-md-6 image">
-				<div class="left-content">
-					<img src="/wp-content/uploads/2018/02/gregory-zhang-e-zn.png" alt="">
-				</div>
-			</div>
-		</div>
-		<!--  -->
-		<div class="row">
-			<div class="col-md-6 image">
-				<div class="left-content">
-					<img src="/wp-content/uploads/2018/02/e-zn-facility.png" alt="">
-				</div>
-			</div>
-			<div class="col-md-6 content">
-				<div class="right-content">
-					<h2>Facility</h2>
-					<p>Our office and laboratory facility.</p>
-					<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
-					<p>416-000-0000</p>
-					<p>info@e-zn.com</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+</div> -->
 
 <!-- <div class="about-intro-greg">
 	<div class="container">

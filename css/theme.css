@@ -9702,6 +9702,9 @@ a.sq-btn, .sq-btn {
     font-weight: 400;
     margin-bottom: 2rem; }
 
+.team-photo h2 {
+  margin-bottom: 2rem; }
+
 .team-photo::before {
   content: "the e-Zn team";
   background: #000;
