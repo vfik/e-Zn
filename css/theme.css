@@ -9699,6 +9699,8 @@ a.sq-btn, .sq-btn {
     margin-bottom: 2rem; }
   .full-alt h2.greg {
     margin-bottom: 1rem; }
+  .full-alt h2.office {
+    max-width: 500px; }
   .full-alt h3 {
     font-size: 2rem;
     font-weight: 400;
