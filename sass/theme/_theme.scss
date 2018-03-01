@@ -289,10 +289,16 @@ a.sq-btn, .sq-btn {
 // kalyna slider
 .kalyna-slider {
   height: 500px;
-  background: url('/wp-content/uploads/2018/03/zn-reactor-row-update.jpg');
   background-size: cover;
   background-position: 50% 50%;
 }
+.kalyna-slider.company {
+  background-image: url('/wp-content/uploads/2018/03/zn-reactor-row-update.jpg');
+}
+.kalyna-slider.technology {
+  background-image: url('/wp-content/uploads/2018/03/zinc-structure-e-zn-technology.jpg');
+}
+
 
 .full {
   padding: 6rem 0;
