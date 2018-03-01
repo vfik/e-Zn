@@ -24,10 +24,10 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<h4 class="dinTitle">Sitemap</h4>
 					<!-- <a href="#">Home</a> -->
 					<a href="/" class="footerText">Home</a>
-					<a href="/benefits-of-zinc/" class="footerText">Benefits of Zinc</a>
-					<a href="/technology/" class="footerText">Technology</a>
 					<a href="/company/" class="footerText">Company</a>
 					<a href="/careers/" class="footerText">Careers</a>
+					<a href="/technology/" class="footerText">Technology</a>
+					<a href="/product-application/" class="footerText">Application</a>
 					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="footerText" target="_blank">Technical Paper</a>
 				</div>
 			<!--  -->
