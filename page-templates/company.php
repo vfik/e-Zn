@@ -89,8 +89,7 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<h2>Facility</h2>
-				<p>Our office and laboratory facility.</p>
+				<h2>Our office and laboratory facility.</h2>
 				<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
 				<p>416-000-0000</p>
 				<p>info@e-zn.com</p>
