@@ -10027,6 +10027,7 @@ img.margin {
 .application-slider .appCol {
   height: 500px;
   height: 280px;
+  height: 350px;
   background-size: cover;
   background-position: center; }
 
@@ -10061,6 +10062,14 @@ img.margin {
     font-size: 3rem;
     max-width: 1080px;
     font-weight: 400; }
+
+.applications.career-two h3 {
+  font-weight: 400;
+  font-size: 3rem;
+  margin-bottom: 2rem; }
+
+.applications.career-two p {
+  font-size: 1.5rem; }
 
 /*
 * Use existing Bootstrap 4 classes and

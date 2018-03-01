@@ -40,7 +40,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="applications">
+<div class="applications career-two">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -61,7 +61,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="job postings" id="positions">
+<!-- <div class="job postings" id="positions">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-md-12 col-lg-10 col-xl-8">
@@ -75,7 +75,7 @@ endwhile;
 							<h3>Location</h3>
 						</div>
 					</div>
-					<!--  -->
+
 					<div class="row">
 						<div class="col-md-8">
 							<p>Zinc Scientist</p>
@@ -101,7 +101,6 @@ endwhile;
 							applyForm.classList.remove('heightZero');
 						}
 					</script>
-					<!--  -->
 					<a class="sq-btn" id="applyBtn" onclick="showForm()" href="#positions">Submit your application</a>
 					<div class="heightZero" id="applyForm">
 
@@ -110,7 +109,7 @@ endwhile;
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!-- End Page Content -->
 
