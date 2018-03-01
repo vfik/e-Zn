@@ -39,7 +39,7 @@ endwhile;
 		<!-- <video src="/wp-content/uploads/2018/01/video-2018-01-09.mp4" autoplay loop class="videoElement"> -->
 		<video autoplay loop class="videoElement">
 			<source src="/wp-content/uploads/2018/03/herovidHQslower.mp4" type="video/mp4">
-			<!-- <source src="/wp-content/uploads/2018/01/Website-video-january-11-1.webm" type="video/webm"> -->
+			<source src="/wp-content/uploads/2018/03/herovidHQslower.webm" type="video/webm">
 		</video>
 	</div>
 
