@@ -98,7 +98,7 @@ endwhile;
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
-					<img src="/wp-content/uploads/2018/03/storage-capcity-scaling-1.png" class="padding" alt="">
+					<img src="/wp-content/uploads/2018/03/storage-capcity-scaling-2.png" class="padding" alt="">
 				</div>
 			</div>
 		</div>
@@ -129,7 +129,9 @@ endwhile;
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
-					<img src="/wp-content/uploads/2018/03/stored-zinc-e-zn.jpg" class="padding margin" id="storedelectricity" alt="">
+					<div class="" id="storedelectricity">
+						<img src="/wp-content/uploads/2018/03/stored-zinc-e-zn.jpg" class="padding margin" alt="">
+					</div>
 					<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" class="padding" alt="">
 				</div>
 			</div>
@@ -146,7 +148,7 @@ endwhile;
 				<p>Numerous attempts have been made to store energy in zinc metal in past six decades based on an approach where formation, storage and dissolution of zinc metal are conducted in different containers as illustrated in the figure.</p>
 				<p>None of these attempts was successful due to the challenging problem has been associated with the transportation of solid metal between the different containers.  Jamming tends to occur in pipes, in pumps and in cells.</p>
 				<p>e-Zn abandoned the traditional approach of having to transport the zinc metal between different containers by pacing all the elements for zinc formation, dissolution and stage within the same container therefore completely avoided the problem of jamming.</p>
-				<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read our scientific publication</a>
+				<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" id="scipub" target="_blank">Read our scientific publication</a>
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
