@@ -66,7 +66,17 @@ endwhile;
 				<p>Dr. Zhang received his PhD in Electrochemistry and Materials Science from the Free University of Brussels and held post-doctoral positions at MIT and Columbia University.</p>
 			</div>
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/03/gregory-zhang-e-zn.jpg" alt="">
+				<img src="/wp-content/uploads/2018/03/gregory-zhang-e-zn.jpg" alt="Dr Gregory Zhang">
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="full">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<img src="/wp-content/uploads/2018/03/e-zn-team-photo.jpg" alt="e-Zn team" class="team-photo">
 			</div>
 		</div>
 	</div>

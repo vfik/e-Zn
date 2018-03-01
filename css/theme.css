@@ -9679,6 +9679,17 @@ a.sq-btn, .sq-btn {
   background-size: cover;
   background-position: 50% 50%; }
 
+.full {
+  padding: 6rem 0; }
+  .full h2 {
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 1rem; }
+  .full h3 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 2rem; }
+
 .full-alt {
   padding: 6rem 0;
   background: #ecf7ff; }
@@ -9691,6 +9702,12 @@ a.sq-btn, .sq-btn {
     font-weight: 400;
     margin-bottom: 2rem; }
 
+.team-photo::before {
+  content: "the e-Zn team";
+  background: #000;
+  color: #fff;
+  padding: 8px 24px; }
+
 .align-center {
   text-align: center; }
 
@@ -9701,7 +9718,7 @@ a.sq-btn, .sq-btn {
   padding-left: 0; }
 
 .company-intro-text .intro-text {
-  padding: 4rem 0; }
+  padding: 6rem 0; }
   .company-intro-text .intro-text h1 {
     font-size: 3rem;
     margin-bottom: 2rem;
