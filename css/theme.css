@@ -9711,7 +9711,8 @@ a.sq-btn, .sq-btn {
     font-weight: 400;
     margin-bottom: 2rem; }
   .full-alt p {
-    font-size: 1.5rem; }
+    font-size: 1.5rem;
+    font-size: 1.3rem; }
 
 .team-photo h2 {
   margin-bottom: 2rem; }
@@ -9732,7 +9733,8 @@ a.sq-btn, .sq-btn {
     margin-bottom: 2rem;
     font-weight: 200; }
   .company-intro-text .intro-text p {
-    font-size: 1.5rem; }
+    font-size: 1.5rem;
+    font-size: 1.3rem; }
 
 .history-images {
   padding: 0 3rem; }
@@ -9751,7 +9753,7 @@ img.padding {
   padding: 0 2rem; }
 
 img.margin {
-  margin-bottom: 2rem; }
+  margin-bottom: 4rem; }
 
 .page-template-company .page-template-company #wrapper-footer {
   background: #fff; }
@@ -9777,7 +9779,8 @@ img.margin {
   .technology-spread .middle {
     margin-bottom: 4rem; }
   .technology-spread p, .technology-spread li, .technology-spread ul, .technology-spread ol {
-    font-size: 1.5rem; }
+    font-size: 1.5rem;
+    font-size: 1.3rem; }
   .technology-spread .image {
     text-align: center; }
   .technology-spread .image, .technology-spread .content {
