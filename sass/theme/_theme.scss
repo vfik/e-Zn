@@ -842,6 +842,7 @@ img.margin {
   }
   .appCol.solar {
     background-image: url('/wp-content/uploads/2018/03/e-zn-car.jpg');
+    background-position: 80% 50%;
   }
   .appCol.mountain {
     background-image: url('/wp-content/uploads/2018/03/app-mountain-community.jpg');
@@ -875,8 +876,8 @@ img.margin {
     padding: 0 4rem;
   }
   .careers-across {
-    padding: 4rem 0;
-    // padding: 2rem 0;
+    // padding: 4rem 0;
+    padding: 0rem 0;
     font-size: 3rem;
     max-width: 1080px;
     font-weight: 400;
