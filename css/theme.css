@@ -9513,7 +9513,7 @@ a.sq-btn, .sq-btn {
       z-index: 2000; }
       .page-template-home #wrapper-navbar .header .logoCol a.logoA, .page-template-home #wrapper-navbar .header .linksCol a.logoA {
         background: #f4f3f3;
-        padding: 25px 10px;
+        padding: 20px 10px;
         border-radius: 5px; }
 
 .videoDiv {
@@ -9521,11 +9521,12 @@ a.sq-btn, .sq-btn {
   height: 592px;
   overflow: hidden; }
   .videoDiv .videoElement {
-    width: 100%;
+    width: auto;
+    min-width: 100%;
     height: auto; }
 
 .novaNews {
-  height: 592px;
+  height: 530px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9537,6 +9538,10 @@ a.sq-btn, .sq-btn {
   top: 92px;
   top: 0;
   width: 100%; }
+
+@media (max-width: 1604px) {
+  height: 100%;
+  width: auto; }
 
 #wrapper-navbar {
   background: #f3f3f3;
