@@ -9692,10 +9692,11 @@ a.sq-btn, .sq-btn {
 .company-intro-text .intro-text {
   padding: 4rem 4rem 2rem; }
   .company-intro-text .intro-text h1 {
-    font-size: 36px;
-    margin-bottom: 1rem; }
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    font-weight: 200; }
   .company-intro-text .intro-text p {
-    font-size: 24px; }
+    font-size: 1.5rem; }
 
 .history-images {
   padding: 0 3rem; }
