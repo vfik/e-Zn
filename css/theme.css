@@ -9697,7 +9697,7 @@ a.sq-btn, .sq-btn {
 
 .full-alt {
   padding: 6rem 0;
-  background: #ecf7ff; }
+  background: #dce6ed; }
   .full-alt h2 {
     font-size: 3rem;
     font-weight: 400;
@@ -9750,11 +9750,20 @@ a.sq-btn, .sq-btn {
 .page-template-company .page-template-company #wrapper-footer {
   background: #fff; }
 
+.technology-spread.alt {
+  background: #dce6ed; }
+
 .technology-spread {
   padding: 6rem 0; }
   .technology-spread h2 {
     font-size: 3rem;
     font-weight: 400;
+    margin-bottom: 2rem; }
+  .technology-spread h3 {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 2.5rem; }
+  .technology-spread .middle {
     margin-bottom: 2rem; }
   .technology-spread p, .technology-spread li, .technology-spread ul, .technology-spread ol {
     font-size: 1.5rem; }
