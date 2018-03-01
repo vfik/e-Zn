@@ -17,6 +17,10 @@ endwhile;
 
 <!-- Begin Page Content -->
 
+<div class="application-slider">
+
+</div>
+
 <div class="technology-spread">
 	<div class="container">
 		<div class="row">
