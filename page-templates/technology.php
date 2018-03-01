@@ -71,15 +71,7 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 content">
-				<div class="right-content">
-					<h2>Technology demonstration</h2>
-					<p>e-Zn is currently conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</p>
-					<ol>
-						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
-						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
-						<li>a section in the middle for storage of zinc metal deposit.</li>
-					</ol>
-				</div>
+				<h2>e-Zn is currently conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</h2>
 			</div>
 			<div class="col-md-6 image">
 				<img src="" alt="">
@@ -89,13 +81,8 @@ endwhile;
 			</div>
 			<div class="col-md-12 content">
 				<div class="right-content">
-					<h2>Technology demonstration</h2>
-					<p>e-Zn is currently conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</p>
-					<ol>
-						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
-						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
-						<li>a section in the middle for storage of zinc metal deposit.</li>
-					</ol>
+					<h3>About STDC</h3>
+					<p>Sustainable Development Technology Canada (SDTC) is an arm's-length foundation created by the Government of Canada to support innovative and entrepreneurial clean technology projects. Our portfolio of companies develop and demonstrate new technologies that address issues related to climate change, air quality, clean water and soil.</p>
 				</div>
 			</div>
 		</div>
