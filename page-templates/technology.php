@@ -98,7 +98,7 @@ endwhile;
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
-					<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" class="padding" alt="">
+					<img src="/wp-content/uploads/2018/03/storage-capcity-scaling.png" class="padding" alt="">
 				</div>
 			</div>
 		</div>
@@ -130,7 +130,7 @@ endwhile;
 			<div class="col-md-6 image">
 				<div class="img-wrap">
 					<img src="/wp-content/uploads/2018/03/stored-zinc-e-zn.jpg" class="padding margin" id="stored-electricity" alt="">
-					<img src="/wp-content/uploads/2018/02/e-zn-reactor-runtime.png" class="padding" alt="">
+					<img src="/wp-content/uploads/2018/02/battery-reactor-comparison.jpg" class="padding" alt="">
 				</div>
 			</div>
 		</div>
