@@ -27,10 +27,37 @@ a.sq-btn, .sq-btn {
 
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
 
+.zinc-video {
+  background: #ddd;
+  height: 100px;
+}
+
+.page-template-home {
+  #wrapper-navbar {
+      margin: 0;
+      background: none;
+      margin-bottom: -92px;
+      z-index: 2000;
+      .header {
+          padding: 1rem 15px;
+          z-index: 2000;
+          .logoCol,.linksCol {
+            z-index: 2000;
+
+            a.logoA {
+              background: #f4f3f3;
+              padding: 25px 10px;
+              border-radius: 5px;
+            }
+          }
+
+      }
+  }
+}
 
 .videoDiv {
   z-index: 50;
-  height: 500px;
+  height: 592px;
   overflow: hidden;
   .videoElement {
     width: 100%;
@@ -38,19 +65,18 @@ a.sq-btn, .sq-btn {
   }
 }
 .novaNews {
-  height: 500px;
+  height: 592px;
   display: flex;
   flex-direction: column;
-    justify-content: center;
-    background: url('/wp-content/uploads/2018/03/white-square.png');
-    background-size: 3px;
-    background-color: rgba(22,72,123,.4);
-    background-color: rgba(45,99,154,.2);
-    z-index: 100;
-    position: absolute;
-    top: 64px;
-    max-width: 1440px;
-    width: 100%;
+  justify-content: center;
+  background: url(/wp-content/uploads/2018/03/white-square.png);
+  background-size: 3px;
+  background-color: rgba(78, 145, 212, 0.2);
+  z-index: 100;
+  position: absolute;
+  top: 92px;
+  top: 0;
+  width: 100%;
 }
 
 
@@ -185,16 +211,7 @@ a.sq-btn, .sq-btn {
 
 // HOME
 
-.zinc-video {
-  background: #ddd;
-  height: 100px;
-}
 
-.page-template-home {
-  #wrapper-navbar {
-      margin: 0;
-  }
-}
 
 .home-intro {
   background: $gray-main;

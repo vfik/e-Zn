@@ -9497,27 +9497,45 @@ a.sq-btn, .sq-btn {
   border-color: #0e778c;
   cursor: pointer; }
 
+.zinc-video {
+  background: #ddd;
+  height: 100px; }
+
+.page-template-home #wrapper-navbar {
+  margin: 0;
+  background: none;
+  margin-bottom: -92px;
+  z-index: 2000; }
+  .page-template-home #wrapper-navbar .header {
+    padding: 1rem 15px;
+    z-index: 2000; }
+    .page-template-home #wrapper-navbar .header .logoCol, .page-template-home #wrapper-navbar .header .linksCol {
+      z-index: 2000; }
+      .page-template-home #wrapper-navbar .header .logoCol a.logoA, .page-template-home #wrapper-navbar .header .linksCol a.logoA {
+        background: #f4f3f3;
+        padding: 25px 10px;
+        border-radius: 5px; }
+
 .videoDiv {
   z-index: 50;
-  height: 500px;
+  height: 592px;
   overflow: hidden; }
   .videoDiv .videoElement {
     width: 100%;
     height: auto; }
 
 .novaNews {
-  height: 500px;
+  height: 592px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: url("/wp-content/uploads/2018/03/white-square.png");
+  background: url(/wp-content/uploads/2018/03/white-square.png);
   background-size: 3px;
-  background-color: rgba(22, 72, 123, 0.4);
-  background-color: rgba(45, 99, 154, 0.2);
+  background-color: rgba(78, 145, 212, 0.2);
   z-index: 100;
   position: absolute;
-  top: 64px;
-  max-width: 1440px;
+  top: 92px;
+  top: 0;
   width: 100%; }
 
 #wrapper-navbar {
@@ -9605,13 +9623,6 @@ a.sq-btn, .sq-btn {
           font-size: 26px;
           margin-bottom: 1rem;
           color: #273f59; }
-
-.zinc-video {
-  background: #ddd;
-  height: 100px; }
-
-.page-template-home #wrapper-navbar {
-  margin: 0; }
 
 .home-intro {
   background: #f3f3f3;
