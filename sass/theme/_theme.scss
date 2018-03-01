@@ -82,8 +82,12 @@ a.sq-btn, .sq-btn {
 }
 
 @media (max-width:1604px) {
-  height: 100%;
-  width: auto;
+  .videoDiv {
+    .videoElement {
+      height: 100%;
+      width: auto;      
+    }
+  }
 }
 
 .titleIntro {

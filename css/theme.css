@@ -9541,8 +9541,9 @@ a.sq-btn, .sq-btn {
   width: 100%; }
 
 @media (max-width: 1604px) {
-  height: 100%;
-  width: auto; }
+  .videoDiv .videoElement {
+    height: 100%;
+    width: auto; } }
 
 .titleIntro h1 {
   font-size: 4rem;
