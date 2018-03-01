@@ -9763,7 +9763,8 @@ a.sq-btn, .sq-btn {
     font-weight: 400;
     margin-bottom: 2rem; }
   .technology-spread h2.fulltext {
-    margin-bottom: 4rem; }
+    margin-bottom: 4rem;
+    max-width: 1080px; }
   .technology-spread h3 {
     margin-bottom: 2rem;
     font-weight: 300;
