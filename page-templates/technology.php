@@ -18,12 +18,11 @@ endwhile;
 <!-- Begin Page Content -->
 
 <div class="kalyna-slider technology">
-	
+
 </div>
 
 <div class="technology-spread">
 	<div class="container">
-		<!--  -->
 		<div class="row">
 			<div class="col-md-6 content">
 				<div class="right-content">
@@ -43,23 +42,68 @@ endwhile;
 				</div>
 			</div>
 		</div>
-		<!--  -->
+	</div>
+</div>
+<div class="technology-spread alt">
+	<div class="container">
 		<div class="row">
-			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/e-zn-reactor-operation-process.png" alt="">
-			</div>
 			<div class="col-md-6 content">
 				<div class="right-content">
-					<h2>Operation</h2>
-					<p>The electrochemical cell is a simple mechanical operation.</p>
-					<p>During charging zinc metal is electrochemically deposited in the electrodes in the charging section and falls, when wiped off from the electrodes, into the storage space below.</p>
-					<p>During discharging, the zinc is dissolved into the solution and circulated back to the top of the charging section to be deposited again back into metal.</p>
-					<p>Charge and discharge cycles are created as the operation processes repeat.</p>
-					<!--  -->
+					<h2>Concept</h2>
+					<p>Zn Reactor technology is based on a uniquely structured electrochemical cell, which has three distinct sections:</p>
+					<ol>
+						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
+						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
+						<li>a section in the middle for storage of zinc metal deposit.</li>
+					</ol>
+				</div>
+			</div>
+			<div class="col-md-6 image">
+				<div class="left-content">
+					<img src="/wp-content/uploads/2018/02/e-zn-reactor-concept.png" alt="">
+					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
 				</div>
 			</div>
 		</div>
-		<!--  -->
+	</div>
+</div>
+<div class="technology-spread alt">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 content">
+				<div class="right-content">
+					<h2>Technology demonstration</h2>
+					<p>e-Zn is currently conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</p>
+					<ol>
+						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
+						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
+						<li>a section in the middle for storage of zinc metal deposit.</li>
+					</ol>
+				</div>
+			</div>
+			<div class="col-md-6 image">
+				<img src="" alt="">
+			</div>
+			<div class="col-md-6 image">
+				<img src="" alt="">
+			</div>
+			<div class="col-md-12 content">
+				<div class="right-content">
+					<h2>Technology demonstration</h2>
+					<p>e-Zn is currently conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</p>
+					<ol>
+						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
+						<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
+						<li>a section in the middle for storage of zinc metal deposit.</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="technology-spread">
+	<div class="container">
 		<div class="row">
 			<div class="col-md-6 content">
 				<div class="right-content">

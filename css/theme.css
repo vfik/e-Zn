@@ -9747,13 +9747,16 @@ a.sq-btn, .sq-btn {
   font-size: 24px;
   margin-bottom: 4rem; }
 
+.page-template-company .page-template-company #wrapper-footer {
+  background: #fff; }
+
 .technology-spread {
   padding: 6rem 0; }
   .technology-spread h2 {
     font-size: 3rem;
     font-weight: 400;
     margin-bottom: 2rem; }
-  .technology-spread p {
+  .technology-spread p, .technology-spread li, .technology-spread ul, .technology-spread ol {
     font-size: 1.5rem; }
   .technology-spread .image {
     text-align: center; }
@@ -9764,12 +9767,10 @@ a.sq-btn, .sq-btn {
       font-size: 24px; }
     .technology-spread .image .margin-img, .technology-spread .content .margin-img {
       padding: 15px 3rem; }
-  .technology-spread .right-content {
-    padding: 0 4rem; }
-    .technology-spread .right-content h2 {
-      margin-bottom: 1rem;
-      font-family: 'din-2014';
-      font-weight: 600; }
+  .technology-spread .right-content h2 {
+    margin-bottom: 1rem;
+    font-family: 'din-2014';
+    font-weight: 600; }
 
 .charging-stations .imgCol {
   z-index: 1; }
