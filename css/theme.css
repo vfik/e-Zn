@@ -9519,6 +9519,7 @@ a.sq-btn, .sq-btn {
 .videoDiv {
   z-index: 50;
   height: 592px;
+  height: 530px;
   overflow: hidden; }
   .videoDiv .videoElement {
     width: auto;
