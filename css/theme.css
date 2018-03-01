@@ -10039,6 +10039,13 @@ img.margin {
 .application-slider .appCol.mountain {
   background-image: url("/wp-content/uploads/2018/03/app-mountain-community.jpg"); }
 
+.applications {
+  padding: 4rem 0; }
+  .applications h2 {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 3rem; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style

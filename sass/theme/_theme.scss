@@ -827,10 +827,9 @@ img.margin {
   }
 }
 
-// new home
+// applications
 
 .application-slider {
-
   .appCol {
     height: 500px;
     height: 280px;
@@ -846,5 +845,17 @@ img.margin {
   .appCol.mountain {
     background-image: url('/wp-content/uploads/2018/03/app-mountain-community.jpg');
   }
+}
 
+.applications {
+  padding: 4rem 0;
+
+  h2 {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 3rem;
+  }
+  p {
+
+  }
 }
