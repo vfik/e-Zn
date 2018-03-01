@@ -837,7 +837,7 @@ img.margin {
     background-position: center;
   }
   .appCol.island {
-    background-image: url('/wp-content/uploads/2018/03/e-zn-island-1.jpg');
+    background-image: url('/wp-content/uploads/2018/03/e-zn-island.jpg');
   }
   .appCol.solar {
     background-image: url('/wp-content/uploads/2018/03/e-zn-car.jpg');
@@ -857,5 +857,12 @@ img.margin {
   }
   p {
 
+  }
+  .app-list {
+    h3 {
+      font-weight: 400;
+      margin-bottom: 2rem;
+    }
+    padding: 0 4rem;
   }
 }

@@ -39,19 +39,21 @@ endwhile;
 				<p>It is particularly suitable for off-grid and micro-grid applications.  For off-grid and many micro grids, the electricity is typically generated with diesel generators. The replacement of diesel generators by Zn Reactor will not only cut down CO2 emission but also reduce the cost of electricity.</p>
 			</div>
 			<div class="col-md-5">
-				<h3>Off-grid and micro-grid situations</h3>
-				<ul>
-					<li>Residential houses</li>
-					<li>Islands</li>
-					<li>Remote communities</li>
-					<li>Third world countries</li>
-					<li>Military bases</li>
-					<li>Mining sites</li>
-					<li>Mobile communities</li>
-					<li>Telecommunication sites</li>
-					<li>Emergency responses</li>
-					<li>Electric vehicle charging stations</li>
-				</ul>
+				<div class="app-list">
+					<h3>Off-grid and micro-grid situations</h3>
+					<ul>
+						<li>Residential houses</li>
+						<li>Islands</li>
+						<li>Remote communities</li>
+						<li>Third world countries</li>
+						<li>Military bases</li>
+						<li>Mining sites</li>
+						<li>Mobile communities</li>
+						<li>Telecommunication sites</li>
+						<li>Emergency responses</li>
+						<li>Electric vehicle charging stations</li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>

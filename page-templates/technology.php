@@ -63,7 +63,7 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 content">
-				<h2 class="fulltext">e-Zn is currently conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</h2>
+				<h2 class="fulltext">e-Zn is currently conducting a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</h2>
 			</div>
 			<div class="col-md-6 image">
 				<img src="/wp-content/uploads/2018/03/e-zn-solar-panels.jpg" alt="" class="middle">
