@@ -28,7 +28,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="applications">
+<div class="applications career-one">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -43,15 +43,15 @@ endwhile;
 <div class="applications career-two">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-5">
 				<h3>e-Zn Inc</h3>
 				<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
 				<p>416-000-0000</p>
 				<p>info@e-zn.com</p>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-7">
 				<div class="app-list">
-					<h1>Job Application Form</h1>
+					<h3>Job Application Form</h3>
 					<div id="jobAppForm">
 						<?php echo do_shortcode('[contact-form-7 id="16" title="Job Application Form"]'); ?>
 					</div>
