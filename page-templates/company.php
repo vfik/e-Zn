@@ -36,6 +36,11 @@ endwhile;
 	</div>
 </div> -->
 
+<!-- company slider -->
+<div class="kalyna-slider">
+
+</div>
+
 <div class="company-intro-text">
 	<div class="container">
 		<div class="row">
