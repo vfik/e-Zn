@@ -149,7 +149,9 @@ endwhile;
 				<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" class="sq-btn" target="_blank">Read our scientific publication</a>
 			</div>
 			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/traditional-vs-e-zn-design.png" class="padding" alt="">
+				<div class="img-wrap">
+					<img src="/wp-content/uploads/2018/02/traditional-vs-e-zn-design.png" class="padding" alt="">
+				</div>
 			</div>
 		</div>
 	</div>
