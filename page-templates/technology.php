@@ -150,7 +150,8 @@ endwhile;
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
-					<img src="/wp-content/uploads/2018/02/traditional-vs-e-zn-design.png" class="padding" alt="">
+					<img src="http://e-zn.com/wp-content/uploads/2018/03/e-zn-innovation-design-reactor-compare.jpg" alt="">
+					<!-- <img src="/wp-content/uploads/2018/02/traditional-vs-e-zn-design.png" class="padding" alt=""> -->
 				</div>
 			</div>
 		</div>
