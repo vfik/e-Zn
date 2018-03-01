@@ -9761,7 +9761,7 @@ img.margin {
   color: #fff;
   padding: 8px 24px; }
 
-.page-template-company .page-template-company #wrapper-footer {
+.page-template-company #wrapper-footer, .page-template-company #wrapper-footer {
   background: #fff; }
 
 .technology-spread.alt {
