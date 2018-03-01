@@ -9667,7 +9667,7 @@ a.sq-btn, .sq-btn {
       font-size: 1.5rem; }
 
 .home-content-intro {
-  padding: 4rem 0; }
+  padding: 6rem 0; }
   .home-content-intro h2 {
     font-weight: 400;
     margin-bottom: 2rem;
@@ -9679,6 +9679,18 @@ a.sq-btn, .sq-btn {
   background-size: cover;
   background-position: 50% 50%; }
 
+.full-alt {
+  padding: 6rem 0;
+  background: #ecf7ff; }
+  .full-alt h2 {
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 1rem; }
+  .full-alt h3 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 2rem; }
+
 .align-center {
   text-align: center; }
 
@@ -9689,7 +9701,7 @@ a.sq-btn, .sq-btn {
   padding-left: 0; }
 
 .company-intro-text .intro-text {
-  padding: 4rem 4rem 2rem; }
+  padding: 4rem 0; }
   .company-intro-text .intro-text h1 {
     font-size: 3rem;
     margin-bottom: 2rem;
