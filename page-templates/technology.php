@@ -83,7 +83,7 @@ endwhile;
 						<img src="/wp-content/uploads/2018/03/sdtc_logo_english.jpg" alt="" class="stdc-img">
 					</a>
 					<h3 class="stdc">About STDC</h3>
-					<p>Sustainable Development Technology Canada (SDTC) is an arm's-length foundation created by the Government of Canada to support innovative and entrepreneurial clean technology projects. Our portfolio of companies develop and demonstrate new technologies that address issues related to climate change, air quality, clean water and soil.</p>
+					<p class="techdemo">Sustainable Development Technology Canada (SDTC) is an arm's-length foundation created by the Government of Canada to support innovative and entrepreneurial clean technology projects. Our portfolio of companies develop and demonstrate new technologies that address issues related to climate change, air quality, clean water and soil.</p>
 				</div>
 			</div>
 		</div>
