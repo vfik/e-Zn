@@ -9553,6 +9553,10 @@ a.sq-btn, .sq-btn {
   margin: 0;
   color: #283f59; }
 
+.techdemo {
+  font-size: 2rem;
+  margin-bottom: 4rem; }
+
 #wrapper-navbar {
   background: #f3f3f3;
   background-size: cover;
