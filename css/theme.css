@@ -9507,8 +9507,7 @@ a.sq-btn, .sq-btn {
 
 .page-template-home #wrapper-navbar {
   margin: 0;
-  background: none;
-  margin-bottom: -92px;
+  background: #f3f3f3;
   z-index: 2000; }
   .page-template-home #wrapper-navbar .header {
     padding: 1rem 15px;
@@ -9535,13 +9534,11 @@ a.sq-btn, .sq-btn {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: url(/wp-content/uploads/2018/03/white-square.png);
   background-size: 3px;
-  background-color: rgba(78, 145, 212, 0.2);
   z-index: 100;
   position: absolute;
   top: 92px;
-  top: 0;
+  top: 125px;
   width: 100%; }
 
 @media (max-width: 1404px) {
@@ -9553,7 +9550,7 @@ a.sq-btn, .sq-btn {
   font-size: 4rem;
   max-width: 800px;
   font-weight: 300;
-  margin-top: 46px;
+  margin: 0;
   color: #283f59; }
 
 #wrapper-navbar {
