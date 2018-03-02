@@ -47,7 +47,7 @@ endwhile;
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 titleIntro">
-					<h1>Economical Energy Storage by metallizing electricity</h1>
+					<h1>Economical Energy Storage</h1>
 				</div>
 			</div>
 		</div>

@@ -58,7 +58,7 @@ endwhile;
 					<video autoplay loop class="technologyVideo">
 						<source src="/wp-content/uploads/2018/03/herovidHQslower.mp4" type="video/mp4">
 						<source src="/wp-content/uploads/2018/03/herovidHQslower.webm" type="video/webm">
-					</video>					
+					</video>
 				</div>
 			</div>
 		</div>
@@ -68,7 +68,8 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 content">
-				<h2 class="fulltext">e-Zn is currently conducting a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</h2>
+				<h2>Technology demonstration</h2>
+				<p>e-Zn is currently conducting a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</p>
 			</div>
 			<div class="col-md-6 image">
 				<img src="/wp-content/uploads/2018/03/e-zn-solar-panels.jpg" alt="" class="middle">
@@ -103,7 +104,7 @@ endwhile;
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
-					<img src="/wp-content/uploads/2018/03/storage-capcity-scaling-2.png" class="padding" alt="">
+					<img src="/wp-content/uploads/2018/03/2018-03-01-23_21_54-website-content-design-1.pptx-LibreOffice-Impress.png" class="padding" alt="">
 				</div>
 			</div>
 		</div>
