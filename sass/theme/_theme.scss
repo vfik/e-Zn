@@ -47,6 +47,10 @@ a.sq-btn, .sq-btn {
     min-width: 100%;
     height: auto;
   }
+  .videoElement.company {
+    position: relative;
+    bottom: 33%;
+  }
 }
 .novaNews {
   height: 530px;
@@ -66,6 +70,15 @@ a.sq-btn, .sq-btn {
 @media (max-width:1404px) {
   .videoDiv {
     .videoElement.home {
+      height: 100%;
+      width: auto;
+    }
+  }
+}
+
+@media (max-width:960px) {
+  .videoDiv {
+    .videoElement.company {
       height: 100%;
       width: auto;
     }
