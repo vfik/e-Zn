@@ -64,6 +64,12 @@ endwhile;
 					<p>e-Zn's unique Zn Reactor Technology turns electricity into physically free zinc material.</p>
 					<p>The metal can be flexibly contained for large scale storage of energy at the cost of zinc.</p>
 				</div>
+				<div class="contentVideo">
+					<video autoplay loop class="videoElement">
+						<source src="/wp-content/uploads/2018/03/zinc-reactor-falling-v1.mp4" type="video/mp4">
+						<source src="/wp-content/uploads/2018/03/zinc-reactor-falling-v1.webm" type="video/webm">
+					</video>
+				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="metalized-electricity">
