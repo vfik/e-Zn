@@ -1117,9 +1117,7 @@ input.wpcf7-form-control.wpcf7-submit {
     }
   }
   // careers and app
-  .application-slider .appCol {
-  height: 200px;
-  }
+
   // company
   .company-intro-text .intro-text {
     padding: 2rem 1rem;
@@ -1133,11 +1131,33 @@ input.wpcf7-form-control.wpcf7-submit {
   .full-alt,.full {
     padding: 3rem 1rem;
   }
+
+  // tech
+  .technology-spread {
+      padding: 3rem 1rem;
+  }
+  #storedelectricity {
+    margin-bottom: 0rem;
+  }
+  // apps
+  .applications {
+    padding: 3rem 1rem;
+  }
+  .applications .app-list {
+      padding: 2rem 0;
+      li {
+        font-size: 1.3rem;
+        font-size: 1.5rem;
+      }
+  }
   .applications.career-one {
     padding: 2rem 1rem;
   }
   .applications.career-two {
     padding: 3rem 1rem;
+  }
+  .application-slider .appCol {
+  height: 200px;
   }
 
 }

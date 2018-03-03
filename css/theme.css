@@ -10255,8 +10255,6 @@ input.wpcf7-form-control.wpcf7-submit {
         position: relative;
         bottom: 1px;
         cursor: pointer; }
-  .application-slider .appCol {
-    height: 200px; }
   .company-intro-text .intro-text {
     padding: 2rem 1rem; }
     .company-intro-text .intro-text h1 {
@@ -10265,10 +10263,23 @@ input.wpcf7-form-control.wpcf7-submit {
       font-size: 1.5rem; }
   .full-alt, .full {
     padding: 3rem 1rem; }
+  .technology-spread {
+    padding: 3rem 1rem; }
+  #storedelectricity {
+    margin-bottom: 0rem; }
+  .applications {
+    padding: 3rem 1rem; }
+  .applications .app-list {
+    padding: 2rem 0; }
+    .applications .app-list li {
+      font-size: 1.3rem;
+      font-size: 1.5rem; }
   .applications.career-one {
     padding: 2rem 1rem; }
   .applications.career-two {
-    padding: 3rem 1rem; } }
+    padding: 3rem 1rem; }
+  .application-slider .appCol {
+    height: 200px; } }
 
 /*
 * Use existing Bootstrap 4 classes and
