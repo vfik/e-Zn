@@ -10216,6 +10216,9 @@ img.margin {
     color: #1565C0; }
   #mobileMenu p.address {
     padding-top: 1rem; }
+  #mobileMenu .contactDetails {
+    font-size: 24px;
+    padding-top: 2rem; }
   #mobileMenu .application-slider .appCol {
     height: 200px; }
 
