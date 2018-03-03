@@ -37,7 +37,7 @@ endwhile;
 <div class="video-intro">
 	<div class="videoDiv hidden-sm-down">
 		<!-- <video src="/wp-content/uploads/2018/01/video-2018-01-09.mp4" autoplay loop class="videoElement"> -->
-		<video autoplay loop class="videoElement">
+		<video autoplay loop class="videoElement home">
 			<source src="/wp-content/uploads/2018/03/herovidHQslower.mp4" type="video/mp4">
 			<source src="/wp-content/uploads/2018/03/herovidHQslower.webm" type="video/webm">
 		</video>
@@ -67,7 +67,7 @@ endwhile;
 			</div>
 			<div class="col-md-6">
 				<div class="metalized-electricity">
-					<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">					
+					<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">
 				</div>
 			</div>
 		</div>

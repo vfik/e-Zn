@@ -9528,7 +9528,7 @@ a.sq-btn, .sq-btn {
   width: 100%; }
 
 @media (max-width: 1404px) {
-  .videoDiv .videoElement {
+  .videoDiv .videoElement.home {
     height: 100%;
     width: auto; } }
 
