@@ -10191,7 +10191,9 @@ img.margin {
   #wrapper-navbar .header .linksCol .links {
     display: none; }
   .mobileMenuLinks {
-    display: inline-flex; } }
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-end; } }
 
 /*
 * Use existing Bootstrap 4 classes and

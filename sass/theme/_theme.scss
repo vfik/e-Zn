@@ -1039,5 +1039,7 @@ img.margin {
 
   .mobileMenuLinks {
     display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-end;
   }
 }

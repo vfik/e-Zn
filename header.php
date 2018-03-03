@@ -76,13 +76,13 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 		<div class="container header">
 			<div class="row">
-				<div class="col-md-3 logoCol">
+				<div class="col-md-3 col-6 logoCol">
 					<a href="/" class="logoA">
 						<img src="/wp-content/uploads/2018/03/e-zn-logo.png" alt="">
 						<!-- <span class="logoText">Metalizing electricity for storage</span> -->
 					</a>
 				</div>
-				<div class="col-md-9 linksCol">
+				<div class="col-md-9 col-6 linksCol">
 					<div class="links">
 						<!-- <a href="/benefits-of-zinc/">Benefits of Zinc</a> -->
 						<a href="/">Home</a>
