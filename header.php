@@ -32,6 +32,42 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <div class="hfeed site" id="page">
 
+	<div id="MobileMenu" class="displayNone">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="x">
+					<i class="fal fa-times" id="closeMenu"></i>
+				</div>
+			</div>
+			<div class="col-md-12">
+				<a href="/" class="mobileMenuItem">Home</a>
+			</div>
+			<div class="col-md-12">
+				<a href="/company/" class="mobileMenuItem">Company</a>
+			</div>
+			<div class="col-md-12">
+				<a href="/technology/" class="mobileMenuItem">Technology</a>
+			</div>
+			<div class="col-md-12">
+				<a href="/product-application/" class="mobileMenuItem">Application</a>
+			</div>
+			<div class="col-md-12">
+				<a href="/careers/" class="mobileMenuItem">Careers</a>
+			</div>
+			<div class="contactDetails">
+				<div class="col-md-12">
+					<a href="tel:416-518-5572" class="mobileContact">416-517-5572</a>
+				</div>
+				<div class="col-md-12">
+					<a href="mailto:info@e-zn.com" class="mobileContact">info@e-zn.com</a>
+				</div>
+				<div class="col-md-12">
+					<p class="address">25 Advance Rd, Toronto<br>Ontario, Canada M8Z 2S6</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
 	<!-- ******************* The Navbar Area ******************* -->
 	<div class="wrapper-fluid wrapper-navbar" id="wrapper-navbar">
 
@@ -55,6 +91,12 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<a href="/product-application/">Application</a>
 						<a href="/careers/">Careers</a>
 						<!-- <a href="/contact/">Contact</a> -->
+					</div>
+					<div class="mobileMenuLinks">
+						<div class="button" id="menuBtn">
+							<span class="label">Menu</span>
+							<i class="far fa-bars"></i>
+						</div>
 					</div>
 				</div>
 			</div>

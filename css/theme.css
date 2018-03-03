@@ -10181,6 +10181,13 @@ img.margin {
 .applications.career-two p {
   font-size: 1.25rem; }
 
+.displayNone {
+  display: none; }
+
+@media (max-width: 768px) {
+  #wrapper-navbar .header .linksCol .links {
+    display: none; } }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
