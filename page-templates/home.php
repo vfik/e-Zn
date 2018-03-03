@@ -66,7 +66,9 @@ endwhile;
 				</div>
 			</div>
 			<div class="col-md-6">
-				<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">
+				<div class="metalized-electricity">
+					<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">					
+				</div>
 			</div>
 		</div>
 	</div>

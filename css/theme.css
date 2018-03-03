@@ -9554,8 +9554,20 @@ a.sq-btn, .sq-btn {
   color: #283f59; }
 
 .techdemo {
-  font-size: 2rem;
-  margin-bottom: 4rem; }
+  font-size: 1.5rem !important;
+  margin-bottom: 2rem; }
+
+.topLi {
+  margin-bottom: 2rem !important; }
+
+.metalized-electricity::before {
+  content: "Metalized Electricity";
+  background: rgba(0, 0, 0, 0.64);
+  color: #fff;
+  padding: 8px 24px;
+  position: absolute;
+  right: 65px;
+  top: 20px; }
 
 #wrapper-navbar {
   background: #f3f3f3;
@@ -9739,7 +9751,19 @@ a.sq-btn, .sq-btn {
   background-image: url("/wp-content/uploads/2018/03/team-full-width.jpg"); }
 
 .kalyna-slider.technology {
-  background-image: url("/wp-content/uploads/2018/03/zinc-structure-e-zn-technology.jpg"); }
+  background-image: url("/wp-content/uploads/2018/03/zinc-structure-e-zn-technology.jpg");
+  background-image: url("/wp-content/uploads/2018/03/zinc-ezn-technology.jpg"); }
+
+.kalyna-slider.technology::before {
+  content: "Metalized Electricity";
+  background: rgba(0, 0, 0, 0.76);
+  color: #fff;
+  font-size: 2rem;
+  padding: 0.5rem 1.5rem;
+  display: -webkit-inline-box;
+  position: relative;
+  left: 2rem;
+  top: 2rem; }
 
 .full {
   padding: 6rem 0; }
@@ -9817,6 +9841,9 @@ img.margin {
   color: #fff;
   margin-top: 1rem;
   font-size: 1.13rem; }
+
+#storedelectricity {
+  margin-bottom: 6rem; }
 
 #storedelectricity::before {
   content: "Stored Electricity (Zinc Metal)";

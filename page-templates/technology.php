@@ -69,7 +69,8 @@ endwhile;
 		<div class="row">
 			<div class="col-md-12 content">
 				<h2>Technology demonstration</h2>
-				<p class="techdemo">e-Zn is currently conducting a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system.</p>
+				<p class="techdemo">e-Zn is currently leading an industrial consortium to conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system in an off-grid setting.  It consists of 5kW solar panels and 1kW/24 hours energy storage.</p>
+				<p class="techdemo">Consortium members include Canadian Solar, Broy Engineering and NewESolar.</p>
 			</div>
 			<div class="col-md-6 image">
 				<img src="/wp-content/uploads/2018/03/e-zn-solar-panels.jpg" alt="" class="middle">
@@ -117,20 +118,20 @@ endwhile;
 			<div class="col-md-6 ">
 				<h2>Advantages over batteries</h2>
 				<ul>
-					<li>Zn Reactor is lowest cost technology for usable storage capacity
+					<li class="topLi">Zn Reactor is lowest cost technology for usable storage capacity
 						<ul>
 							<li>The cost of usable storage capacity for a multiple day Zn Reactor system can be as low as $60/kWh.  It is more than $300/kWh for batteries.</li>
 						</ul>
 					</li>
-					<li>Storage capacity of Zn Reactor does not fade with time; it remains the same at the end of product life.  The capacity of batteries decays with time</li>
-					<li>Zn Reactor has a wide range of operation temperature, from - 45 0C to 70 0C, and does require air conditioning in field environments
+					<li class="topLi">Storage capacity of Zn Reactor does not fade with time; it remains the same at the end of product life.  The capacity of batteries decays with time</li>
+					<li class="topLi">Zn Reactor has a wide range of operation temperature, from - 45 0C to 70 0C, and does require air conditioning in field environments
 						<ul>
 							<li>Lithium batteries needs to be air conditioned for performance and longevity</li>
 							<li>Life of lead acid batteries halves for every ten degree increase in temperature above 25C</li>
 						</ul>
 					</li>
-					<li>Zn Reactor uses aqueous electrolyte which does not catch fire; Lithium battery may catch fire in the events of thermal runaway.</li>
-					<li>Zn Reactor is readily recyclable while recycling lithium batteries is costly</li>
+					<li class="topLi">Zn Reactor uses aqueous electrolyte which does not catch fire; Lithium battery may catch fire in the events of thermal runaway.</li>
+					<li class="topLi">Zn Reactor is readily recyclable while recycling lithium batteries is costly</li>
 				</ul>
 			</div>
 			<div class="col-md-6 image">
