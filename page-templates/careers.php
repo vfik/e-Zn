@@ -50,12 +50,10 @@ endwhile;
 				<p>info@e-zn.com</p>
 			</div>
 			<div class="col-md-7">
-				<div class="app-list">
 					<h3>Job Application</h3>
 					<div id="jobAppForm">
 						<?php echo do_shortcode('[contact-form-7 id="16" title="Job Application Form"]'); ?>
 					</div>
-				</div>
 			</div>
 		</div>
 	</div>

@@ -10216,6 +10216,8 @@ img.margin {
     color: #1565C0; }
   #mobileMenu p.address {
     padding-top: 1rem; }
+  #mobileMenu .application-slider .appCol {
+    height: 200px; }
 
 @media (max-width: 768px) {
   #wrapper-navbar .header .linksCol .links {
