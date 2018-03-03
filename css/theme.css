@@ -9505,20 +9505,6 @@ a.sq-btn, .sq-btn {
   background: #ddd;
   height: 100px; }
 
-.page-template-home #wrapper-navbar {
-  margin: 0;
-  background: #f3f3f3;
-  z-index: 2000; }
-  .page-template-home #wrapper-navbar .header {
-    padding: 1rem 15px;
-    z-index: 2000; }
-    .page-template-home #wrapper-navbar .header .logoCol, .page-template-home #wrapper-navbar .header .linksCol {
-      z-index: 2000; }
-      .page-template-home #wrapper-navbar .header .logoCol a.logoA, .page-template-home #wrapper-navbar .header .linksCol a.logoA {
-        background: #f4f3f3;
-        padding: 20px 12px;
-        border-radius: 5px; }
-
 .videoDiv {
   z-index: 50;
   height: 592px;
@@ -9575,6 +9561,7 @@ a.sq-btn, .sq-btn {
 
 #wrapper-navbar {
   background: #f3f3f3;
+  background: #fff;
   background-size: cover;
   background-position: 50% 4%; }
   #wrapper-navbar .header {

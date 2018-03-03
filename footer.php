@@ -37,7 +37,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="links">
 				<h4 class="dinTitle">Office + Laboratory</h4>
 				<p class="footerText">25 Advance Rd, Toronto</p>
-				<p class="footerText">Ontario, Canada M8Z 2S6</p>
+				<p class="footerText topLiOne">Ontario, Canada M8Z 2S6</p>
 				<p class="footerText">416-518-5572</p>
 				<p class="footerText">info@e-zn.com</p>
 			</div>			<!--  -->
