@@ -9538,7 +9538,8 @@ a.sq-btn, .sq-btn {
 @media (max-width: 960px) {
   .videoDiv .videoElement.company {
     height: 100%;
-    width: auto; } }
+    width: auto;
+    bottom: 0; } }
 
 .titleIntro h1 {
   font-size: 4rem;
