@@ -9534,6 +9534,7 @@ a.sq-btn, .sq-btn {
 
 .titleIntro h1 {
   font-size: 4rem;
+  font-size: 3rem;
   max-width: 800px;
   font-weight: 300;
   margin: 0;
@@ -9729,9 +9730,11 @@ a.sq-btn, .sq-btn {
   .home-content-intro h2 {
     font-weight: 300;
     margin-bottom: 2rem;
-    font-size: 3rem; }
+    font-size: 3rem;
+    font-size: 2.5rem; }
   .home-content-intro p {
-    font-size: 1.3rem; }
+    font-size: 1.3rem;
+    font-size: 1.25rem; }
 
 .kalyna-slider {
   height: 500px;
@@ -9760,31 +9763,36 @@ a.sq-btn, .sq-btn {
   padding: 6rem 0; }
   .full h2 {
     font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 300;
     margin-bottom: 2rem; }
+  .full h2.greg {
+    margin-bottom: 1rem; }
   .full h3 {
     font-size: 2rem;
     font-weight: 300;
     margin-bottom: 2rem; }
+  .full p {
+    font-size: 1.25rem; }
 
 .full-alt {
   padding: 6rem 0;
   background: #f0f5f7; }
   .full-alt h2 {
     font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 300;
     margin-bottom: 2rem; }
-  .full-alt h2.greg {
-    margin-bottom: 1rem; }
   .full-alt h2.office {
-    max-width: 500px; }
+    max-width: 400px; }
   .full-alt h3 {
     font-size: 2rem;
     font-weight: 300;
     margin-bottom: 2rem; }
   .full-alt p {
     font-size: 1.5rem;
-    font-size: 1.3rem; }
+    font-size: 1.3rem;
+    font-size: 1.25rem; }
 
 .team-photo h2 {
   margin-bottom: 2rem; }
@@ -9803,10 +9811,17 @@ a.sq-btn, .sq-btn {
   .company-intro-text .intro-text h1 {
     font-size: 2rem;
     margin-bottom: 2rem;
-    font-weight: 200; }
+    font-weight: 200;
+    line-height: 1.35; }
   .company-intro-text .intro-text p {
-    font-size: 1.5rem;
-    font-size: 1.3rem; }
+    font-size: 2rem;
+    line-height: 1.35; }
+
+a.project {
+  color: #1E88E5; }
+
+a.stdc {
+  color: #689F38; }
 
 .history-images {
   padding: 0 3rem; }
@@ -9855,6 +9870,7 @@ img.margin {
   padding: 6rem 0; }
   .technology-spread h2 {
     font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 300;
     margin-bottom: 2rem; }
   .technology-spread h2.fulltext {
@@ -9870,7 +9886,7 @@ img.margin {
     margin-bottom: 4rem; }
   .technology-spread p, .technology-spread li, .technology-spread ul, .technology-spread ol {
     font-size: 1.5rem;
-    font-size: 1.23rem; }
+    font-size: 1.25rem; }
   .technology-spread .image {
     text-align: center; }
   .technology-spread .image, .technology-spread .content {
@@ -10136,7 +10152,10 @@ img.margin {
   .applications h2 {
     margin-bottom: 2rem;
     font-weight: 300;
-    font-size: 3rem; }
+    font-size: 3rem;
+    font-size: 2.5rem; }
+  .applications p {
+    font-size: 1.25rem; }
   .applications .app-list {
     padding: 0 4rem; }
     .applications .app-list h3 {
@@ -10156,10 +10175,11 @@ img.margin {
 .applications.career-two h3 {
   font-weight: 300;
   font-size: 3rem;
+  font-size: 2rem;
   margin-bottom: 2rem; }
 
 .applications.career-two p {
-  font-size: 1.5rem; }
+  font-size: 1.25rem; }
 
 /*
 * Use existing Bootstrap 4 classes and

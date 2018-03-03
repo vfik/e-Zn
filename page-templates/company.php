@@ -57,6 +57,19 @@ endwhile;
 <div class="full-alt">
 	<div class="container">
 		<div class="row">
+			<div class="col-md-12">
+				<div class="team-photo">
+					<h2>The e-Zn Team</h2>
+					<img src="/wp-content/uploads/2018/03/e-zn-team-photo.jpg" alt="e-Zn team" class="">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="full">
+	<div class="container">
+		<div class="row">
 			<div class="col-md-6">
 				<h2 class="greg">Founder and CEO</h2>
 				<h3>Dr. Gregory Zhang</h3>
@@ -71,18 +84,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="full">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="team-photo">
-					<h2>The e-Zn Team</h2>
-					<img src="/wp-content/uploads/2018/03/e-zn-team-photo.jpg" alt="e-Zn team" class="">
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+
 
 <div class="full-alt">
 	<div class="container">

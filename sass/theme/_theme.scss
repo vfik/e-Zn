@@ -75,6 +75,7 @@ a.sq-btn, .sq-btn {
 .titleIntro {
   h1 {
     font-size: 4rem;
+    font-size: 3rem;
     max-width: 800px;
     font-weight: 300;
     margin:0;
@@ -358,9 +359,11 @@ a.sq-btn, .sq-btn {
     font-weight: 300;
     margin-bottom: 2rem;
     font-size: 3rem;
+    font-size: 2.5rem
   }
   p {
     font-size: 1.3rem;
+    font-size: 1.25rem;
   }
 }
 
@@ -394,8 +397,12 @@ a.sq-btn, .sq-btn {
   // background: #ecf7ff;
   h2 {
     font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 300;
     margin-bottom: 2rem;
+  }
+  h2.greg {
+    margin-bottom: 1rem;
   }
   h3 {
     font-size: 2rem;
@@ -403,7 +410,7 @@ a.sq-btn, .sq-btn {
     margin-bottom: 2rem;
   }
   p {
-
+    font-size: 1.25rem;
   }
 }
 
@@ -412,14 +419,13 @@ a.sq-btn, .sq-btn {
   background: $slate-one;
   h2 {
     font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 300;
     margin-bottom: 2rem;
   }
-  h2.greg {
-    margin-bottom: 1rem;
-  }
+
   h2.office {
-    max-width: 500px;
+    max-width: 400px;
   }
   h3 {
     font-size: 2rem;
@@ -429,6 +435,7 @@ a.sq-btn, .sq-btn {
   p {
     font-size: 1.5rem;
     font-size: 1.3rem;
+    font-size: 1.25rem;
   }
 }
 
@@ -458,12 +465,21 @@ a.sq-btn, .sq-btn {
       font-size: 2rem;
       margin-bottom: 2rem;
       font-weight: 200;
+      line-height: 1.35;
     }
     p {
-      font-size: 1.5rem;
-      font-size: 1.3rem;
+      font-size: 2rem;
+      line-height: 1.35;
+      // font-size: 1.3rem;
     }
   }
+}
+
+a.project {
+    color: #1E88E5;
+}
+a.stdc {
+    color: #689F38;
 }
 
 .history-images {
@@ -532,6 +548,7 @@ img.margin {
 
   h2 {
     font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 300;
     margin-bottom: 2rem;
   }
@@ -552,7 +569,7 @@ img.margin {
   }
   p,li,ul,ol {
     font-size: 1.5rem;
-    font-size: 1.23rem
+    font-size: 1.25rem
   }
 
   .image {
@@ -967,9 +984,10 @@ img.margin {
     margin-bottom: 2rem;
     font-weight: 300;
     font-size: 3rem;
+    font-size: 2.5rem;
   }
   p {
-
+    font-size: 1.25rem;
   }
   .app-list {
     h3 {
@@ -998,9 +1016,10 @@ img.margin {
   h3 {
     font-weight: 300;
     font-size: 3rem;
+    font-size: 2rem;
     margin-bottom: 2rem;
   }
   p {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 }
