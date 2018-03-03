@@ -29,9 +29,9 @@ endwhile;
 				<h2>Concept</h2>
 				<p>Zn Reactor technology is based on a uniquely structured electrochemical cell, which has three distinct sections:</p>
 				<ol>
-					<li>a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
-					<li>a discharging section at the bottom section for delivering energy through zinc dissolution;</li>
-					<li>a section in the middle for storage of zinc metal deposit.</li>
+					<li class="topLiOne">a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
+					<li class="topLiOne">a discharging section at the bottom section for delivering energy through zinc dissolution;</li>
+					<li class="topLiOne">a section in the middle for storage of zinc metal deposit.</li>
 				</ol>
 			</div>
 			<div class="col-md-6 image">
@@ -98,9 +98,9 @@ endwhile;
 				<h2>Key Benefit</h2>
 				<p>The key benefit of this technology is its low cost scalability for storage capacity.  It is based on three principles:</p>
 				<ol>
-					<li>using zinc metal, which has high energy density and is inexpensive, as the energy bearing material</li>
-					<li>the zinc metal is detached from electrodes that allows the metal to be stored at a low cost unlike rechargeable batteries in which the energy bearing metal is fixed on the electrodes</li>
-					<li>the storage space is located within the same electrochemical cell as the charging and discharging electrodes that enables a simple operation and flexible capacity scaling. </li>
+					<li class="topLiOne">using zinc metal, which has high energy density and is inexpensive, as the energy bearing material</li>
+					<li class="topLiOne">the zinc metal is detached from electrodes that allows the metal to be stored at a low cost unlike rechargeable batteries in which the energy bearing metal is fixed on the electrodes</li>
+					<li class="topLiOne">the storage space is located within the same electrochemical cell as the charging and discharging electrodes that enables a simple operation and flexible capacity scaling. </li>
 				</ol>
 			</div>
 			<div class="col-md-6 image">

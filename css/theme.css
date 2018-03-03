@@ -9557,17 +9557,21 @@ a.sq-btn, .sq-btn {
   font-size: 1.5rem !important;
   margin-bottom: 2rem; }
 
+.topLiOne {
+  margin-bottom: 1rem !important; }
+
 .topLi {
   margin-bottom: 2rem !important; }
 
 .metalized-electricity::before {
   content: "Metalized Electricity";
-  background: rgba(0, 0, 0, 0.64);
+  background: rgba(113, 113, 113, 0.64);
   color: #fff;
   padding: 8px 24px;
   position: absolute;
-  right: 65px;
-  top: 20px; }
+  right: 2rem;
+  top: 1rem;
+  font-size: 24px; }
 
 #wrapper-navbar {
   background: #f3f3f3;

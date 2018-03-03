@@ -34,17 +34,17 @@ $container = get_theme_mod( 'understrap_container_type' );
 			</div><!--col end -->
 			<div class="col-md-6 footerCol">
 			<!--  -->
-				<div class="links pages">
-					<h4 class="dinTitle">About us</h4>
-					<p class="summary">e-Zn has developed a breakthrough technology to store electrical energy in zinc metal.</p>
-					<p class="summary">Our reactor is an evolution beyond the battery, and currently in operation at our Toronto facility.</p>
-					<!-- <a href="#">Contact</a> -->
-				</div>
-			<!--  -->
+			<div class="links">
+				<h4 class="dinTitle">Office + Laboratory</h4>
+				<p class="footerText">25 Advance Rd, Toronto</p>
+				<p class="footerText">Ontario, Canada M8Z 2S6</p>
+				<p class="footerText">416-518-5572</p>
+				<p class="footerText">info@e-zn.com</p>
+			</div>			<!--  -->
 			</div><!--col end -->
 		</div>
 
-		<div class="row footerRow contactRow">
+		<!-- <div class="row footerRow contactRow">
 
 			<div class="col-md-6 footerCol">
 				<div class="links">
@@ -62,7 +62,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				</div>
 			</div>
 
-		</div><!-- row end -->
+		</div> -->
 
 	</div><!-- container end -->
 
