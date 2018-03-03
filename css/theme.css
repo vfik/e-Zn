@@ -10219,8 +10219,6 @@ img.margin {
   #mobileMenu .contactDetails {
     font-size: 24px;
     padding-top: 2rem; }
-  #mobileMenu .application-slider .appCol {
-    height: 200px; }
 
 @media (max-width: 768px) {
   #wrapper-navbar .header .linksCol .links {
@@ -10241,7 +10239,9 @@ img.margin {
         font-weight: 800;
         position: relative;
         bottom: 1px;
-        cursor: pointer; } }
+        cursor: pointer; }
+  .application-slider .appCol {
+    height: 200px; } }
 
 /*
 * Use existing Bootstrap 4 classes and

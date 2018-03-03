@@ -1071,10 +1071,6 @@ img.margin {
     font-size: 24px;
     padding-top: 2rem;
     }
-
-    .application-slider .appCol {
-    height: 200px;
-    }
 }
 
 @media (max-width:768px) {
@@ -1103,5 +1099,8 @@ img.margin {
       cursor: pointer;
       }
     }
+  }
+  .application-slider .appCol {
+  height: 200px;
   }
 }
