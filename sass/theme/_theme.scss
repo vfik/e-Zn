@@ -1028,12 +1028,16 @@ img.margin {
   display: none;
 }
 
+.mobileMenuLinks {
+  display: none;
+}
+
 @media (max-width:768px) {
   #wrapper-navbar .header .linksCol .links {
     display: none;
   }
 
   .mobileMenuLinks {
-
+    display: inline-flex;
   }
 }

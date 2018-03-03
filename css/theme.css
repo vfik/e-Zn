@@ -10184,9 +10184,14 @@ img.margin {
 .displayNone {
   display: none; }
 
+.mobileMenuLinks {
+  display: none; }
+
 @media (max-width: 768px) {
   #wrapper-navbar .header .linksCol .links {
-    display: none; } }
+    display: none; }
+  .mobileMenuLinks {
+    display: inline-flex; } }
 
 /*
 * Use existing Bootstrap 4 classes and
