@@ -31,19 +31,22 @@ $container = get_theme_mod( 'understrap_container_type' );
 <body <?php body_class(); ?>>
 
 <script type="text/javascript">
-	var menuBtn = document.getElementById('menuBtn');
-	var mobileMenu = document.getElementById('mobileMenu');
-	var closeMenu = document.getElementById('closeMenu');
-
 	function openMenu() {
+		var menuBtn = document.getElementById('menuBtn');
+		var mobileMenu = document.getElementById('mobileMenu');
+		var closeMenu = document.getElementById('closeMenu');
+
 		mobileMenu.classList.remove('displayNone');
 		console.log('openMenu');
 	}
 	function closeMenu() {
+		var menuBtn = document.getElementById('menuBtn');
+		var mobileMenu = document.getElementById('mobileMenu');
+		var closeMenu = document.getElementById('closeMenu');
+
 		mobileMenu.classList.add('displayNone')
 		console.log('closeMenu');
 	}
-
 </script>
 
 <div class="hfeed site" id="page">
@@ -52,7 +55,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<div class="row">
 			<div class="col-md-12">
 				<div class="x">
-					<i class="fal fa-times" id="closeMenu" onclick="closeMenu()"></i>
+					<i class="fa fa-times" id="closeMenu" onclick="closeMenu()"></i>
 				</div>
 			</div>
 			<div class="col-md-12">
