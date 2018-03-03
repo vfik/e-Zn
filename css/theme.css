@@ -10191,6 +10191,8 @@ img.margin {
 @media (max-width: 768px) {
   #wrapper-navbar .header .linksCol .links {
     display: none; }
+  #wrapper-footer {
+    padding: 2rem 2rem; }
   .mobileMenuLinks {
     display: inline-flex;
     flex-direction: row;
