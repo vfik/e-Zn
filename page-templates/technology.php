@@ -64,7 +64,7 @@ endwhile;
 		</div>
 	</div>
 </div>
-<div class="technology-spread">
+<div class="technology-spread" id="techdemo">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 content">

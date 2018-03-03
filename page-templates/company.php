@@ -46,9 +46,8 @@ endwhile;
 		<div class="row">
 			<div class="col-md-12">
 				<div class="intro-text">
-					<h1>e-Zn is a Toronto, Canada, based corporation that was founded in 2012.</h1>
-					<p>The mission of the company is to commercialize energy storage solutions that will make renewable energy such as solar and wind economic, competitive and reliable.</p>
-					<p>Toward that, we have successfully developed a breakthrough electrochemical reactor (Zn Reactor) technology for storing energy in zinc metal.</p>
+					<h1 class="introH1">Founded in 2012, e-Zn is a Toronto based corporation that has developed a breakthrough electrochemical technology, the Zn Reactor, for storing energy in zinc metal.  This economical energy storage solution will make renewable energy such as solar and wind economic, competitive, and reliable.</h1>
+					<p class="introP">The company is currently undertaking a <a href="/technology#techdemo" class="project">project</a> awarded by <a href="https://www.sdtc.ca/en/portfolio/projects/long-duration-energy-storage-technology-solar-energy" target="_blank" class="stdc">Sustainable Development Technology Canada (SDTC)</a> to demonstrate storage of solar energy with a Zn Reactor system.</p>
 				</div>
 			</div>
 		</div>
