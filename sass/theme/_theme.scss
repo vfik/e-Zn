@@ -1073,6 +1073,22 @@ img.margin {
     }
 }
 
+input.wpcf7-form-control.wpcf7-submit {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+    color: #333;
+    background: #0e778c;
+    padding: 8px 24px;
+    display: -webkit-inline-box;
+    border: 1px solid #333;
+    border-color: #0e778c;
+    cursor: pointer;
+    border-radius: 0;
+    border: 0;
+    color: #fff;
+}
+
 @media (max-width:768px) {
   #wrapper-navbar .header .linksCol .links {
     display: none;
@@ -1100,7 +1116,28 @@ img.margin {
       }
     }
   }
+  // careers and app
   .application-slider .appCol {
   height: 200px;
   }
+  // company
+  .company-intro-text .intro-text {
+    padding: 2rem 1rem;
+    h1 {
+      font-size: 1.5rem;
+    }
+    p {
+      font-size: 1.5rem;
+    }
+  }
+  .full-alt,.full {
+    padding: 3rem 1rem;
+  }
+  .applications.career-one {
+    padding: 2rem 1rem;
+  }
+  .applications.career-two {
+    padding: 3rem 1rem;
+  }
+
 }
