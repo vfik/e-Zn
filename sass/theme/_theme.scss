@@ -1051,6 +1051,22 @@ img.margin {
     justify-content: flex-end;
     }
 
+    a.mobileMenuItem {
+    font-size: 24px;
+    color: #333;
+    line-height: 1;
+    /* padding-top: 1rem; */
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    display: -webkit-box;
+    border-bottom: 1px solid #eee;
+    }
+    a.mobileContact {
+    color: #1565C0;
+    }
+    p.address {
+    padding-top: 1rem;
+    }
 }
 
 @media (max-width:768px) {

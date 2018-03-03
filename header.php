@@ -75,7 +75,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			</div>
 			<div class="contactDetails">
 				<div class="col-md-12">
-					<a href="tel:416-518-5572" class="mobileContact">416-517-5572</a>
+					<a href="tel:416-518-5572" class="mobileContact">416-518-5572</a>
 				</div>
 				<div class="col-md-12">
 					<a href="mailto:info@e-zn.com" class="mobileContact">info@e-zn.com</a>
