@@ -76,7 +76,7 @@ endwhile;
 				<img src="/wp-content/uploads/2018/03/e-zn-solar-panels.jpg" alt="" class="middle">
 			</div>
 			<div class="col-md-6 image">
-				<img src="/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg" alt="" class="middle">
+				<img src="/wp-content/uploads/2018/03/zinc-reactors-lab.jpg" alt="" class="middle">
 			</div>
 			<div class="col-md-12 content">
 				<div class="right-content">
