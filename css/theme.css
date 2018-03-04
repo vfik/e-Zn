@@ -10293,6 +10293,11 @@ input.wpcf7-form-control.wpcf7-submit {
   .application-slider .appCol {
     height: 200px; } }
 
+@media (max-width: 500px) {
+  .videoDiv .videoElement.company {
+    position: relative;
+    right: 25%; } }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
