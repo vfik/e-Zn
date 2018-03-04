@@ -10298,6 +10298,9 @@ input.wpcf7-form-control.wpcf7-submit {
     position: relative;
     right: 25%; } }
 
+.techVideo video.videoElement {
+  max-width: 100%; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style

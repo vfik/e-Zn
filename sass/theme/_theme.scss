@@ -413,6 +413,8 @@ a.sq-btn, .sq-btn {
     top: 2rem;
 }
 
+
+
 .full {
   padding: 6rem 0;
   // background: #ecf7ff;
@@ -1187,4 +1189,8 @@ input.wpcf7-form-control.wpcf7-submit {
       position: relative;
       right: 25%;
   }
+}
+
+.techVideo video.videoElement {
+    max-width: 100%;
 }
