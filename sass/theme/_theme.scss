@@ -1181,3 +1181,10 @@ input.wpcf7-form-control.wpcf7-submit {
   }
 
 }
+
+@media (max-width:500px;) {
+  .videoDiv .videoElement.company {
+      position: relative;
+      right: 25%;
+  }
+}
