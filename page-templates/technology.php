@@ -54,10 +54,10 @@ endwhile;
 					<p>Charge and discharge cycles are created as the operation processes repeat.</p>
 			</div>
 			<div class="col-md-6 image">
-				<div class="video-holder">
-					<video autoplay loop class="technologyVideo">
-						<source src="/wp-content/uploads/2018/03/herovidHQslower.mp4" type="video/mp4">
-						<source src="/wp-content/uploads/2018/03/herovidHQslower.webm" type="video/webm">
+				<div class="techVideo">
+					<video autoplay loop class="videoElement">
+						<source src="/wp-content/uploads/2018/03/e-zn-reactor-video-demonstration.m4v" type="video/mp4">
+						<source src="/wp-content/uploads/2018/03/e-zn-reactor-video-demonstration.webm" type="video/webm">
 					</video>
 				</div>
 			</div>

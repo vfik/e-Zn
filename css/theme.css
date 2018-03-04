@@ -9549,6 +9549,10 @@ a.sq-btn, .sq-btn {
   margin: 0;
   color: #283f59; }
 
+.contentVideo .videoElement {
+  max-width: 100%;
+  padding: 1rem 0; }
+
 .techdemo {
   font-size: 1.5rem !important;
   margin-bottom: 2rem; }
@@ -9755,7 +9759,7 @@ a.sq-btn, .sq-btn {
   background-image: url("/wp-content/uploads/2018/03/team-full-width.jpg"); }
 
 .kalyna-slider.technology {
-  background-image: url("url(/wp-content/uploads/2018/03/raw-zinc-ezn.jpg)"); }
+  background-image: url("url(/wp-content/uploads/2018/03/raw-zinc-ezn.jpg"); }
 
 .kalyna-slider.technology::before {
   content: "Metalized Electricity";
