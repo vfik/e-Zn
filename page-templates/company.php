@@ -99,7 +99,6 @@ endwhile;
 			<div class="col-md-6">
 				<h2 class="office">Our office and laboratory facility.</h2>
 				<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
-				<p>416-518-5572</p>
 				<p>info@e-zn.com</p>
 			</div>
 			<div class="col-md-6">

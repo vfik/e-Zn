@@ -27,11 +27,10 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6 content">
 				<h2>Concept</h2>
-				<p>Zn Reactor technology is based on a uniquely structured electrochemical cell, which has three distinct sections:</p>
 				<ol>
-					<li class="topLiOne">a charging section at the top section of the cell for receiving energy through zinc deposition;</li>
-					<li class="topLiOne">a discharging section at the bottom section for delivering energy through zinc dissolution;</li>
-					<li class="topLiOne">a section in the middle for storage of zinc metal deposit.</li>
+					<li class="topLiOne">A charging section at the top where zinc metal is formed, absorbing energy</li>
+					<li class="topLiOne">A discharging section at the bottom where zinc metal is dissolved, releasing energy</li>
+					<li class="topLiOne">A section in the middle where zinc metal is stored</li>
 				</ol>
 			</div>
 			<div class="col-md-6 image">
@@ -48,10 +47,10 @@ endwhile;
 		<div class="row">
 			<div class="col-md-6 content">
 					<h2>Operation</h2>
-					<p>The electrochemical cell is a simple mechanical operation.</p>
+					<p>The electrochemical cell has a simple mechanical operation.</p>
 					<p>During charging zinc metal is electrochemically deposited in the electrodes in the charging section and falls, when wiped off from the electrodes, into the storage space below.</p>
-					<p>During discharging, the zinc is dissolved into the solution and circulated back to the top of the charging section to be deposited again back into metal.</p>
-					<p>Charge and discharge cycles are created as the operation processes repeat.</p>
+					<p>During discharging, the zinc is dissolved into the solution and is circulated back to the top of the charging section to be deposited again back into metal.</p>
+					<p>Charging and discharging cycles are created as the operation processes repeat.</p>
 			</div>
 			<div class="col-md-6 image">
 				<div class="techVideo">
@@ -69,7 +68,7 @@ endwhile;
 		<div class="row">
 			<div class="col-md-12 content">
 				<h2>Technology demonstration</h2>
-				<p class="techdemo">e-Zn is currently leading an industrial consortium to conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system in an off-grid setting.  It consists of 5kW solar panels and 1kW/24 hours energy storage.</p>
+				<p class="techdemo">e-Zn is currently leading an industrial consortium to conduct a project awarded by SDTC to demonstrate the storage of solar energy with a Zn Reactor system in an off-grid setting.  It consists of 5kW solar panels and 1kW/24 hours of energy storage.</p>
 				<p class="techdemo">Consortium members include Canadian Solar, Broy Engineering and NewESolar.</p>
 			</div>
 			<div class="col-md-6 image">
@@ -84,7 +83,7 @@ endwhile;
 						<img src="/wp-content/uploads/2018/03/sdtc_logo_english.jpg" alt="" class="stdc-img">
 					</a>
 					<h3 class="stdc">About STDC</h3>
-					<p class="techdemo">Sustainable Development Technology Canada (SDTC) is an arm's-length foundation created by the Government of Canada to support innovative and entrepreneurial clean technology projects. Our portfolio of companies develop and demonstrate new technologies that address issues related to climate change, air quality, clean water and soil.</p>
+					<p class="techdemo">Sustainable Development Technology Canada (SDTC) is an arm's-length foundation created by the Government of Canada to support innovative and entrepreneurial clean technology projects.</p>
 				</div>
 			</div>
 		</div>
@@ -95,7 +94,7 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 ">
-				<h2>Key Benefit</h2>
+				<h2>Key Advantages</h2>
 				<p>The key benefit of this technology is its low cost scalability for storage capacity.  It is based on three principles:</p>
 				<ol>
 					<li class="topLiOne">using zinc metal, which has high energy density and is inexpensive, as the energy bearing material</li>
@@ -118,20 +117,9 @@ endwhile;
 			<div class="col-md-6 ">
 				<h2>Advantages over batteries</h2>
 				<ul>
-					<li class="topLi">Zn Reactor is lowest cost technology for usable storage capacity
-						<ul>
-							<li>The cost of usable storage capacity for a multiple day Zn Reactor system can be as low as $60/kWh.  It is more than $300/kWh for batteries.</li>
-						</ul>
-					</li>
-					<li class="topLi">Storage capacity of Zn Reactor does not fade with time; it remains the same at the end of product life.  The capacity of batteries decays with time</li>
-					<li class="topLi">Zn Reactor has a wide range of operation temperature, from - 45 0C to 70 0C, and does require air conditioning in field environments
-						<ul>
-							<li>Lithium batteries needs to be air conditioned for performance and longevity</li>
-							<li>Life of lead acid batteries halves for every ten degree increase in temperature above 25C</li>
-						</ul>
-					</li>
-					<li class="topLi">Zn Reactor uses aqueous electrolyte which does not catch fire; Lithium battery may catch fire in the events of thermal runaway.</li>
-					<li class="topLi">Zn Reactor is readily recyclable while recycling lithium batteries is costly</li>
+					<li class="topLi">Storage capacity of Zn Reactor does not fade with time</li>
+					<li class="topLi">Zn Reactor can operate from - 45°C to 70°C without air conditioning</li>
+					<li class="topLi">Zn Reactor does not catch fire</li>
 				</ul>
 			</div>
 			<div class="col-md-6 image">
@@ -146,7 +134,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="technology-spread alt">
+<!-- <div class="technology-spread alt">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 ">
@@ -160,14 +148,13 @@ endwhile;
 			<div class="col-md-6 image">
 				<div class="img-wrap">
 					<img src="http://e-zn.com/wp-content/uploads/2018/03/e-zn-innovation-design-reactor-compare.jpg" alt="">
-					<!-- <img src="/wp-content/uploads/2018/02/traditional-vs-e-zn-design.png" class="padding" alt=""> -->
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
-<div class="technology-spread">
+<!-- <div class="technology-spread">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 content">
@@ -183,7 +170,7 @@ endwhile;
 		</div>
 
 	</div>
-</div>
+</div> -->
 
 <!-- End Page Content -->
 

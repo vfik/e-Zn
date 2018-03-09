@@ -46,7 +46,6 @@ endwhile;
 			<div class="col-md-5">
 				<h3>e-Zn Inc</h3>
 				<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
-				<p>416-518-5572</p>
 				<p>info@e-zn.com</p>
 			</div>
 			<div class="col-md-7">
