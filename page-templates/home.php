@@ -62,7 +62,7 @@ endwhile;
 				<div class="content">
 					<h2>Lowest cost energy storage technology</h2>
 					<p>e-Zn's unique Zn Reactor Technology turns electricity into physically free zinc material.</p>
-					<p>The metal can be flexibly contained for large scale storage of energy at the cost of zinc.</p>
+					<p>The metal can be flexibly and inexpensively contained for large scale storage of energy.</p>
 				</div>
 				<img src="/wp-content/uploads/2018/03/stored-zinc-e-zn.jpg" class="" alt="">
 			</div>

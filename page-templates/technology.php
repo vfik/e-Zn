@@ -104,7 +104,7 @@ endwhile;
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
-					<img src="/wp-content/uploads/2018/03/2018-03-01-23_21_54-website-content-design-1.pptx-LibreOffice-Impress.png" class="padding" alt="">
+					<img src="/wp-content/uploads/2018/03/storage-capacity.png" class="padding" alt="">
 				</div>
 			</div>
 		</div>
