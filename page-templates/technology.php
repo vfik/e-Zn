@@ -29,9 +29,9 @@ endwhile;
 				<h2>Concept</h2>
 				<p>The Zn Reactor is an electrochemical cell with a distinctive structure:</p>
 				<ol>
-					<li class="topLiOne">A charging section at the top where zinc metal is formed, absorbing energy</li>
-					<li class="topLiOne">A discharging section at the bottom where zinc metal is dissolved, releasing energy</li>
-					<li class="topLiOne">A section in the middle where zinc metal is stored</li>
+					<li class="topLiOne">A charging section at the top where zinc metal is formed, absorbing energy.</li>
+					<li class="topLiOne">A discharging section at the bottom where zinc metal is dissolved, releasing energy.</li>
+					<li class="topLiOne">A section in the middle where zinc metal is stored.</li>
 				</ol>
 				<div class="">
 					<a href="/wp-content/uploads/2018/02/e-zn-scientific-paper.pdf" id="sciPaper" target="_blank">Read our Scientific Paper <i class="fa fa-long-arrow-right"></i></a>
@@ -41,6 +41,7 @@ endwhile;
 				<div class="img-wrap">
 					<img src="/wp-content/uploads/2018/02/e-zn-reactor-concept.png" alt="" class="padding">
 					<!-- <img src="/wp-content/uploads/2018/02/inside-reactor-resize-portrait.jpg" alt=""> -->
+					<p class="patentText">Global patent protection is pursued. Patents were granted in the United States and China and are pending in more countries.</p>
 				</div>
 			</div>
 		</div>
@@ -106,14 +107,14 @@ endwhile;
 				<h2>Key Benefit</h2>
 				<p>The Zn Reactor has low cost scalability for storage capacity based on three principles:</p>
 				<ol>
-					<li class="topLiOne">using zinc metal, which has high energy density and is inexpensive, as the energy bearing material</li>
-					<li class="topLiOne">the zinc metal is detached from electrodes allowing the metal to be stored at a low cost unlike rechargeable batteries in which the energy bearing metal is fixed on the electrodes</li>
-					<li class="topLiOne">the storage space is located within the same electrochemical cell as the charging and discharging electrodes enabling a simple operation and flexible capacity scaling. </li>
+					<li class="topLiOne">Using zinc metal, which has high energy density and is inexpensive, as the energy bearing material.</li>
+					<li class="topLiOne">The zinc metal is detached from electrodes allowing the metal to be stored at a low cost unlike rechargeable batteries in which the energy bearing metal is fixed on the electrodes.</li>
+					<li class="topLiOne">The storage space is located within the same electrochemical cell as the charging and discharging electrodes enabling a simple operation and flexible capacity scaling.</li>
 				</ol>
 			</div>
 			<div class="col-md-6 image">
 				<div class="img-wrap">
-					<img src="/wp-content/uploads/2018/03/storage-capacity.png" class="padding" alt="">
+					<img src="/wp-content/uploads/2018/04/storage-capacity-scaling-30-kwh.png" class="padding" alt="">
 				</div>
 			</div>
 		</div>
@@ -126,9 +127,9 @@ endwhile;
 			<div class="col-md-6 ">
 				<h2>Advantages over batteries</h2>
 				<ul>
-					<li class="topLi">Storage capacity of Zn Reactor does not fade with time</li>
-					<li class="topLi">Zn Reactor can operate in a wide temperature range from - 45°C to 70°C without air conditioning</li>
-					<li class="topLi">Zn Reactor is fire resistant</li>
+					<li class="topLi">Storage capacity of Zn Reactor does not fade with time.</li>
+					<li class="topLi">Zn Reactor can operate in a wide temperature range from - 45°C to 70°C without air conditioning.</li>
+					<li class="topLi">Zn Reactor is fire resistant.</li>
 				</ul>
 			</div>
 			<div class="col-md-6 image">

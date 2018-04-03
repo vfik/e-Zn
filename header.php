@@ -68,7 +68,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<a href="/technology/" class="mobileMenuItem">Technology</a>
 			</div>
 			<div class="col-md-12">
-				<a href="/product-application/" class="mobileMenuItem">Application</a>
+				<a href="/product-application/" class="mobileMenuItem">Applications</a>
 			</div>
 			<div class="col-md-12">
 				<a href="/careers/" class="mobileMenuItem">Careers</a>

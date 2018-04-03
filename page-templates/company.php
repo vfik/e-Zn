@@ -80,7 +80,7 @@ endwhile;
 			<div class="col-md-6">
 				<h2 class="greg">Founder and CEO</h2>
 				<h3>Dr. Gregory Zhang</h3>
-				<p>Dr. Zhang is a visionary and seasoned technology developer.  Prior to founding e-Zn, Dr. Zhang worked for 20 years in Teck Resources as a scientist and later as manager of R&D leading a team to develop new zinc products for battery.</p>
+				<p>Dr. Zhang is a visionary and seasoned technology developer.  Prior to founding e-Zn, Dr. Zhang worked for 20 years at Teck Resources as a scientist and later as Manager of R&D leading a team to develop new zinc products for battery.</p>
 				<p>Dr. Zhang is an acknowledged world-expert in zinc electrochemistry and the author of the book <strong>“Corrosion and Electrochemistry of Zinc”</strong>, which has been the most comprehensive book on the subject since its publication in 1996.</p>
 				<p>Dr. Zhang received his PhD in Electrochemistry and Materials Science from the Free University of Brussels and held post-doctoral positions at MIT and Columbia University.</p>
 			</div>

@@ -35,8 +35,8 @@ endwhile;
 		<div class="row">
 			<div class="col-md-7">
 				<h2>Applications</h2>
-				<p>Zn Reactor products will be most suitable for applications requiring long runtime (long duration capacity), that is for more than half day to multiple days of storage capacity.</p>
-				<p>It is particularly suitable for off-grid and micro-grid applications.  For off-grid and many micro grids, the electricity is typically generated with diesel generators. The replacement of diesel generators by Zn Reactor will not only reduce CO2 emission but also reduce the cost of electricity.</p>
+				<p>Zn Reactor products will be most suitable for applications requiring long runtime (long duration capacity), that is for more than half-a-day to multiple days of storage capacity.</p>
+				<p>It is particularly suitable for off-grid and micro-grid applications. For off-grid and many micro-grids, the electricity is typically generated with diesel generators. The replacement of diesel generators by Zn Reactor will not only reduce CO2 emission but also reduce the cost of electricity.</p>
 			</div>
 			<div class="col-md-5">
 				<div class="app-list">
