@@ -10300,6 +10300,21 @@ input.wpcf7-form-control.wpcf7-submit {
 .techVideo video.videoElement {
   max-width: 100%; }
 
+#sciPaper {
+  background: #00796B;
+  color: #fff;
+  font-weight: 500;
+  font-size: 22px;
+  padding: 8px 28px;
+  display: -webkit-inline-box;
+  border-radius: 10px 10px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.43); }
+
+.operation-video {
+  margin-top: 2rem; }
+  .operation-video video.videoElement {
+    max-width: 100%; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
