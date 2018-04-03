@@ -53,7 +53,7 @@ endwhile;
 				<h2>Operation</h2>
 				<p>The electrochemical cell has a simple mechanical operation.</p>
 				<p>During charging zinc metal is electrochemically deposited in the electrodes in the charging section and falls, when wiped off from the electrodes, into the discharge section and the storage space below.</p>
-				<p>During discharging, the zinc iin the discharging section is dissolved into the solution and is circulated back to the top of the charging section to be deposited back into metal again.</p>
+				<p>During discharging, the zinc in the discharging section is dissolved into the solution and is circulated back to the top of the charging section to be deposited back into metal again.</p>
 				<p>Charging and discharging cycles are created as the operation processes repeat.</p>
 				<div class="operation-video">
 					<video height="auto" controls="controls" preload="none" onclick="this.play()" class="videoElement" poster="/wp-content/uploads/2018/04/zinc-reactor-video-poster.jpg">
