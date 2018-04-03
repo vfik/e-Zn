@@ -9861,9 +9861,6 @@ img.margin {
   margin-top: 1rem;
   font-size: 1.13rem; }
 
-#storedelectricity {
-  margin-bottom: 6rem; }
-
 #storedelectricity::before {
   content: "Stored Electricity (Zinc Metal)";
   background: rgba(0, 0, 0, 0.64);
@@ -10158,7 +10155,9 @@ img.margin {
   background-image: url("/wp-content/uploads/2018/03/e-zn-team-at-work.jpg"); }
 
 .application-slider .appCol.reactor-office {
-  background-image: url("/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg"); }
+  background-image: url("/wp-content/uploads/2018/02/e-zn-20-reactor-cells.jpg");
+  background-image: url(/wp-content/uploads/2018/04/e-zn-careers-alt-large.jpg);
+  background-position: 50% 75%; }
 
 .applications {
   padding: 4rem 0; }
