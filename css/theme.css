@@ -10323,6 +10323,12 @@ p.patentText {
   border-radius: 8px;
   padding: 10px 15px; }
 
+.seevideo {
+  text-align: right; }
+  .seevideo p {
+    text-align: right;
+    font-weight: 400; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
