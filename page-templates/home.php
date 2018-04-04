@@ -58,7 +58,7 @@ endwhile;
 <div class="home-content-intro">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-7">
+			<div class="col-md-6">
 				<div class="content">
 					<h2>Lowest cost energy storage technology</h2>
 					<p>e-Zn's unique Zn Reactor Technology turns electricity into physically free zinc material.</p>
@@ -71,7 +71,7 @@ endwhile;
 					</video>
 				</div> -->
 			</div>
-			<div class="col-md-5">
+			<div class="col-md-6">
 				<div class="metalized-electricity">
 					<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">
 				</div>
