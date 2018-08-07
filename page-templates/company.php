@@ -78,10 +78,10 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<h2 class="greg">Founder and CEO</h2>
+				<h2 class="greg">Founder and Executive Chairman</h2>
 				<h3>Dr. Gregory Zhang</h3>
-				<p>Dr. Zhang is a visionary and seasoned technology developer.  Prior to founding e-Zn, Dr. Zhang worked for 20 years at Teck Resources as a scientist and later as Manager of R&D leading a team to develop new zinc products for battery.</p>
-				<p>Dr. Zhang is an acknowledged world-expert in zinc electrochemistry and the author of the book <strong>“Corrosion and Electrochemistry of Zinc”</strong>, which has been the most comprehensive book on the subject since its publication in 1996.</p>
+				<p>Dr. Zhang is a visionary and seasoned technology developer. He founded e-Zn in 2012 and has been the CEO till July 2018. As the inventor of the Zn Reactor technology Dr. Zhang led the development from conception to the success demonstration of a fully integrated energy storage system for solar power.</p>
+				<p>Prior to founding e-Zn, Dr. Zhang worked for 20 years at Teck Resources as a scientist and later as Manager of R&D leading a team to develop new zinc products for battery. Dr. Zhang is an acknowledged world-expert in zinc electrochemistry and the author of the book “Corrosion and Electrochemistry of Zinc”, which has been the most comprehensive book on the subject since its publication in 1996.</p>
 				<p>Dr. Zhang received his PhD in Electrochemistry and Materials Science from the Free University of Brussels and held post-doctoral positions at MIT and Columbia University.</p>
 			</div>
 			<div class="col-md-6">
@@ -91,7 +91,22 @@ endwhile;
 	</div>
 </div>
 
-
+<div class="full">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2 class="greg">Chief Executive Officer</h2>
+				<h3>James Larsen</h3>
+				<p>James has over 15 years of business leadership and engineering experience spanning cleantech and startups, strategy and operations, and design and engineering.</p>
+				<p>Most recently, James was a Director with the Advanced Energy Centre (part of MaRS Discovery District) where he built a novel Products & Services business line. Within 2 years, he grew this business from initial concept to over $1.2MM in sales and expanded its global reach to include 5 international markets. Prior to MaRS, James was a Management Consultant with Bain & Company, a top-tier consulting firm, developing strategic solutions for market-leading companies in Canada, the U.S., and Europe. James also possesses deep experience as an engineer working in the renewable energy industry with a variety of technologies, including hydrogen fuel cells, as well as micro-hydro and geothermal generation.</p>
+				<p>James holds a BSc in Mechanical Engineering (with Honours) from Queen's University and an MBA (Dean’s List) from the Ivey Business School at Western University. James is also a registered Professional Engineer.</p>
+			</div>
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2018/08/James-Larsen-headshot-highres-1.jpg" alt="James Larsen">
+			</div>
+		</div>
+	</div>
+</div>
 
 <div class="full-alt">
 	<div class="container">
