@@ -80,7 +80,7 @@ endwhile;
 			<div class="col-md-6">
 				<h2 class="greg">Founder and Executive Chairman</h2>
 				<h3>Dr. Gregory Zhang</h3>
-				<p>Dr. Zhang is a visionary and seasoned technology developer. He founded e-Zn in 2012 and has been the CEO till July 2018. As the inventor of the Zn Reactor technology Dr. Zhang led the development from conception to the success demonstration of a fully integrated energy storage system for solar power.</p>
+				<p>Dr. Zhang is a visionary and seasoned technology developer. He founded e-Zn in 2012 and has been the CEO till July 2018. As the inventor of the Zn Reactor technology Dr. Zhang led the development from conception to the successful demonstration of a fully integrated energy storage system for solar power.</p>
 				<p>Prior to founding e-Zn, Dr. Zhang worked for 20 years at Teck Resources as a scientist and later as Manager of R&D leading a team to develop new zinc products for battery. Dr. Zhang is an acknowledged world-expert in zinc electrochemistry and the author of the book “Corrosion and Electrochemistry of Zinc”, which has been the most comprehensive book on the subject since its publication in 1996.</p>
 				<p>Dr. Zhang received his PhD in Electrochemistry and Materials Science from the Free University of Brussels and held post-doctoral positions at MIT and Columbia University.</p>
 			</div>
