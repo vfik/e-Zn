@@ -43,6 +43,35 @@ endwhile;
 <div class="applications career-two">
 	<div class="container">
 		<div class="row">
+			<div class="col-12">
+				<h3>Open Job Poisitions</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="card">
+					<div class="card-body">
+						<h4>VP Business Development</h4>
+						<a href="http://e-zn.com/wp-content/uploads/2018/12/e-Zn-Job-Description-VP-Business-Development.pdf" class="btn btn-primary btn-block">Read posting</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="card">
+					<div class="card-body">
+						<h4>VP Engineering</h4>
+						<a href="http://e-zn.com/wp-content/uploads/2018/12/e-Zn-Job-Description-VP-Engineering.pdf" class="btn btn-primary btn-block">Read posting</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="applications career-two">
+	<div class="container">
+		<div class="row">
 			<div class="col-md-5">
 				<h3>e-Zn Inc</h3>
 				<p>25 Advance Rd<br>Toronto, Ontario<br>Canada, M8Z 2S6</p>
