@@ -51,16 +51,16 @@ endwhile;
 			<div class="col-md-6">
 				<div class="card">
 					<div class="card-body">
-						<h4>VP Business Development</h4>
-						<a href="http://e-zn.com/wp-content/uploads/2018/12/e-Zn-Job-Description-VP-Business-Development.pdf" class="btn btn-primary btn-block">Read posting</a>
+						<h3>VP Business Development</h3>
+						<a href="http://e-zn.com/wp-content/uploads/2018/12/e-Zn-Job-Description-VP-Business-Development.pdf" class="btn btn-primary btn-block" target="_blank">Read posting</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="card">
 					<div class="card-body">
-						<h4>VP Engineering</h4>
-						<a href="http://e-zn.com/wp-content/uploads/2018/12/e-Zn-Job-Description-VP-Engineering.pdf" class="btn btn-primary btn-block">Read posting</a>
+						<h3>VP Engineering</h3>
+						<a href="http://e-zn.com/wp-content/uploads/2018/12/e-Zn-Job-Description-VP-Engineering.pdf" class="btn btn-primary btn-block" target="_blank">Read posting</a>
 					</div>
 				</div>
 			</div>
