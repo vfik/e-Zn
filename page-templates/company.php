@@ -54,7 +54,7 @@ endwhile;
 			<div class="col-md-12">
 				<div class="intro-text">
 					<h1 class="introH1">Founded in 2012, e-Zn is a Toronto based corporation that has developed a breakthrough electrochemical technology, the Zn Reactor, for storing energy in zinc metal.  This economical energy storage solution will make renewable energy such as solar and wind economic, competitive, and reliable.</h1>
-					<p class="introP">The company is currently undertaking a <a href="/technology#techdemo" class="project">project</a> awarded by <a href="https://www.sdtc.ca/en/portfolio/projects/long-duration-energy-storage-technology-solar-energy" target="_blank" class="stdc">Sustainable Development Technology Canada (SDTC)</a> to demonstrate storage of solar energy with a Zn Reactor system.</p>
+					<p class="introP">The company is currently undertaking a <a href="/technology#techdemo" class="project">project</a> awarded by <a href="https://www.sdtc.ca/en/projects/long-duration-energy-storage-technology-for-solar-energy/" target="_blank" class="stdc">Sustainable Development Technology Canada (SDTC)</a> to demonstrate storage of solar energy with a Zn Reactor system.</p>
 					<p class="introP">e-Zn has recently <a href="https://betakit.com/torontos-e-zn-only-canadian-company-selected-to-inaugural-shell-gamechanger-cleantech-accelerator/">won</a> the coveted <a href="https://gcxnrel.com/">Shell GameChanger award</a> in an international competition.</p>
 				</div>
 			</div>
