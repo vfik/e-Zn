@@ -40,7 +40,7 @@ endwhile;
 	</div>
 </div>
 
-<div class="applications career-two">
+<!-- <div class="applications career-two">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -85,7 +85,7 @@ endwhile;
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!-- <div class="job postings" id="positions">
 	<div class="container">
