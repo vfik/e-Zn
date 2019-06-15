@@ -33,7 +33,7 @@ endwhile;
 		<div class="row">
 			<div class="col-md-12">
 				<div class="careers-across">
-					<h2>Job Description – Senior Mechanical Design Engineer</h2>
+					<h1>Job Description – Senior Mechanical Design Engineer</h1>
 					
 					<h3>About e-Zn</h3>
 					<p>e-Zn is an energy storage startup based in Toronto with a breakthrough technology poised to
