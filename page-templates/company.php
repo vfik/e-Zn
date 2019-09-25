@@ -109,6 +109,23 @@ endwhile;
 	</div>
 </div>
 
+<div class="full">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2 class="greg">VP Engineering</h2>
+				<h3>Pieter de Koning</h3>
+				<p>Pieter de Koning has 25 years of experience in technology development, global manufacturing and business development.</p>
+				<p>Most recently, Pieter was the Director of Production for Temporal Power.  On sale of their flywheel technology to a foreign buyer, he was hired to lead knowledge transfer, design a new factory layout, conduct supplier due diligence and develop a roadmap for the next generation product in the buyer’s home market. Before Temporal Power, he ran projects in Energy Storage, Renewable Power and Microgrid for firms including Hatch and Canadian Solar. Prior to joining the cleantech space Pieter worked for Xerox and Spin Master Toys and holds several patents for his work.</p>
+				<p>Pieter is a Licensed Engineer with a Civil Structural degree from University of Waterloo and MBA from Rotman at UofT with a double major in Marketing and Technology Innovation.  He is on the Board of Directors of SolarShare and enjoys mentoring young engineers at UofT Entrepreneurship Hatchery.</p>
+			</div>
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2019/09/Pieter-de-Koning-Linked-In-Photo.jpg" alt="Pieter de Koning">
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="full-alt">
 	<div class="container">
 		<div class="row">
