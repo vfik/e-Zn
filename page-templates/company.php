@@ -126,6 +126,23 @@ endwhile;
 	</div>
 </div>
 
+<div class="full">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2 class="greg">VP Business Development</h2>
+				<h3>Scott Peever</h3>
+				<p>Scott is an engineer turned sales & marketing professional, with expertise in power generation, distributed energy, and oil & gas.</p>
+				<p>Prior to joining e-Zn, Scott was a Sr. Sales Manager with INNIO (formally GE Distributed Power), where he developed onsite power solutions for commercial and industrial customers across Canada. With GE, Scott also held roles in Strategic Marketing and Operations, focused on the evolving energy market. Prior to INNIO/GE, Scott was a Process Engineer with Suncor Energy, where he led energy conservation projects in refining.</p>
+				<p>Scott holds a BSc in Chemical Engineering (with Honours) from Queen’s University, and an MBA (top graduating student) from the Rotman School of Management at the University of Toronto. During his MBA, Scott worked with Chrysalix Venture Capital, supporting cleantech investments, and was an MBA fellow at the Creative Destruction Lab. Scott is also a registered professional engineer.</p>
+			</div>
+			<div class="col-md-6">
+				<img src="/wp-content/uploads/2019/09/Scott-pic.jpg" alt="Scott Peever">
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="full-alt">
 	<div class="container">
 		<div class="row">
