@@ -95,7 +95,7 @@ endwhile;
 					<a href="https://www.sdtc.ca/en/portfolio/projects/long-duration-energy-storage-technology-solar-energy" target="_blank">
 						<img src="/wp-content/uploads/2018/03/sdtc_logo_english.jpg" alt="" class="stdc-img">
 					</a>
-					<h3 class="stdc">About STDC</h3>
+					<h3 class="stdc">About SDTC</h3>
 					<p class="techdemo">Sustainable Development Technology Canada (SDTC) is an arm's-length foundation created by the Government of Canada to support innovative and entrepreneurial clean technology projects.</p>
 				</div>
 			</div>

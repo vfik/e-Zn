@@ -76,9 +76,37 @@ endwhile;
 					<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">
 				</div>
 			</div>
+
+			<div class="col-md-12">
+				<div class="container">
+					<div class="content">
+						<p>e-Zn was chosen to be on Cleantech's 50 to watch list. <a href="http://info.cleantech.com/50-to-Watch-2019-report-download.html?utm_campaign=50%20to%20Watch%2019&utm_medium=links&utm_source=PR_Kit">Download the report</a></p>
+						<p>Cleantech&reg; Group is an international company focused on supporting innovating clean technologies</p>
+						<img src="/wp-content/uploads/2019/10/cleantechlogo.jpg" alt="">
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-12">
+				<div class="container">
+					<div class="content">
+						<p>We were interviewed by BNN Bloomberg. <a href="https://www.bnnbloomberg.ca/commodities/video/power-shift-zinc-s-advantages-for-battery-storage-over-lithium-ion~1782308">Watch the video</a></p>
+						<img src="/wp-content/uploads/2019/10/bnnlogo.png" alt="">
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-12">
+				<div class="container">
+					<div class="content">
+						<p>e-Zn won the $20,000 grand prize at the <a href="https://canada-isa.org/">Canada Innovative SMEs Association</a> pitch competition.</p>
+						<img src="/wp-content/uploads/2019/10/canadianisalogo.png" alt="">
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</div>
-
 </div>
 
 <!-- <div class="container home-con">

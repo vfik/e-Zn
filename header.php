@@ -62,6 +62,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<a href="/" class="mobileMenuItem">Home</a>
 			</div>
 			<div class="col-md-12">
+				<a href="/news/" class="mobileMenuItem">News</a>
+			</div>
+			<div class="col-md-12">
 				<a href="/company/" class="mobileMenuItem">Company</a>
 			</div>
 			<div class="col-md-12">
@@ -105,6 +108,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<div class="links">
 						<!-- <a href="/benefits-of-zinc/">Benefits of Zinc</a> -->
 						<a href="/">Home</a>
+						<a href="/news/">News</a>
 						<a href="/company/">Company</a>
 						<a href="/technology/">Technology</a>
 						<a href="/product-application/">Applications</a>
