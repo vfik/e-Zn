@@ -64,7 +64,7 @@ endwhile;
 					<p>e-Zn's unique Zn Reactor Technology turns electricity into physically free zinc material.</p>
 					<p>The metal can be flexibly and inexpensively contained for large scale storage of energy.</p>
 				</div>
-				<img src="/wp-content/uploads/2018/03/stored-zinc-e-zn.jpg" class="" alt="">
+				<img src="/wp-content/uploads/2018/03/stored-zinc-e-zn.jpg" class="" alt style ="padding-bottom:30px;">
 				<!-- <div class="operation-video">
 					<video height="auto" controls="controls" preload="none" onclick="this.play()" class="videoElement" poster="/wp-content/uploads/2018/04/zinc-reactor-video-poster.jpg">
 						<source src="/wp-content/uploads/2018/04/e-zn_zinc_reactor_optimized-export1.mp4" type="video/mp4">
@@ -73,20 +73,14 @@ endwhile;
 			</div>
 			<div class="col-md-6">
 				<div class="metalized-electricity">
-					<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">
+					<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt ="">
 				</div>
 			</div>
 
-			<div class="col-md-12">
-				<div class="container">
-					<div class="content">
-						<h3>e-Zn was chosen to be on the 2019 Cleantech 50 to watch list.</h3>
-					</div>
-				</div>
-			</div>
 			<div class="col-md-8">
 				<div class="container">
-					<div class="content">
+					<div>
+						<p style="padding-top: 10px;">e-Zn was chosen to be on the 2019 Cleantech 50 to watch list.</p>
 						<p>Cleantech&reg; Group is an international company focused on supporting innovating clean technologies <a href="http://info.cleantech.com/50-to-Watch-2019-report-download.html?utm_campaign=50%20to%20Watch%2019&utm_medium=links&utm_source=PR_Kit">Download the report</a></p>
 					</div>
 				</div>
@@ -94,60 +88,37 @@ endwhile;
 			<div class="col-md-4">
 				<div class="container">
 					<div class="content">
-						<img src="/wp-content/uploads/2019/10/cleantechlogo.jpg" alt="">
+						<img src="/wp-content/uploads/2019/10/cleantechlogo.jpg" alt style="padding-top:20px; padding-bottom:20px;">
 					</div>
 				</div>
 			</div>
 
-			<div class="col-md-6">
-				<div class="metalized-electricity">
-					<img src="/wp-content/uploads/2018/03/zinc-hands.jpg" alt="">
-				</div>
-			</div>
-
-
-			<div class="col-md-8">
+			<div class="homecontent col-md-8">
 				<div class="container">
 					<div class="content">
-						<h4>e-Zn was chosen to be on the 2019 Cleantech 50 to watch list.</h4>
-						<p>Cleantech&reg; Group is an international company focused on supporting innovating clean technologies <a href="http://info.cleantech.com/50-to-Watch-2019-report-download.html?utm_campaign=50%20to%20Watch%2019&utm_medium=links&utm_source=PR_Kit">Download the report</a></p>
+						<p style="padding-top: 10px;"> We were interviewed by BNN Bloomberg. <a href="https://www.bnnbloomberg.ca/commodities/video/power-shift-zinc-s-advantages-for-battery-storage-over-lithium-ion~1782308">Watch the video</a></p>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="homecontent col-md-4">
 				<div class="container">
 					<div class="content">
-						<img src="/wp-content/uploads/2019/10/cleantechlogo.jpg" alt="">
+						<img src="/wp-content/uploads/2019/10/bnnlogo.png" alt style = "padding-top:20px; padding-bottom:20px;">
 					</div>
 				</div>
 			</div>
 
 			<div class="col-md-8">
 				<div class="container">
-					<div class="content">
-						<h4>We were interviewed by BNN Bloomberg. <a href="https://www.bnnbloomberg.ca/commodities/video/power-shift-zinc-s-advantages-for-battery-storage-over-lithium-ion~1782308">Watch the video</a></h4>
+					<div style = "padding-top: 2rem padding-bottom: 2rem">
+						<p style="padding-top: 10px;">e-Zn won the $20,000 grand prize at the <a href="https://canada-isa.org/">Canada Innovative SMEs Association</a> pitch competition.</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="container">
 					<div class="content">
-						<img src="/wp-content/uploads/2019/10/bnnlogo.png" alt="">
-					</div>
-				</div>
-			</div>
-
-			<div class="col-md-8">
-				<div class="container">
-					<div class="content">
-						<h4>e-Zn won the $20,000 grand prize at the <a href="https://canada-isa.org/">Canada Innovative SMEs Association</a> pitch competition.</h4>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="container">
-					<div class="content">
-						<img src="/wp-content/uploads/2019/10/canadianisalogo.png" alt="">
+						<img src="/wp-content/uploads/2019/10/canadianisalogo.png" alt style="padding-top:20px; padding-bottom:20px;">
 					</div>
 				</div>
 			</div>
