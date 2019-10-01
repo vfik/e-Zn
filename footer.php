@@ -24,6 +24,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<h4 class="dinTitle">Sitemap</h4>
 					<!-- <a href="#">Home</a> -->
 					<a href="/" class="footerText">Home</a>
+					<a href="/news/" class="footerText">News</a>
 					<a href="/company/" class="footerText">Company</a>
 					<a href="/careers/" class="footerText">Careers</a>
 					<a href="/technology/" class="footerText">Technology</a>
