@@ -15,6 +15,13 @@ while ( have_posts() ) : the_post();
 endwhile;
 ?>
 
+<style>
+@media only screen and (min-width: 500px) {
+  h1 {
+    padding-left:15rem;
+  }
+}
+</style>
 <!-- Begin Page Content -->
 
 <!-- <div class="home-intro">
@@ -35,93 +42,25 @@ endwhile;
 </div> -->
 
 
-<div class="home-content-intro">
-	<div class="container">
-		<div class="row">
-
-			<div class="col-md-12">
-				<div class="container">
-					<div class="content">
-						<img src="/wp-content/uploads/2019/10/50ToWatch_Banner_640X110.jpg" alt style="padding-top:20px; padding-bottom:20px; width:100rem;">
-					</div>
-				</div>
-			</div>
-
-			<div class="col-md-12">
-				<div class="container">
-					<div>
-						<p style="padding-top: 10px;">e-Zn was chosen to be on the 2019 Cleantech 50 to watch list.</p>
-						<p>Cleantech&reg; Group is an international company focused on supporting innovating clean technologies. <a href="https://www.cleantech.com/release/top-companies-delivering-high-impact-solutions-named-in-inaugural-list/">Learn more here.</a></p>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="homecontent col-md-8">
-				<div class="container">
-					<div class="content">
-						<p style="padding-top: 10px;"> We were interviewed by BNN Bloomberg. <a href="https://www.bnnbloomberg.ca/commodities/video/power-shift-zinc-s-advantages-for-battery-storage-over-lithium-ion~1782308">Watch the interview here.</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="homecontent col-md-4">
-				<div class="container">
-					<div class="content">
-						<img src="/wp-content/uploads/2019/10/bnnlogo.png" alt style = "padding-top:20px; padding-bottom:20px;">
-					</div>
-				</div>
-			</div>
-
-			<div class="col-md-8">
-				<div class="container">
-					<div style = "padding-top: 2rem padding-bottom: 2rem">
-						<p style="padding-top: 10px;">e-Zn won the $20,000 grand prize at the <a href="https://canada-isa.org/">Canada Innovative SMEs Association</a> pitch competition.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="container">
-					<div class="content">
-						<img src="/wp-content/uploads/2019/10/canadianisalogo.png" alt style="padding-top:20px; padding-bottom:20px;">
-					</div>
-				</div>
-			</div>
-
-		</div>
+<div class="video-intro">
+	<div class="videoDiv hidden-sm-down">
+		<!-- <video src="/wp-content/uploads/2018/01/video-2018-01-09.mp4" autoplay loop class="videoElement"> -->
+		<video autoplay loop class="videoElement home">
+			<source src="/wp-content/uploads/2018/03/herovidHQslower.mp4" type="video/mp4">
+			<source src="/wp-content/uploads/2018/03/herovidHQslower.webm" type="video/webm">
+		</video>
 	</div>
-</div>
 
-
-
-<div class="homecontent col-md-12">
-	<div class="container">
-		<div class="content">
-
-			<div class="video-intro">
-				<div class="videoDiv hidden-sm-down" style = "height:300px;">
-					<!-- keep this out <video src="/wp-content/uploads/2018/01/video-2018-01-09.mp4" autoplay loop class="videoElement"> -->
-					<video  autoplay loop class="videoElement home" >
-						<source src="/wp-content/uploads/2018/03/herovidHQslower.mp4" type="video/mp4">
-						<source src="/wp-content/uploads/2018/03/herovidHQslower.webm" type="video/webm">
-					</video>
-				</div>
-
-
-			</div>
-			<div class="novaNews" style = "height:100px">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-12 titleIntro">
-							<h1 style = "text-align: center;">Economical Energy Storage</h1>
-						</div>
-					</div>
+	<div class="novaNews">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 titleIntro">
+					<h1 style = "max-width:1100px;">Economical Energy Storage</h1>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-
-
 
 <div class="home-content-intro">
 	<div class="container">
@@ -148,7 +87,61 @@ endwhile;
 	</div>
 </div>
 
+<div class="home-content-intro">
+	<div class="container">
+		<div class="row">
 
+			<div class="col-md-4"  style = "padding-top: 5rem; padding-bottom: 5rem;">
+				<div class="container">
+					<div class="content">
+						<img src="/wp-content/uploads/2019/10/cleantechlogo.jpg" alt style="">
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-8"  style = "padding-top: 5rem; padding-bottom: 5rem;">
+				<div class="container">
+					<div>
+						<p>e-Zn was chosen to be on the 2019 Cleantech 50 to watch list.</p>
+						<p>Cleantech&reg; Group is an international company focused on supporting innovating clean technologies. <a href="https://www.cleantech.com/release/top-companies-delivering-high-impact-solutions-named-in-inaugural-list/">Learn more here.</a></p>
+					</div>
+				</div>
+			</div>
+
+			<div class="homecontent col-md-4"  style = "padding-top: 5rem; padding-bottom: 5rem;">
+				<div class="container">
+					<div class="content">
+						<img src="/wp-content/uploads/2019/10/bnnlogo.png" alt style="padding-left: 10px;padding-right: 10px;">
+					</div>
+				</div>
+			</div>
+			<div class="homecontent col-md-8"  style = "padding-top: 5rem; padding-bottom: 5rem;">
+				<div class="container">
+					<div class="content">
+						<p>Listen to e-Zn explain the benifits of renewable zinc energy. <a href="https://www.bnnbloomberg.ca/commodities/video/power-shift-zinc-s-advantages-for-battery-storage-over-lithium-ion~1782308">Watch the interview here.</a></p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4"  style = "padding-top: 5rem; padding-bottom: 5rem;">
+				<div class="container">
+					<div class="content">
+						<img src="/wp-content/uploads/2019/10/canadianisalogo.png" alt style="width:1000px;">
+					</div>
+				</div>
+			</div>
+			<div class="col-md-8"  style = "padding-top: 5rem; padding-bottom: 5rem;">
+				<div class="container">
+					<div>
+						<p>e-Zn won the $20,000 grand prize at the <a href="https://canada-isa.org/">Canada Innovative SMEs Association</a> pitch competition.</p>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+	</div>
+</div>
 
 <!-- <div class="container home-con">
 	<div class="row">
