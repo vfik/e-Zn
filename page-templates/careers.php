@@ -33,8 +33,19 @@ endwhile;
 		<div class="row">
 			<div class="col-md-12">
 				<div class="careers-across">
+					<h1>There are currently no career opportunities.</h1>
+					<p>However, we’re always looking for talented and ambitious people to join our growing team, so please feel free to submit a CV with a cover letter outlining your areas of interest.</p>
+					<p>Please continue to visit this page for the latest job postings.</p>
+
+
+<!--
+<div class="applications career-one">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="careers-across">
 					<h1>Job Description – Senior Mechanical Design Engineer</h1>
-					
+
 					<h3>About e-Zn</h3>
 					<p>e-Zn is an energy storage startup based in Toronto with a breakthrough technology poised to
 					disrupt the market. As the global energy grid moves to higher levels of penetration of renewable
@@ -46,7 +57,7 @@ endwhile;
 					while also raising its Series A financing to fund its growth. This promising cleantech venture is
 					now looking to expand its talented team to bring its technology to market to support the
 					renewable energy transformation.</p>
-					
+
 					<h3>Opportunity</h3>
 					<p>e-Zn is searching for an exceptionally talented Senior Mechanical Design Engineer to manage all
 					mechanical design and development. This is a rare opportunity that will provide a platform for
@@ -54,7 +65,7 @@ endwhile;
 					contribute meaningfully to its success. The ideal candidate will appreciate this because he or she
 					thrives in an entrepreneurial environment, is intelligent and technically savvy, has a passion for
 					success, and will stop at nothing to ensure we achieve our goals collaboratively and collectively.</p>
-					
+
 					<h3>Accountability</h3>
 					<p>Reporting to the VP Engineering, the Senior Mechanical Design Engineer is responsible for
 					completing production intent design for e-Zn’s energy storage technology and the various parts
@@ -64,7 +75,7 @@ endwhile;
 					dynamic roles in participating or leading specific projects or supervising junior personnel as well
 					as engaging manufacturing partners to make or source parts or components depending on the
 					needs of the company, and in doing so to take on more responsibilities as the business grows.</p>
-					
+
 					<h3>Position scope and responsibilities</h3>
 					<p>• Design and develop mechanical systems to achieve functional requirements, cost targets,
 					and requirements of certification standards.</p>
@@ -86,7 +97,7 @@ endwhile;
 					<p>• Provide timely updates to VP Engineering identifying project risks & issues. Proactively
 					propose solutions and swiftly implement new strategies, initiatives, and measures as
 					requested.</p>
-						
+
 					<h3>Qualifications</h3>
 					<p>• Minimum undergraduate degree in mechanical, mechatronics, or systems design
 					engineering plus 10+ years of work experience in product development, engineering or
@@ -113,7 +124,7 @@ endwhile;
 					measurement is considered an asset.</p>
 					<p>• A self-starter and adaptive learner.</p>
 					<p>• Must be legally eligible to work in Canada.</p>
-					
+
 					<h3>Other Skills</h3>
 					<p>• Passionate about bringing new cleantech energy innovation to market.</p>
 					<p>• Experience in the battery, energy storage or the renewable power industry is considered an
@@ -123,7 +134,7 @@ endwhile;
 					<p>• Exceptional communications skills – oral, written, and presentation skills.</p>
 					<p>• High level of maturity, integrity and personal effectiveness.</p>
 					<p>• Personal accountability and commitment to achieving and exceeding goals and objectives.</p>
-					
+
 					<h3>Contact</h3>
 					<p>Please apply via this same job posting on the INDEED Job Portal at the following link:</p>
 					<p><a href="https://www.indeedjobs.com/e-zn/_hl/en_CA?cpref=JXWAtnzf3XWjLOi4YeVNLs_1WAXHb5RLmKt2Zk5tpxs">https://www.indeedjobs.com/e-zn/_hl/en_CA?cpref=JXWAtnzf3XWjLOi4YeVNLs_1WAXHb5RLmKt2Zk5tpxs</a></p>
@@ -134,6 +145,7 @@ endwhile;
 		</div>
 	</div>
 </div>
+-->
 
 <!-- <div class="applications career-two">
 	<div class="container">
